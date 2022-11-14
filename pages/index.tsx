@@ -4,7 +4,14 @@ import styles from '../styles/Home.module.css'
 import { numbers } from './numbers'
 import React from 'react'
 
-const Overlay = ({ item, visible, setVisible }) => {
+const Overlay = ({ item, visible, setVisible }: {
+  item: {
+    number: string;
+    title: string;
+    text: string;
+    uri: string;
+  }, visible: boolean, setVisible: (value: boolean) => void
+}) => {
   if (!visible) {
     return null
   }
