@@ -1,9 +1,9 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import { numbers } from './numbers'
 import React from 'react'
-import { CalendarItem } from './CalendarItem'
+import { CalendarItem } from '../components/CalendarItem'
+import { numbers } from '../components/numbers'
 
 export default function Home() {
 
