@@ -23,12 +23,23 @@ export const CalendarItem = ({ item }: {
         }
     };
 
+    const [windowWidth, setWindowWidth] = React.useState(0);
+    React.useEffect(() => {
+        const width = window.innerWidth
+        setWindowWidth(width)
+    }, [])
+
+
     //let opened: string[] =   window?.localStorage["opened"] && JSON.parse(window?.localStorage["opened"])
     const backgroundColor = Number(item.number) <= new Date().getDate() ? "rgba(0,0,0,0.9)" : "rgba(0,0,0,0.3)";
     return <>
         <div onClick={onPressItem} style={{
-            width: 70,
-            height: 70,
+            minWidth: 70,
+            minHeight: 70,
+            maxHeight: 100,
+            maxWidth: 100,
+            width: windowWidth > 415 ? 100 : 70,
+            height: windowWidth > 415 ? 100 : 70,
             margin: 6,
             display: "flex",
             alignItems: "center",
