@@ -22,7 +22,7 @@ export default function Home() {
           backgroundSize: "cover",
           opacity: 0.8
         }}>
-          <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", maxWidth: 500 }}>
+          <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", justifyContent: "space-between", maxWidth: 500 }}>
             {numbers.map((item) => {
               return <CalendarItem key={item.number} item={item} />
             })}
