@@ -5,6 +5,8 @@ import React from 'react'
 import { CalendarItem } from '../components/CalendarItem'
 import { numbers } from '../components/numbers'
 
+import Background from "../images/01.jpg"
+
 export default function Home() {
 
   return (
@@ -15,10 +17,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", maxWidth: 500 }}>
-          {numbers.map((item) => {
-            return <CalendarItem key={item.number} item={item} />
-          })}
+        <div style={{
+          backgroundImage: "url(https://image.jimcdn.com/app/cms/image/transf/dimension=1008x10000:format=jpg/path/sfb26f3d4a5091d4b/image/i896d5852974effc1/version/1667127594/kaffee-shop.jpg)",
+          backgroundSize: "cover",
+          opacity: 0.8
+        }}>
+          <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", maxWidth: 500 }}>
+            {numbers.map((item) => {
+              return <CalendarItem key={item.number} item={item} />
+            })}
+          </div>
         </div>
       </main>
     </div>

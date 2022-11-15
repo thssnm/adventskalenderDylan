@@ -1,6 +1,6 @@
 export const numbers = [
-    { number: "17", title: "title", text: "text", uri: "" }, 
-    { number: "1", title: "title", text: "text", uri: "" }, 
+    { number: "17", title: "title", text: "", uri: "" }, 
+    { number: "1", title: "Adventskalender 2022", text: "Gemahlene Kalender machen wir frisch in der letzten Novemberwoche, bitte schreiben Sie diesen Wunsch in die Bestellung mit hinein.", uri: "" }, 
     { number: "2", title: "title", text: "text", uri: "" }, 
     { number: "3", title: "title", text: "text", uri: "" }, 
     { number: "4", title: "title", text: "text", uri: "" }, 

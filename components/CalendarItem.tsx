@@ -24,7 +24,7 @@ export const CalendarItem = ({ item }: {
     };
 
     //let opened: string[] =   window?.localStorage["opened"] && JSON.parse(window?.localStorage["opened"])
-    const style = Number(item.number) <= new Date().getDate() ? "green" : "red";
+    const style = Number(item.number) <= new Date().getDate() ? "rgba(0,0,0,0.5)" : "rgba(0,0,0,0.9)";
     return <>
         <div onClick={onPressItem} style={{
             width: 100,
