@@ -23,7 +23,7 @@ export const Overlay = ({ item, visible, setVisible }: {
         alignItems: "center"
     }}
     >
-        <div style={{ width: 300, height: 300, backgroundColor: "white", borderRadius: 12, padding: 12, overflowY: "scroll" }}>
+        <div style={{ width: "60%", height: "50%", backgroundColor: "white", borderRadius: 12, padding: 12, overflowY: "scroll" }}>
             <h2 style={{ color: "black" }}>{item.number + ". " + item.title}</h2>
             <p style={{ color: "black" }}>{item.text}</p>
         </div>

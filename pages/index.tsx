@@ -4,8 +4,8 @@ import styles from '../styles/Home.module.css'
 import React from 'react'
 import { CalendarItem } from '../components/CalendarItem'
 import { numbers } from '../components/numbers'
-
 import Background from "../images/01.jpg"
+
 
 export default function Home() {
 
@@ -22,7 +22,8 @@ export default function Home() {
           backgroundSize: "cover",
           opacity: 0.8
         }}>
-          <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", justifyContent: "space-between", maxWidth: 500 }}>
+          {/* <Snowfall /> */}
+          <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", justifyContent: "space-between", maxWidth: 500, minWidth: 390 }}>
             {numbers.map((item) => {
               return <CalendarItem key={item.number} item={item} />
             })}
