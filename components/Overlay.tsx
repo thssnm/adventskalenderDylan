@@ -23,9 +23,9 @@ export const Overlay = ({ item, visible, setVisible }: {
         alignItems: "center"
     }}
     >
-        <div style={{ width: "60%", height: "50%", backgroundColor: "white", borderRadius: 12, padding: 12, overflowY: "scroll" }}>
-            <h2 style={{ color: "black" }}>{item.number + ". " + item.title}</h2>
-            <p style={{ color: "black" }}>{item.text}</p>
+        <div style={{ width: "80%", height: "40%", backgroundColor: "#828282", borderRadius: 12, padding: 24, overflowY: "scroll", borderColor: "white", borderWidth: 22 }}>
+            <h2 style={{ color: "white", fontFamily: "sans-serif" }}>{item.number + ". " + item.title}</h2>
+            <p style={{ color: "white", fontFamily: "sans-serif" }}>{item.text}</p>
         </div>
     </div>;
 };

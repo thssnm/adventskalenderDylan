@@ -15,6 +15,7 @@ export const CalendarItem = ({ item }: {
 
     //window.localStorage() bitmaske
     const [visible, setVisible] = React.useState(false);
+    const [backgroundColor, setBackgroundColor] = React.useState("rgba(0,0,0,0.3)")
     /*   let opened: string[] = undefined
       if (typeof window !== "undefined") {
         opened = JSON.parse(window?.localStorage["opened"])
@@ -32,13 +33,18 @@ export const CalendarItem = ({ item }: {
         setWindowWidth(width)
     }, [])
 
+    React.useEffect(() => {
+        if (Number(item.number) <= new Date().getDate()) {
+            setBackgroundColor("rgba(0,0,0,0.9)")
+        }
+    }, [item.number])
+
 
     //let opened: string[] =   window?.localStorage["opened"] && JSON.parse(window?.localStorage["opened"])
-    const backgroundColor = Number(item.number) <= new Date().getDate() ? "rgba(0,0,0,0.9)" : "rgba(0,0,0,0.3)";
     return <>
         <div onClick={onPressItem} style={{
-            minWidth: 70,
-            minHeight: 70,
+            minWidth: 60,
+            minHeight: 60,
             maxHeight: 100,
             maxWidth: 100,
             width: windowWidth > 415 ? 100 : 70,

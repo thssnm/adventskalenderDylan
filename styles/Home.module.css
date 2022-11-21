@@ -154,7 +154,9 @@
   }
 }
 
-
+.overlay {
+  background: linear-gradient(180deg, rgba(36,36,36,1) 0%, rgba(109,109,125,1) 85%, rgba(91,91,91,1) 100%)
+}
 
 
 .Snowflake {
