@@ -21,7 +21,8 @@ export const CalendarItem = ({ item }: {
         opened = JSON.parse(window?.localStorage["opened"])
       } */
     const onPressItem = () => {
-        if (Number(item.number) <= new Date().getDate()) {
+        //if (Number(item.number) <= new Date().getDate()) {
+        if (Number(item.number) <= 17) {
             setVisible(!visible);
             //window.localStorage["opened"] = JSON.stringify([...JSON.parse(window.localStorage["opened"] || "[]"), item.number])
         }
@@ -34,7 +35,8 @@ export const CalendarItem = ({ item }: {
     }, [])
 
     React.useEffect(() => {
-        if (Number(item.number) <= new Date().getDate()) {
+        //if (Number(item.number) <= new Date().getDate()) {
+        if (Number(item.number) <= 17) {
             setBackgroundColor("rgba(172, 246, 200, 0.5)")
         }
     }, [item.number])

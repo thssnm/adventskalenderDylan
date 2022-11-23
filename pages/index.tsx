@@ -2,13 +2,27 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import React from 'react'
+import react from 'react'
 import { CalendarItem } from '../components/CalendarItem'
 import { numbers } from '../components/numbers'
 import Background from "../images/01.jpg"
+import Snowfall from 'react-snowfall'
 
 
 export default function Home() {
 
+  /*   const shuffleArray = (array) => {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        const temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+      }
+      return array
+    }
+  
+    const test = shuffleArray(numbers)
+   */
   return (
     <div className={styles.container}>
       <Head>
@@ -17,12 +31,22 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
+        <Snowfall />
+        {/*  <div style={{
+          flex: 1,
+          flexDirection: "row",
+          width: "wp('50%')",
+          textAlign: "left",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center"
+
+        }}><p>Dylan</p><p> & </p><p>Harper</p></div> */}
         <div style={{
           backgroundImage: "url(https://image.jimcdn.com/app/cms/image/transf/dimension=1008x10000:format=jpg/path/sfb26f3d4a5091d4b/image/i896d5852974effc1/version/1667127594/kaffee-shop.jpg)",
           backgroundSize: "cover",
           opacity: 0.8
         }}>
-          {/* <Snowfall /> */}
           <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", justifyContent: "space-between", maxWidth: 500, minWidth: 390 }}>
             {numbers.map((item) => {
               return <CalendarItem key={item.number} item={item} />
