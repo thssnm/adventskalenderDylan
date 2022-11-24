@@ -45,8 +45,8 @@ export const CalendarItem = ({ item }: {
     //let opened: string[] =   window?.localStorage["opened"] && JSON.parse(window?.localStorage["opened"])
     return <>
         <div onClick={onPressItem} style={{
-            minWidth: 60,
-            minHeight: 60,
+            minWidth: 50,
+            minHeight: 50,
             maxHeight: 100,
             maxWidth: 100,
             width: windowWidth > 415 ? 100 : 70,

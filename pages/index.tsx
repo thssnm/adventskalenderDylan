@@ -45,9 +45,10 @@ export default function Home() {
         <div style={{
           backgroundImage: "url(https://image.jimcdn.com/app/cms/image/transf/dimension=1008x10000:format=jpg/path/sfb26f3d4a5091d4b/image/i896d5852974effc1/version/1667127594/kaffee-shop.jpg)",
           backgroundSize: "cover",
-          opacity: 0.8
+          opacity: 0.8,
+          borderRadius: 12,
         }}>
-          <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", justifyContent: "space-between", maxWidth: 500, minWidth: 390 }}>
+          <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", justifyContent: "space-between", maxWidth: 500, minWidth: 400 }}>
             {numbers.map((item) => {
               return <CalendarItem key={item.number} item={item} />
             })}
