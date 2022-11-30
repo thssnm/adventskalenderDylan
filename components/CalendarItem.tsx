@@ -48,6 +48,8 @@ export const CalendarItem = ({ item, count }: {
         borderWidth: 2,
     }
 
+    console.log("width:", windowWidth)
+
 
     return <>
         <div onClick={onPressItem} style={{
@@ -55,8 +57,8 @@ export const CalendarItem = ({ item, count }: {
             minHeight: 50,
             maxHeight: 100,
             maxWidth: 100,
-            width: windowWidth > 430 ? 100 : 70,
-            height: windowWidth > 430 ? 100 : 70,
+            width: windowWidth > 450 ? 80 : windowWidth > 500 ? 100 : 70,
+            height: windowWidth > 450 ? 80 : windowWidth > 500 ? 100 : 70,
             margin: 6,
             display: "flex",
             alignItems: "center",

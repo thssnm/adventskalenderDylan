@@ -72,7 +72,7 @@ export default function Home() {
           opacity: 0.8,
           borderRadius: 12,
         }}>
-          <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", justifyContent: "space-between", maxWidth: 500, minWidth: 400 }}>
+          <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", justifyContent: "space-between", maxWidth: 450, minWidth: 400 }}>
             {numbers.map((item) => {
               return <CalendarItem key={item.number} item={item} count={count} />
             })}
