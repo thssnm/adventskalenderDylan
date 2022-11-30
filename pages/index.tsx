@@ -24,7 +24,7 @@ export default function Home() {
           alignItems: "center",
           fontFamily: 'Libre Baskerville',
           fontSize: "2em",
-          marginTop: -250
+          marginTop: -200
         }}>
           <p >Dylan</p>
           <p onClick={() => setCount(count + 1)} style={{ fontStyle: 'italic' }} >&nbsp;&&nbsp;</p>
