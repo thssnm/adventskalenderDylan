@@ -43,7 +43,7 @@ export default function Home() {
     }, []); */
 
 
-
+  const [count, setCount] = React.useState(0)
 
   return (
     <div className={styles.container}>
@@ -54,6 +54,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <Snowfall />
+        {count > 19 && <p>god mode activated!</p>}
         <div style={{
           display: "flex",
           justifyContent: "space-between",
@@ -62,7 +63,7 @@ export default function Home() {
           fontSize: "2em"
         }}>
           <p >Dylan</p>
-          <p style={{ fontStyle: 'italic' }} >&nbsp;&&nbsp;</p>
+          <p onClick={() => setCount(count + 1)} style={{ fontStyle: 'italic' }} >&nbsp;&&nbsp;</p>
           <p >Harper</p>
         </div>
         <div style={{
@@ -73,7 +74,7 @@ export default function Home() {
         }}>
           <div style={{ flexDirection: "row", display: "flex", flexWrap: "wrap", justifyContent: "space-between", maxWidth: 500, minWidth: 400 }}>
             {numbers.map((item) => {
-              return <CalendarItem key={item.number} item={item} />
+              return <CalendarItem key={item.number} item={item} count={count} />
             })}
           </div>
         </div>

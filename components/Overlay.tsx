@@ -14,7 +14,7 @@ export const Overlay = ({ item, visible, setVisible }: {
     return <div onClick={() => setVisible(false)} style={{
         backgroundColor: "rgba(0,0,0,0.8)",
         position: "absolute",
-        top: 0,
+        top: 150,
         left: 0,
         right: 0,
         bottom: 0,
@@ -23,7 +23,7 @@ export const Overlay = ({ item, visible, setVisible }: {
         alignItems: "center"
     }}
     >
-        <div style={{ width: "80%", height: "40%", backgroundColor: "#828282", borderRadius: 12, padding: 24, overflowY: "scroll", borderColor: "white", borderWidth: 22 }}>
+        <div style={{ width: "80%", height: "70%", backgroundColor: "#828282", borderRadius: 12, padding: 24, overflowY: "scroll", borderColor: "white", borderWidth: 22 }}>
             <h2 style={{ color: "white", fontFamily: "sans-serif" }}>{item.number}</h2>
             {/*  <div style={{ color: "white", fontFamily: "sans-serif" }}>{item.text}</div> */}
             <div dangerouslySetInnerHTML={{ __html: item.text }} />

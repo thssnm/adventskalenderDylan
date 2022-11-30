@@ -2,13 +2,13 @@ import React from 'react';
 import { Overlay } from './Overlay';
 
 
-export const CalendarItem = ({ item }: {
+export const CalendarItem = ({ item, count }: {
     item: {
         number: string;
         title: string;
         text: string;
         uri: string;
-    };
+    }, count: number
 }) => {
 
     //window.localStorage() bitmaske
@@ -16,8 +16,8 @@ export const CalendarItem = ({ item }: {
     const [backgroundColor, setBackgroundColor] = React.useState("rgba(217, 30, 24,0.5)")
 
 
-    //const isActive = Number(item.number) <= new Date().getDate() && new Date().getMonth() === 10
-    const isActive = Number(item.number) <= 17
+    const isActive = (Number(item.number) <= new Date().getDate() && new Date().getMonth() === 11) || count > 19
+    //const isActive = Number(item.number) <= 17 || count > 19
 
     const onPressItem = () => {
         if (isActive) {
