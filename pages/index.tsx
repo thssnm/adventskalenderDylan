@@ -7,6 +7,7 @@ import { CalendarItem } from '../components/CalendarItem'
 import { numbers } from '../components/numbers'
 import Background from "../images/01.jpg"
 import Snowfall from 'react-snowfall'
+import WebFont from "webfontloader"
 
 
 export default function Home() {
@@ -23,6 +24,28 @@ export default function Home() {
   
     const test = shuffleArray(numbers)
    */
+  /*   React.useEffect(() => {
+      WebFont.load({
+        google: {
+          families: ['Libre Baskerville']
+        }
+      });
+    }, []); */
+
+  /*   React.useEffect(() => {
+      (async () => {
+        const WebFont = await import('webfontloader');
+        WebFont.load({
+          custom: {
+            families: ['BlackHanSans', 'BMEuljiro10yearslater', 'Cafe24Danjunghae', 'DOSMyungjo', 'HandLetter'],
+          },
+        });
+      })();
+    }, []); */
+
+
+
+
   return (
     <div className={styles.container}>
       <Head>
@@ -32,16 +55,17 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <Snowfall />
-        {/*  <div style={{
-          flex: 1,
-          flexDirection: "row",
-          width: "wp('50%')",
-          textAlign: "left",
+        <div style={{
           display: "flex",
           justifyContent: "space-between",
-          alignItems: "center"
-
-        }}><p>Dylan</p><p> & </p><p>Harper</p></div> */}
+          alignItems: "center",
+          fontFamily: 'Libre Baskerville',
+          fontSize: "2em"
+        }}>
+          <p >Dylan</p>
+          <p style={{ fontStyle: 'italic' }} >&nbsp;&&nbsp;</p>
+          <p >Harper</p>
+        </div>
         <div style={{
           backgroundImage: "url(https://image.jimcdn.com/app/cms/image/transf/dimension=1008x10000:format=jpg/path/sfb26f3d4a5091d4b/image/i896d5852974effc1/version/1667127594/kaffee-shop.jpg)",
           backgroundSize: "cover",

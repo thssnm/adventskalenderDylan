@@ -1,7 +1,5 @@
 import React from 'react';
 import { Overlay } from './Overlay';
-import styles from "../styles/Home.module.css"
-import useWebAnimations from "@wellyshen/use-web-animations";
 
 
 export const CalendarItem = ({ item }: {
@@ -16,15 +14,14 @@ export const CalendarItem = ({ item }: {
     //window.localStorage() bitmaske
     const [visible, setVisible] = React.useState(false);
     const [backgroundColor, setBackgroundColor] = React.useState("rgba(217, 30, 24,0.5)")
-    /*   let opened: string[] = undefined
-      if (typeof window !== "undefined") {
-        opened = JSON.parse(window?.localStorage["opened"])
-      } */
+
+
+    //const isActive = Number(item.number) <= new Date().getDate() && new Date().getMonth() === 10
+    const isActive = Number(item.number) <= 17
+
     const onPressItem = () => {
-        //if (Number(item.number) <= new Date().getDate()) {
-        if (Number(item.number) <= 17) {
+        if (isActive) {
             setVisible(!visible);
-            //window.localStorage["opened"] = JSON.stringify([...JSON.parse(window.localStorage["opened"] || "[]"), item.number])
         }
     };
 
@@ -34,15 +31,24 @@ export const CalendarItem = ({ item }: {
         setWindowWidth(width)
     }, [])
 
+
     React.useEffect(() => {
-        //if (Number(item.number) <= new Date().getDate()) {
-        if (Number(item.number) <= 17) {
+        if (isActive) {
             setBackgroundColor("rgba(172, 246, 200, 0.5)")
+        } else {
+            setBackgroundColor("rgba(217, 30, 24,0.5)")
         }
-    }, [item.number])
+    }, [isActive, item.number])
+
+    const highlightedNumbers = ["4", "12", "20"]
+
+    const borderStyle = highlightedNumbers.includes(item.number) && {
+        borderColor: "lightgray",
+        borderStyle: "solid",
+        borderWidth: 2,
+    }
 
 
-    //let opened: string[] =   window?.localStorage["opened"] && JSON.parse(window?.localStorage["opened"])
     return <>
         <div onClick={onPressItem} style={{
             minWidth: 50,
@@ -57,10 +63,10 @@ export const CalendarItem = ({ item }: {
             backgroundColor,
             justifyContent: "center",
             borderRadius: 12,
+            ...borderStyle
         }}>
             <h2>{item.number}</h2>
         </div>
-        {/* <Snowfall /> */}
         <Overlay visible={visible} item={item} setVisible={setVisible} />
     </>;
 };
