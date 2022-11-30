@@ -48,9 +48,6 @@ export const CalendarItem = ({ item, count }: {
         borderWidth: 2,
     }
 
-    console.log("width:", windowWidth)
-
-
     return <>
         <div onClick={onPressItem} style={{
             minWidth: 50,
@@ -65,6 +62,7 @@ export const CalendarItem = ({ item, count }: {
             backgroundColor,
             justifyContent: "center",
             borderRadius: 12,
+            cursor: "pointer",
             ...borderStyle
         }}>
             <h2>{item.number}</h2>
