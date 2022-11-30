@@ -17,13 +17,14 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <Snowfall />
-        {count > 9 && <p>god mode activated!</p>}
+        {count > 9 && <p style={{position: "absolute", top: 0}}>god mode activated!</p>}
         <div style={{
           display: "flex",
           justifyContent: "space-between",
           alignItems: "center",
           fontFamily: 'Libre Baskerville',
-          fontSize: "2em"
+          fontSize: "2em",
+          marginTop: -250
         }}>
           <p >Dylan</p>
           <p onClick={() => setCount(count + 1)} style={{ fontStyle: 'italic' }} >&nbsp;&&nbsp;</p>

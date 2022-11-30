@@ -14,7 +14,7 @@ export const Overlay = ({ item, visible, setVisible }: {
     return <div onClick={() => setVisible(false)} style={{
         backgroundColor: "rgba(0,0,0,0.8)",
         position: "absolute",
-        top: 150,
+        top: 50,
         left: 0,
         right: 0,
         bottom: 0,
