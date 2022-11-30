@@ -16,7 +16,7 @@ export const CalendarItem = ({ item, count }: {
     const [backgroundColor, setBackgroundColor] = React.useState("rgba(217, 30, 24,0.5)")
 
 
-    const isActive = (Number(item.number) <= new Date().getDate() && new Date().getMonth() === 11) || count > 19
+    const isActive = (Number(item.number) <= new Date().getDate() && new Date().getMonth() === 11) || count > 9
     //const isActive = Number(item.number) <= 17 || count > 19
 
     const onPressItem = () => {

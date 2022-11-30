@@ -54,7 +54,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <Snowfall />
-        {count > 19 && <p>god mode activated!</p>}
+        {count > 9 && <p>god mode activated!</p>}
         <div style={{
           display: "flex",
           justifyContent: "space-between",
