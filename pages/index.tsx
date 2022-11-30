@@ -7,7 +7,6 @@ import { CalendarItem } from '../components/CalendarItem'
 import { numbers } from '../components/numbers'
 import Background from "../images/01.jpg"
 import Snowfall from 'react-snowfall'
-import WebFont from "webfontloader"
 
 
 export default function Home() {
