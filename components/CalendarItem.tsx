@@ -48,8 +48,10 @@ export const CalendarItem = ({ item, count }: {
         borderWidth: 2,
     }
 
+    const pointerEvents = isActive ? "auto" : "none"
+
     return <>
-        <div onClick={onPressItem} style={{
+        <div  onClick={onPressItem} style={{
             minWidth: 50,
             minHeight: 50,
             maxHeight: 100,
@@ -63,6 +65,7 @@ export const CalendarItem = ({ item, count }: {
             justifyContent: "center",
             borderRadius: 12,
             cursor: "pointer",
+            pointerEvents,
             ...borderStyle
         }}>
             <h2>{item.number}</h2>
