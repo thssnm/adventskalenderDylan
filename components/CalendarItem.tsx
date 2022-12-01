@@ -70,7 +70,7 @@ export const CalendarItem = ({ item, count }: {
             pointerEvents,
             ...borderStyle
         }}>
-            <h2>{item.number}</h2>
+            <h2 style={{ color: "white" }}>{item.number}</h2>
         </div>
         <Overlay visible={visible} item={item} setVisible={setVisible} />
     </>;
