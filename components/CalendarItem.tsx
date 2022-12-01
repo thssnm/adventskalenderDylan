@@ -14,7 +14,7 @@ export const CalendarItem = ({ item, count }: {
     //window.localStorage() bitmaske
     const [visible, setVisible] = React.useState(false);
     const [backgroundColor, setBackgroundColor] = React.useState("rgba(217, 30, 24,0.5)")
-    const [pointerEvents, setPointerEvents] = React.useState("none")
+    const [pointerEvents, setPointerEvents] = React.useState<"auto" | "none" | "visiblePainted" | "visibleFill" | "visibleStroke" | "visible" | "painted" | "fill" | "stroke" | "all" | "inherit">("none")
 
 
     const isActive = (Number(item.number) <= new Date().getDate() && new Date().getMonth() === 11) || count > 9
@@ -67,7 +67,7 @@ export const CalendarItem = ({ item, count }: {
             justifyContent: "center",
             borderRadius: 12,
             cursor: "pointer",
-            pointerEvents: pointerEvents,
+            pointerEvents,
             ...borderStyle
         }}>
             <h2>{item.number}</h2>
