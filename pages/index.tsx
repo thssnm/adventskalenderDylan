@@ -14,7 +14,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <style>
-          @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+          @import url(https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap);
         </style>
 
         <title> Adventskalender Dylan & Harper</title>
