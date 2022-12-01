@@ -35,10 +35,10 @@ export const CalendarItem = ({ item, count }: {
 
     React.useEffect(() => {
         if (isActive) {
-            setBackgroundColor("rgba(172, 246, 200, 0.5)")
+            setBackgroundColor("rgba(172, 246, 200, 0.7)")
             setPointerEvents("auto")
         } else {
-            setBackgroundColor("rgba(217, 30, 24,0.5)")
+            setBackgroundColor("rgba(217, 30, 24,0.7)")
             setPointerEvents("none")
         }
     }, [isActive, item.number])
