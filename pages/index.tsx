@@ -13,11 +13,15 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
+        <style>
+          @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+        </style>
+
         <title> Adventskalender Dylan & Harper</title>
       </Head>
       <main className={styles.main}>
         <Snowfall />
-        {count > 9 && <p style={{position: "absolute", top: 0}}>god mode activated!</p>}
+        {count > 9 && <p style={{ position: "absolute", top: 0 }}>god mode activated!</p>}
         <div style={{
           display: "flex",
           justifyContent: "space-between",
