@@ -48,7 +48,7 @@ export const CalendarItem = ({ item, count }: {
     const borderStyle = highlightedNumbers.includes(item.number) && {
         borderColor: "white",
         borderStyle: "solid",
-        borderWidth: 3,
+        borderWidth: 2,
     }
 
 
