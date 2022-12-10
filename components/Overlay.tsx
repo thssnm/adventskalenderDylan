@@ -25,7 +25,7 @@ export const Overlay = ({ item, visible, setVisible }: {
     >
         <div style={{ width: "80%", height: "70%", maxHeight: 500, backgroundColor: "#828282cd", borderRadius: 12, padding: 24, overflowY: "scroll", borderColor: "white", borderWidth: 22 }}>
             <h2 style={{ color: "white" }}>{item.number}</h2>
-            <div style={{ color: "white" }} dangerouslySetInnerHTML={{ __html: item.text }} />
+            {item.text === "text" ? <div style={{ textDecoration: "underline", cursor: "pointer" }} onClick={() => window.location.reload()}>Dieser Text ist noch nicht verfuegbar. Klicke hier um die Seite neu zu laden.</div> : <div style={{ color: "white" }} dangerouslySetInnerHTML={{ __html: item.text }} />}
         </div>
     </div>;
 };
