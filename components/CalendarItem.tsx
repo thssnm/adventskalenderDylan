@@ -17,7 +17,7 @@ export const CalendarItem = ({ item, count }: {
     const [pointerEvents, setPointerEvents] = React.useState<"auto" | "none" | "visiblePainted" | "visibleFill" | "visibleStroke" | "visible" | "painted" | "fill" | "stroke" | "all" | "inherit">("none")
 
 
-    const isActive = (Number(item.number) <= new Date().getDate() && new Date().getMonth() === 11) || count > 9
+    const isActive = true //(Number(item.number) <= new Date().getDate() && new Date().getMonth() === 11) || count > 9
     //const isActive = Number(item.number) <= 17 || count > 19
 
     const onPressItem = () => {
