@@ -43,7 +43,7 @@ export const CalendarItem = ({ item, count }: {
         }
     }, [isActive, item.number])
 
-    const highlightedNumbers = ["4", "5", "6", "7", "18", "22", "23", "24"]
+    const highlightedNumbers = [""] // ["4", "5", "6", "7", "18", "22", "23", "24"]
 
     const borderStyle = highlightedNumbers.includes(item.number) && {
         borderColor: "lightgray",
