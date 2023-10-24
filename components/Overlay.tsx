@@ -5,7 +5,6 @@ export const Overlay = ({ item, visible, setVisible }: {
         number: string;
         title: string;
         text: string;
-        uri: string;
     }; visible: boolean; setVisible: (value: boolean) => void;
 }) => {
     if (!visible) {

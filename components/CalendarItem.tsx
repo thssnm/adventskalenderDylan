@@ -7,7 +7,6 @@ export const CalendarItem = ({ item, count }: {
         number: string;
         title: string;
         text: string;
-        uri: string;
     }, count: number
 }) => {
 
