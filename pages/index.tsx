@@ -36,7 +36,7 @@ export default function Home() {
           <p onClick={() => setCount(count + 1)} style={{ fontStyle: 'italic' }} >&nbsp;&&nbsp;</p>
           <p >Harper</p>
         </div>
-        <p style={{ fontFamily: "Libre Baskerville", fontSize: "1.2em", marginTop: -24, color: "white" }}>Adventskalender 2022</p>
+        <p style={{ fontFamily: "Libre Baskerville", fontSize: "1.2em", marginTop: -24, color: "white" }}>Adventskalender 2023</p>
         <div style={{
           backgroundImage: "url(https://image.jimcdn.com/app/cms/image/transf/dimension=1008x10000:format=jpg/path/sfb26f3d4a5091d4b/image/i896d5852974effc1/version/1667127594/kaffee-shop.jpg)",
           backgroundSize: "cover",
