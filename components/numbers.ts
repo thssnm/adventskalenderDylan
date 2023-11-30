@@ -4,7 +4,7 @@ export const numbers = [
   {
     number: "1",
     title: "title",
-    text: "",
+    text: "test",
   },
   { number: "9", title: "title", text: "" },
   { number: "17", title: "title", text: "" },
