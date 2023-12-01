@@ -32,13 +32,58 @@ Da Java ursprünglich ein Äthiopier ist, der einige Jahrzehnte auf der Insel Ja
   { number: "8", title: "title", text: "" },
   { number: "6", title: "title", text: "" },
   { number: "18", title: "title", text: "" },
-  { number: "2", title: "title", text: "" },
+  {
+    number: "2",
+    title: "title",
+    text: `Heute erwartet euch Kaffee von gestern *lach*<BR>
+Unser Java als Medium Roast ist ein gewaschener Äthiopier aus Mexiko und bietet sich für beide Brühkonzepte an. Sowohl mit maschinellem Druck aus der Siebträger oder Vollautomaten überrascht uns ein fruchtiger Espresso mit würzigen Aromen und mittlerem Körper am kalten Samstagmorgen, als auch handgebrüht als Filterkaffee, wo er vermutlich eher hingehört.<BR>
+Während es gestern 60:40 zu Gunsten der Espressonisten war, dürfte heute das Heimspiel mehr auf der Filterseite liegen.<BR><BR>
+Nach dem letztjährigen Exkurs in zwei Adventskalender Versionen, musste ich in diesem Jahr nicht lange überlegen, ob es wieder zwei oder eine Omni-Ausgabe des Kalenders geben wird und mich für letzteres entschieden.
+Nach zehn Jahren als Kaffeeröster lernt man den Rohkaffees zuzuhören. Sobald man den Sack einer frischen Ernte öffnet, kann man heraus riechen wohin die Reise gehen könnte.<BR>
+Selbstverständlich gesellen sich dazu noch die unzähligen Infos, die wir im Rahmen des direkten Handels mit unseren Kaffeebauern erhalten, hinzu.<BR>
+Dieser genetische Äthiopier, den ich bei der Ernte-Vorverkostung unserer mexikanischen Farm erschmeckt habe, ist bei uns das gesamte Jahr über sogar in drei Röstungen erhältlich. Ich könnte mich nie nur für eine entscheiden, weil der Werdegang des Kaffees so vielfältig und somit auch meine Interpretationsmöglichkeit als Röster ist.
+Für den Kalender habe ich die „Dark" Variante etwas mehr Richtung Medium gezogen und dafür die heutige „Medium" Röstung etwas heller gemacht. So spielen wir praktisch genau zwischen den drei Röstungen Light-Medium-Dark.<BR><BR>
+Nachweislich stammt die Varietät Java aus der Gesha-Region, es ist also nicht verwunderlich, dass florale Noten in allen Röstungen zu finden sind. Die Zeit, die der Kaffee auf der Insel Java verbracht hat, wird auch ihren Einfluss gehabt haben und war namensgebend für diesen Arabica, der zur Familie der „Tipica" gehört.<BR>
+Verwechselt diesen Kaffee bitte nicht mit Kaffees anderer Röstereien, die durchschnittlichen Mischmasch aus Indonesien kaufen und es „Java" aufgrund der Herkunft nennen.<BR>
+Nicht nur, dass es die größte Ernte ist, die ich bislang exklusiv erworben habe, es ist wie so oft bei den Kaffees, die ich auswähle, eine Geschichte, bei der man weit ausholen muss.<BR>
+Es gibt heute nicht mehr viele reine Tipicas, da diese alten Linien mit dem Klimawandel und daraus resultierenden Umständen Schwierigkeiten haben und Jahr für Jahr höhere Ernteverluste aufweisen.<BR>
+Die Varietät Java wurde zum ersten Mal 2015 in Panama auf dem südamerikanischen Kontinent präsentiert. Mittlerweile platzieren sich Java-Ernten in den Cup of Excellence Turnieren Zentralamerikas in den Top10, auch vor Geshas.
+Je mehr wir in die Geschichte des Javas hineingeforscht haben - florales Aromenprofil, Panama Indikator, Herkunft - umso klarer zeichnete sich das Bild ab:<BR>
+Vermutlich wird die Varietät Java, bis zu dem Zeitpunkt wenn der globale Markt es realisiert und vermehrt hochwertige Kaffeebauern sich dieser Pflanze annehmen, der bezahlbare Gesha sein.<BR>
+Neben dem besonderen Geschmacksprofil aufgrund äthiopischer Genetik, welches mein Sortiment sehr gut ergänzt, habe ich mir sicherlich auch aus dem Grund diese Parzelle vor anderen Kaffeeröstern gesichert und baue nun auf den jungen Pflanzen auf.<BR><BR>
+Beim Schreiben trinke ich gerade einen v60 des Java Medium: 17,5g mit 250ml in knapp 3min und erfreue mich der floralen Beerenaromen. Es ist noch etwas grünlich und herb, weil die Pflanzen noch so jung waren.<BR><BR>
+Tipp:<BR>
+Für dieses Türchen darf es etwas feiner als gestern sein, weil die Dichte aufgrund der Röstung etwas geringer ist als beim Dark Roast. Außerdem stellt ihr euch so schon mal vom Mahlgrad auf morgen ein😉
+`,
+  },
   { number: "23", title: "title", text: "" },
   { number: "13", title: "title", text: "" },
   { number: "21", title: "title", text: "" },
   { number: "5", title: "title", text: "" },
   { number: "20", title: "title", text: "" },
-  { number: "3", title: "title", text: "" },
+  {
+    number: "3",
+    title: "title",
+    text: `Nun, was kann ich zu einem Kaffee sagen, den die Welt kennt, aber nicht hat?<BR>
+Wir haben es mal wieder geschafft, etwas in die Packung zu bringen, was man sonst nirgends findet...<BR><BR>
+Den Ruhm unserer Kaffees widme ich immer dem Kaffeebauer, weil ich mich nur als Veredler des rohen Produkts sehe.
+Ich habe das Glück, dass die fünf Kaffeebauern, mit denen ich zusammenarbeite, offen und vor allem mutig genug waren, um aus den Grenzen des monotonen industriellen Anbaus auszubrechen und mittlerweile selbst so kreativ sind, dass wir nur noch selten Impulse geben müssen.<BR><BR>
+Der Agaro ist, wie der Java auch, ein genetischer Äthiopier. Diesmal wächst unser Kaffee aber in Indien auf den Badra Estates.<BR>
+Jacob Mammen ist ein sehr erfahrener Bauer, aber auch Unternehmer und befasst sich neben Kaffee auch mit Gewürzen wie Kardamom, Pfeffer, Muskatnuss usw.<BR>
+Wusstet ihr eigentlich, dass momentan kein Kaffeebauer auf dieser Welt nur von Kaffee leben kann?
+Nein, stimmts?! Diese Worte stammen allerdings genau von diesem Kaffeebauer, der ebenfalls im Coffee Board of India ist und nach einigen Jahrzehnten einen recht guten Überblick über die Lage haben dürfte.<BR>
+Sei es jetzt die romantische Vorstellung, die Fairtrade oder das Starbucks Siegel einem vorspielen oder der wirklich reale Fortschritt, den Kooperativen und der direkte Handel ausführen, trotz allen Bemühungen schaffen wir es nicht nur mit Kaffee profitabel zu sein.<BR>
+Selbst auf unseren Farmen nicht, obwohl wir das x-fache von jedem Zertifikat, jeder Vereinigung etc. zahlen.<BR><BR>
+Es ist immer faszinierend, wenn meine ehemalige Mitarbeiterin, Lisa, die mittlerweile auf der Finca Hamburgo in Mexiko wohnt und arbeitet, hier zu Besuch ist und bspw. von neuen Kunden, Kursteilnehmern, Freunden oder wer auch immer gerade da ist, gefragt wird ob es denn stimmen würde, was ich so über unsere Qualität erzähle? Die Antwort erstaunt die meisten, denn selbst auf der Finca Hamburgo wurden nun tausende Macadamiabäume als zweites Standbein gepflanzt und die familienbetriebene Café-Kette hilft mit ihren drei Filialen auch dem zukünftigen Unternehmenserhalt. Der Preis, den wir für die Kaffees wie den Java bspw. zahlen, ist zwar immens, aber am Ende des Tages nur ein Brotkrümel auf dem gesamten Teller.<BR>
+Woran liegt das?<BR>
+Naja es ist leider Realität, dass trotz aller Aufklärung, Elan und Entwicklung der Specialty Coffee Szene, die für wirtschaftlichen Aufschwung im zweitgrößten Markt der Welt sorgt, das Ausmaß dessen noch viel zu klein ist.
+In unseren Barista und Kaffeekursen stelle ich das neuerdings als Pyramide dar:<BR>
+wir haben eine Grundfläche, danach kommt das nächste Level, dann das nächste, das nächste und irgendwann ist man bei der Spitze, diese ist aber verhältnismäßig so klein, dass es fast schon irrelevant scheint.<BR><BR>
+Irrelevant ist unsere Arbeit gewiss nicht, denn vor zwanzig Jahren gab es keine 50 Röstereien in Deutschland. Mittlerweile zählen wir je nach Quelle 1200. Selbstverständlich hat diese Mehrzahl der Adressen einen größeren Einfluss und übt natürlich auch Druck auf die Großen aus. Mittlerweile versuchen auch die großen Marken immer mal wieder einen Kaffee bis zur Farm hinunter zu tracken, es geht also in die richtige Richtung!<BR><BR>
+A propos tracken, wenn man „Agaro" im world wide web sucht, findet man zahlreiche Blogeinträge und vieles über die Varietät in Datenbanken, jedoch keine Bohnen zu kaufen. Der nächste verfügbare Agaro wäre (beim Schreiben dieses Textes) meiner Recherche nach über dem großen Teich bei Onyx Coffee Lab in Arkansas oder einer Adresse in Pennsylvania zu finden. Vermutlich wird auch die eine oder andere europäische Adresse einen gehabt haben, aber woran das genau liegt, kann ich aktuell noch nicht sagen, da auch mich der Agaro erst im Spätsommer erreicht hatte.
+Ich bin froh, wie beim Liberica vor fünf Jahren, erstmal der einzige in Deutschland zu sein und sehr gespannt auf euren Eindruck dieser unfassbar seltenen Varietät als Medium Roast.
+`,
+  },
   { number: "24", title: "title", text: "" },
   { number: "19", title: "title", text: "" },
   { number: "7", title: "title", text: "" },
