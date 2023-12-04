@@ -88,7 +88,29 @@ Ich bin froh, wie beim Liberica vor fünf Jahren, erstmal der einzige in Deutsch
   { number: "19", title: "title", text: "" },
   { number: "7", title: "title", text: "" },
   { number: "15", title: "title", text: "" },
-  { number: "4", title: "title", text: "" },
+  {
+    number: "4",
+    title: "title",
+    text: `Heute habe ich euch den Agaro als Light Roast eingepackt. Ich hoffe, dass ich damit nicht eure Gemüter strapaziere, aber es erscheint mir doch sehr interessant über Röstgrade zu sprechen, besonders je komplexer der Kaffee ist.<BR>
+In den bisherigen vier Tagen haben wir praktisch zwei Kaffees in zwei verschiedenen Röstgraden verkostet. Unabhängig dessen, ob ihr diese als Kaffee oder Espresso gebrüht habt, dürften recht unterschiedliche Geschmacksprofile entstanden sein.<BR><BR>
+In unseren Baristakursen beschäftigen wir uns ebenfalls mit dem Thema der Röstgrade, da ich denke, dass diese einen großen Einfluss auf die geschmackliche Vorliebe eines Kaffeegenießers haben.
+Als eine moderne Kaffeerösterei mit sehr hochwertigen Rohkaffees können wir es uns gar nicht leisten sehr dunkel zu rösten, da wir uns damit keinen Gefallen tun würden.<BR>
+Vor einigen Dekaden haben die Italiener den Espresso nach Deutschland gebracht und damit auch einen gewissen Standard, was die Röstung dessen betrifft, gesetzt.<BR>
+„Dunkel und kräftig muss er sein" ist die geläufige Meinung – doch was finden wir heraus, wenn wir uns etwas mehr mit der Geschichte des Getränks und seiner Herkunft beschäftigen?<BR>
+Eine ausführliche Erläuterung würde hier den Rahmen sprengen, auch wenn es mich in den Fingern juckt..<BR>
+Um es kurz zu machen: jede Region in Italien hat ihre eigene Vorliebe und die Art des Handwerks wird durch kulturelle Gewohnheiten geprägt. Vor einigen Jahren durfte ich einem ausgezeichneten Vortrag eines Mitglieds des italienischen Coffee Boards beisitzen und war erstaunt, wie vielfältig der Werdegang des italienischen Kaffeegetränks bzw. die (regionalen) Einflüsse sind.<BR>
+Gut, wir sprechen hier von einem Land und Adressen, die bereits hundert Jahre auf ihrem Buckel haben, bitte nicht verwechseln mit: <BR>„ich habe hier einen Röster um die Ecke, der röstet recht italienisch" ;-)<BR>
+Da geht es schon um ein anderes Erbe und die Konzepte dahinter verdienen immer meine Achtung!<BR>
+Meiner Ansicht nach begehen wir einen Amateurfehler, wenn wir Kenntnisse und Fähigkeiten den Italienern absprechen, nur weil sie nicht modern rösten. Ich spreche hier von Kollegen, die sehr viel von sich und ihren sauren Roasts halten..<BR>
+Nichts desto trotz haben wir heute den Agaro in einer helle(re)n Röstung. Ich hatte vor einigen Tagen Besuch von einem Kollegen aus München, der an einer sehr hochwertigen Bar arbeitet. Das Konzept von denen ist ein ständig wechselnder Ausschank, sodass man weit über 30 der größten Röstereien pro Jahr in seinen Mühlen beheimatet (groß heißt in diesem Sinne nicht Volumen-Groß, sondern Qualität-Groß. Also Röstereien dessen Kaffees im Schnitt weit über 60€ das Kilo kosten). Selbstverständlich ist das dazugehörige Equipment top und die Leute ebenfalls sensorisch erfahren.<BR>
+Da er früher hier in der Rhein-Main Gegend gelebt hatte, war er sehr oft bei mir und lässt einen Besuch nicht aus, wenn er schon mal in der Gegend ist. Nach zwei Tagen regem Austausch über die neuesten Kaffeetrends und Zukunft, habe ich ihm den Agaro Light als Filter gebrüht und er war dermaßen geflasht von der Tasse.<BR>
+Was uns vielleicht beim Java nicht sofort aufgefallen ist, ist das mexikanische Terroir. Vom Grundtenor können wir sagen Äthiopien = fruchtig, floral, bisschen was erdiges und Schoko // Mexiko = fruchtig, floral.. da wird das Terroir nicht gleich deutlich, aber nun wächst ein Äthiopier in Indien, dem Land, welches von Gewürzen übersät ist!
+Die Tasse ist fruchtig und floral und dann wird sie plötzlich würzig, nussig, hölzern, ein vollkommen abgefahrener Twist im Geschmacksverlauf.<BR>
+Ob der Agaro ein besserer Äthiopier ist oder ein schlechterer Inder ist gar nicht die Frage, er steht für sich und das auf eine sehr vielfältige Art.<BR>
+Ich würde mich über eure Eindrücke freuen und verrate euch zum Abschluss noch eine lustige Idee, die ich seitdem habe:<BR><BR>
+Nächstes Jahr werde ich mal mit Jacob sprechen und vorsichtig anfragen, ob es denn möglich wäre den Agaro als natural aufzubereiten. Ich glaube das wird dann nochmal ein ganz anderes Level an Äthiopien..oder Indien?! 😉
+`,
+  },
   { number: "16", title: "title", text: "" },
   { number: "22", title: "title", text: "" },
   { number: "11", title: "title", text: "" },
