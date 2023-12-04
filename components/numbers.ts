@@ -30,7 +30,21 @@ Da Java ursprünglich ein Äthiopier ist, der einige Jahrzehnte auf der Insel Ja
   { number: "9", title: "title", text: "" },
   { number: "17", title: "title", text: "" },
   { number: "8", title: "title", text: "" },
-  { number: "6", title: "title", text: "" },
+  {
+    number: "6",
+    title: "title",
+    text: `Fröhlichen Nikolaus!<BR><BR>
+Die erste Überraschung erwartet euch heute aus dem fernen Lande Indien. So klein wie ein Kontinent und vielfältig im Anbau verschiedener Güter.<BR>
+Wusstet ihr, dass Indien von der Menge im Kaffeeanbau meist an 7. Stelle steht?<BR>
+Wir verbinden mit Indien oft Tee, aber Kaffee ist dennoch ein wichtiges Exportgut und ich bin immer wieder erstaunt, wie oft Menschen überrascht sind, wenn ich von indischem Kaffee spreche. <BR>Deshalb gibt es heute keinen Kaffee-Talk ;-)<BR><BR>
+Neben Kaffee baut Jacob Mammen auf den Badra Estates auch Pfeffer an. Es gibt weißen, grünen, schwarzen und er hatte mir mal erzählt, dass es wohl auch irgendwo auf der Farm noch rosa Pfeffer gäbe. Daneben haben wir noch Kardamom, Nelken, Muskatnuss..Muskatnuss? Ist das nicht verboten? Ja das wärs doch!
+Ich habe euch heute direkt gehandelten Muskatnuss von den Badra Estates eingepackt, als kleines Goodie sozusagen.<BR>
+Nicht nur, dass so ein direkt importiertes Produkt weitaus aromatischer und qualitativer ist als das, was man im Supermarkt findet, nein, es ist sogar eine große Herausforderung für uns, da der Transport von Muskatnüssen ab einer Menge verboten ist.<BR>
+Über legale Umwege haben wir es aber nun nach vielen Jahren wieder geschafft etwas Muskatnuss vorrätig zu haben. Wenn ihr das cool findet und gerne mal zu eurem Kartoffelpüree und anderen Leckereien Muskatnuss reibt, freue ich mich euch auch etwas nachzuliefern, solange der Vorrat reicht.<BR><BR>
+Selbstverständlich könnte ich 24x Kaffee einpacken, gerade dieses Jahr ist das Rohkaffeelager maximal voll, also da kommen echt noch paar Sachen auf euch zu, aber ich finde ab und zu mal so eine kleine Aufmerksamkeit ist gar nicht verkehrt.<BR>
+Es ist weiterhin Teil von Dylan & Harper und der Idee des direkten Handels mit Kaffeebauern, bringt etwas Pfiff in die Sache und lässt euch einen Tag Zeit um vielleicht nochmal eins der vergangenen Kaffee-Türchen zu probieren oder mir eine kritische Mail zu schreiben – freue mich ha ha<BR><BR>
+Fröhlichen Nikolaus ihr Lieben!`,
+  },
   { number: "18", title: "title", text: "" },
   {
     number: "2",
@@ -59,7 +73,26 @@ Für dieses Türchen darf es etwas feiner als gestern sein, weil die Dichte aufg
   { number: "23", title: "title", text: "" },
   { number: "13", title: "title", text: "" },
   { number: "21", title: "title", text: "" },
-  { number: "5", title: "title", text: "" },
+  {
+    number: "5",
+    title: "title",
+    text: `Dieses Türchen lasse ich Jahr für Jahr gerne unkommentiert.
+Diejenigen, die unseren Kalender nicht zum ersten Mal haben, werden sich erinnern können. Es ist der am schwierigsten einzustellende Kaffee und ihr solltet wirklich entschlossen feiner mahlen – gute 20-30% - wenn man sich überraschen lassen möchte, sollte man nun aufhören weiterzulesen 😉<BR>
+Wir haben den Naranjo immer im Ausschank, weil wir Bedarf an gutem entkoffeiniertem Kaffee sehen. Wenn ihr mit dem Einstellen nicht zurechtkommt, kommt gerne vorbei und wir verkosten ihn gemeinsam.<BR><BR>
+Mit der Zeit ist entkoffeinierter Kaffee für mich ein Herzensthema geworden. Noch vor einigen Jahren haben gute Kollegen diese Kaffees strikt abgelehnt, aber mittlerweile sehe ich immer mehr Specialty Röstereien, die einen Decaf anbieten. Das Problem hierbei ist nicht der Prozess selbst, den eigenständige Unternehmen machen (Hinweis: kein Röster oder Farmer entkoffeiniert den Kaffee!), sondern die Qualität des Rohkaffees.<BR>
+Über die Jahrzehnte hinweg hat sich die Industrie angewöhnt immer nur den Rest einer Farm, wortwörtlich den Dreck, der noch auf dem Boden blieb, zu entkoffeinieren und so dieser nicht existenten Qualität einen Sinn zu geben. Im Prinzip ist es das gleiche wie beim „normalen" Kaffee: die Qualität des Rohkaffees entscheidet es.
+Wir haben also Parzellenkaffee aus Mexiko genommen und mit dem Demus Lab in Triest einen guten Partner gefunden. Bei dem patentiertem Verfahren wird nur mit Wasser entkoffeiniert, sodass wir kaum Qualität einbüßen ohne Einsatz von Chemikalien.
+<BR><BR>
+Wie bei „normalem" Kaffee sollten wir uns die Frage stellen: Was ist das Ziel? Wofür brauchen wir den entkoffeinierten Kaffee?<BR>
+Die Vorstellung, dass nur ältere Menschen oder Mütter Decaf möchten, ist veraltet. Besonders in den letzten Jahren, als man immer mehr zuhause blieb und der Kaffeekonsum stieg, stieg auch das Interesse an weniger Koffein.<BR>
+Wir haben das Glück einen von weltweit zwei Aramosa Feldern zu haben, deshalb haben wir auch einen natürlich Low-Caf im Sortiment und momentan auch den Naranjo im Regal, weil es Momente gibt, wo man gar kein Koffein möchte.<BR>
+Wundert euch nicht über die Farbe der Bohnen. Auch wenn diese pechschwarz sind, ist der Kaffee nur ein medium-roast. Er kommt bereits als Rohkaffee so dunkel an, weil das Wasser unter Hochdruck bei dem Entkoffeinieren die Bohnenfarbe „abwäscht".<BR><BR>
+Ein kleiner Fun-Fact zum heutigen Decaf-Tag:<BR>
+Der ach so berühmte und tolle Jamaica Blue Mountain ist nur „blue", weil man ihn lang genug poliert hat. Beinah jeder Rohkaffee wird bläulich-gräulich, wenn man ihn intensiv mit etwas abreibt. Ich könnte den Decaf also eigentlich als JBM verkaufen und keiner würde es anzweifeln, schmeckt ja auch „anders" haha<BR><BR>
+Und weil ich gerade so im flow bin: wenn man einen qualitativen Kaffee aus Jamaica hätte haben wollen, dann würde man den Jamaica Low-Mountain nehmen und nicht den High oder Blue Mountain, aber vergesst dass ich das gesagt habe, ich möchte ja nicht das wunderbare Marketing von 800$ Kaffees zerstören 😉<BR><BR>
+Ach wenn wir schon dabei sind, machen wir noch n Dritten hinterher, wenigstens ist das taxonomisch sinnvoll:<BR>
+Was die Varietät betrifft, ist der Jamaica Blue Mountain ein Tipica(eine der beiden großen Arabica Linien). Nach sieben Generationen passt sich der Tipica den lokalen Gegebenheiten an und wird dann umbenannt. Eine ähnliche Geschichte ist bspw. der Hawaii Kona - ähnlich taxonomisch und ähnliches Marketing 😉`,
+  },
   { number: "20", title: "title", text: "" },
   {
     number: "3",
