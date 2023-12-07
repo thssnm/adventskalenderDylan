@@ -119,7 +119,23 @@ Ich bin froh, wie beim Liberica vor fünf Jahren, erstmal der einzige in Deutsch
   },
   { number: "24", title: "title", text: "" },
   { number: "19", title: "title", text: "" },
-  { number: "7", title: "title", text: "" },
+  {
+    number: "7",
+    title: "title",
+    text: `Es gibt wohl keinen passenderen Kaffee für heute als den Balehonnur-15. Nach einer Koffein-Pause und einem würzigen Mittwoch, kommt nun die doppelte Koffeinmenge würzig in die Tasse.
+Naja gut dieses Feld mit der Nummer 15 ist ein „CxR", deshalb etwas weniger würzig als ein Old Paradenia.<BR><BR>
+Jacob Mammen hat auf seiner Farm noch die alten britischen Einteilungen nach Nummern, deshalb ist die riesige Balehonnur Plantage leider nur mit Zahlen versehen.<BR>
+Wir haben vor einigen Jahren versucht das mal umzugestalten, aber es wurde noch chaotischer, dabei hat man beinahe den Namen der gesamten Plantage geändert, deshalb sind wir wieder zurück zum Kolonial-System und die Parzellen der drei Plantagen Bettadakhan, Balehonnur und Kerkeicoondah werden nummeriert. Es ist vielleicht gar nicht so unklug, immerhin sind sie systematisch aufgebaut, so wachsen auf Bettadakhan nur Arabicas, auf Balehonnur nur Canephoras und Kerkeicoondah ist so dazwischen.<BR>
+Der „Congensis into Robusta" ist ein Hybrid aus den beiden Coffea Arten „Congensis" und „Canephora" und somit kein 100% Canephora. Hybride sind natürliche Mutationen der Arten. Dadurch haben sie eine weitaus stabilere Genetik als Kreuzungen, die durch Menschenhand erzeugt werden.<BR>
+Bekanntere Hybride sind unter anderem „Aramosa" und „S-795", welcher als Haupt-Arabica Indiens gehandelt wird. Über 60% der Arabicas in Indien sind S-795, aber wenn man es genau nimmt, ist es eigentlich kein Arabica, sondern ein Arabicoid, denn zur Hälfte ist es ein Liberica, was auch den süßlicheren Geschmack des S-795 erklärt.<BR><BR>
+Bei Kaffees setzt sich phänotypisch immer die Mutterpflanze durch und da S-795 aussieht wie ein Arabica ist es ein Arabicoid.
+Zurück zu unserem CxR, der trotz x im Namen wahrlich keinen sexy Namen trägt, außer vielleicht für Musk-Fans😉
+Die Mutterpflanze war ein SLN274, eine typisch indische Canephora Varietät, somit zählt der CxR zu den Canephoroiden, nicht zu verwechseln mit Androiden.<BR>
+Leider gibt es die Angewohnheit Unwahrheiten zu verbreiten und manchmal reichen sie bis in einen Varietäten-Namen. Trotz des Namens ist die Varietät Robusta nicht darin enthalten, das wurde genetisch nachgewiesen. Das Wort Robusta wurde vermutlich einfach nur falsch verwendet, um zu kennzeichnen, dass ein Canephora drin ist. Bis heute leiden wir ja stark unter dieser falschen Nomenklatur. Ich habe witzigerweise alte Prospekte des Coffee Board of India geschenkt bekommen und bereits 2007 hat man darin beschrieben, dass der Canephora im CxR kein Robusta ist, aber ja..die Mühlen sind groß und schwer.<BR>
+Der CxR ist ein sehr schokoladiger Kaffee. Viel Nuss, viel Schoko. Neben einem cremigen Körper stellt er die dunkelste Röstung meines Shops dar. Heute ist also der Peak an Dichte, Crema, Koffein und Röstaromen. Dieser Kaffee stellt die Weichen für klassische Espressotrinker, die von traditionellen italienischen Röstungen kommen. Er hat wenig Säure, viel Crema, viel Röstaromen, Nuss und Schoko, also genau das, was man am Anfang erwartet, bevor man sich mehr traut.<BR><BR>
+Für morgen könnt ihr euren Mahlgrad so lassen.
+`,
+  },
   { number: "15", title: "title", text: "" },
   {
     number: "4",
