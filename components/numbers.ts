@@ -1,5 +1,27 @@
 export const numbers = [
-  { number: "10", title: "title", text: "" },
+  {
+    number: "10",
+    title: "title",
+    text: `Von Indien nach Brasilien, wir werden nun einige Tage auf unserer größten Farm verbringen und neben einem klassischen Brasilianer, viele besondere Varietäten kennen lernen.<BR>
+Nicht nur Varietäten, sondern auch Arten erwarten euch, beispielsweise als Hybrid.<BR>
+Wer sich an Türchen Nr. 7 erinnert, da habe ich den Namen „Aramosa" erwähnt.<BR>
+Heute erwartet uns nämlich dieser Hybrid, bestehend aus Coffea „Arabica" und „Racemosa". Den Arabica werde ich selbstverständlich nicht erklären, es ist mit 60% die größte Kaffeeart auf unserem schönen Planeten und man kann sich genug (fehl)Informationen wo anders holen *lach*<BR>
+Schauen wir uns lieber mal den Racemosa an!<BR><BR>
+Über den Racemosa sind einige Infos bekannt und eine sticht besonders hervor, weil wir nun wieder eine Eigenart wie beim Liberica haben. Nein, es ist nicht der Zucker, diesmal ist es das Koffein – Racemosa hat weniger als die Hälfte an Koffein eines Arabica!<BR>
+Wow!<BR>
+Ok, aber jetzt kommt erstmal ein Dämpfer: es gibt keinen sortenreinen Racemosa aktuell. So ganz stimmt das auch nicht:<BR>
+in Mozambique, wo der Kaffee herkommt (Race>"mosa"<) gibt es schon Pflanzen, aber das ist vielleicht mal ein Bäumchen hier und da, sodass niemand da ran geht und es auch nirgends separat angebaut wird. Somit verschwindet das ganze einfach irgendwo auf einem lokalen Markt.<BR>
+Das schöne ist, der Liberica war als „sacrifice tree" auch nur ein Lockmittel für Käfer und wurde dann abgeholzt und verbrannt, bis jemand auf die Idee kam, sinnvollen Kaffee daraus zu machen. Wir können also hoffen irgendwann auch mal an Racemosa zu kommen.<BR>
+Bis dahin dürfen wir uns mit dem Aramosa vergnügen, aber auch da habe ich leider einen Dämpfer, denn es gibt nur zwei Plantagen auf denen dieser Hybrid wächst...<BR><BR>
+Jetzt kommen endlich die guten Nachrichten! Ich habe den Aramosa seit vielen Jahren von der Fazendas Dutra und seit der 2020 Ernte endlich auch exklusiv! Seit Jahren sind wir bei Dylan & Harper eine der wenigen Adressen in Europa, die einen Aramosa anbieten können.<BR>
+Der andere Aramosa stammt von der brasilianischen Daterra Farm, die sich auf besondere Varietäten spezialisiert hat und darunter eben auch Felder mit Aramosa hat.<BR>
+Die meisten großen Adressen der Specialty Welt in Europa schmücken sich ab und zu mit diesem Aramosa. Letztens habe ich erst online bei Gardelli (Milano) einen für 250€ gesehen.<BR>
+Wir hatten bei der letzten Ernte leider nur 120kg bekommen. Das ist allerdings kein Unfall gewesen, sondern nachvollziehbar. <BR>Kaffeepflanzen haben unterschiedliche Entwicklungen und unsere Aramosa Parzelle hatte gerade so ein „down" erlebt, bevor ein erwartetes „high" kommen wird.<BR>
+Diese vergleichsweise kleine Ernte (im Jahr zuvor waren es 180kg, ist auch nicht viel mehr, aber bei so speziellen Kaffees, die wir kaum an der Kaffeebar ausschenken, sind 60kg gleich mal 150 Packungen, die wir für euch weniger haben), hat sich schnell ausverkauft. Im Türchen befinden sich quasi die fast letzten Bohnen des 2021 Jahrgangs.<BR>
+Ich habe noch etwas Rohkaffee da und plane damit ein Projekt nächstes Jahr. Falls euch der Aramosa zusagt, wäre es ratsam uns bei Instagram zu folgen oder ab und zu unseren Shop zu besuchen. <BR>Ihr könnt mir natürlich auch eine Mail schreiben, dann hätte ich euch auf der Merkliste zu diesem Projekt.<BR>
+Bis dahin wünsche ich eine gelungene Tasse mit diesem recht fruchtigen Brasilianer.<BR><BR>
+`,
+  },
   { number: "12", title: "title", text: "" },
   {
     number: "1",
