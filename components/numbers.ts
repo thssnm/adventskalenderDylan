@@ -27,9 +27,49 @@ Gerade in der aktuellen Charge ist der als „Dark“ verpackte Java eher eine m
 Für einen leichten Filterkaffee nicht meine erste Wahl, aber ich denke, dass er dennoch auch in einer Filterbrühmethode, gerade bei diesen kalten Temperaturen, sehr gefällig ist.
 Da Java ursprünglich ein Äthiopier ist, der einige Jahrzehnte auf der Insel Java verbracht hatte und nun bei uns in Mexiko wächst, müssen wir ihn trotzdem etwas feiner mahlen, weil sich die großen äthiopischen Bohnen in der Genetik und Wachstum der Pflanze dann doch durchgesetzt haben.  `,
   },
-  { number: "9", title: "title", text: "" },
+  {
+    number: "9",
+    title: "title",
+    text: `Nachdem ich gestern recht viel auf den Werdegang des Libericas eingegangen bin, würde ich heute gerne etwas von meinen Röstgedanken mit euch teilen.<BR><BR>
+Heute haben wir die andere der zwei offiziellen Röstungen des Libericas bei uns im Sortiment. Diese ist deutlich heller geröstet worden und somit eigentlich für Filterkaffee gedacht. Das sollte jedoch keinen Espressonisten daran hindern einzigartige Espressi zu ziehen.<BR><BR>
+Um zu sehen wie viel Einfluss die Röstung auf einen Kaffee hat, sollte man als Röster viele Röstgrade in einem Spektrum durchspielen. Je mehr Erfahrung man sammelt, umso leichter fällt es einem bereits am Rohkaffee eine Einschätzung zu machen.<BR>
+Wir haben von Beginn an die höchste Transparenz, die man in Deutschland findet, angestrebt. Von der Anbauhöhe, Bohnengröße, Pflückrunde uvm. ist mir alles bekannt. Das macht den direkten Handel aus, den leider immer noch nur sehr wenige Röstereien betreiben. Indem ich zu Beginn der Wertschöpfung mehr investiere, erleichtere ich mir hintenrum meine Arbeit ungemein.<BR>
+Das bedeutet nicht, dass ein Kaffee ohne diese Angaben nicht schmecken kann. Geschmack ist sehr subjektiv, deshalb bin ich auch kein Freund von Cupping Scores und ähnlichen Bewertungen.<BR>
+Die meisten Kaffeeröster nutzen die Technologie und tracken ihre Röstprofile mit einem Programm, um nachvollziehbaren und reproduzierbaren Geschmack herzustellen. Darüber hinaus bzw. weit vorher bin ich der Meinung, dass man so viel wie möglich über sein Rohprodukt wissen muss, um richtig damit umzugehen.<BR>
+Das sehen wir seit langem in der gehobenen Küche und in anderen Handwerken.<BR><BR>
+Seit ich die erste Ernte des Liberica erhalten habe, ist er immer hell geröstet worden. Die daraus resultierende Komplexität und Süße sind unnachahmlich. Von Mango in einem Earl Grey, über helles Karamell und tropische Früchte bis hin zu Beeren kann alles dabei sein.<BR>
+In einer Welt, wo Röstereien versuchen gleichbleibenden Geschmack zu gewähren, wäre es sicherlich kein Lob an mich zu sagen, dass sich jede meiner Liberica Röstungen ein wenig anders entwickelt, aber ehrlich gesagt finde ich das mega spannend! Ich bin dankbar dafür, dass Jacob mir diesen Schatz zur Verfügung stellt und wir gemeinsam dafür sorgen können dieser fast vergessenen Art wieder einen Wert zu verleihen.<BR><BR>
+Ich persönlich brühe ihn sehr gerne als Filter UND als Espresso. Jede Röstung und jedes Erntejahr überraschen von neuem, vielleicht auch jede Tasse ein wenig, deshalb lege ich mich da nicht fest. Ihr geht bei einer längeren Extraktion keine Gefahr ein Bitterstoffe zu haben, da er keine hat.<BR>
+Ich wünsche allen, die Liberica zum ersten Mal trinken, eine unvoreingenommene Sensorik und viel Vergnügen. Für alle anderen bleibt es: hate it or love it :- )
+`,
+  },
   { number: "17", title: "title", text: "" },
-  { number: "8", title: "title", text: "" },
+  {
+    number: "8",
+    title: "title",
+    text: `Das erste Drittel ist erreicht. Ich hoffe ihr habt einige neue Erfahrungen und Erkenntnisse bekommen. Ich kann euch versprechen es liegt noch vieles vor uns!<BR>
+Im heutigen Türchen befindet sich gleich mal etwas, wovon die meisten Röster und Baristi dieser Welt nur träumen können:<BR>
+Coffea Liberica ist nach Arabica und Canephora die dritte Art.<BR>
+Leider ist sie mit 1% Weltmarktanteil kaum verfügbar. Wer mal auf Indonesien und Malaysia war, wird deutlich bessere Chancen haben Liberica zu probieren. In Deutschland sind wir bei Dylan & Harper meist die einzigen, die einen haben.<BR><BR>
+Bereits seit fünf Jahren beziehe ich diesen Liberica von den Badra Estates und bin immer wieder erstaunt, wie vielfältig er ist.<BR>
+Die erste Ernte betrug 60kg, es war noch der Versuch: „Wie soll ich ihn rösten?" „Verstehen die Leute das überhaupt?"<BR>
+Fortschreitendes Wissen der Kaffeekonsumenten und erlangte Erfahrung, mehr Offenheit, all das ermöglicht einen besseren Zugang zu neuem Genuss und macht einem Röster, wie mir, das Leben einfacher.<BR>
+So ist es nach einer besorgniserregenden 60kg Ernte letztes Jahr, mit frischen 180kg in diesem Jahr wieder ein normales Shop-Produkt geworden.<BR>
+Selbstverständlich ist jeder Neukauf nur ein Versuch, eine Empfehlung oder man hat „mal etwas darüber gelesen". Wird man erstmal warm mit dem süßesten Kaffee der Welt, dann greifen Stammkunden gerne immer wieder zu.<BR><BR>
+Ich denke es gibt heute noch viele, die sich an die letztjährige Ernte erinnern können. Es war plötzlich viel gefälliger als im Jahr zuvor.
+Seit Jahren leiste ich Vorarbeit, um diesen Kaffee „für die Masse" zugänglich zu machen und parallel dazu verbessert Jacob Mammen auf den Badra Estates die Ernte Jahr für Jahr.<BR>
+Was "für die Masse" bei einem Kaffee von 100-300kg Ernte bedeutet, könnt ihr euch vermutlich ausmalen.<BR>
+Der hohe Zuckergehalt dieser Kaffeepflanzen beschleunigt die Fermentation nach dem Pflücken enorm, sodass es ein separates und eigenständiges Team von Pflückern benötigt, um Liberica richtig aufzubereiten. Da dieser Umstand niemandem bekannt war, liest man in allen Quellen aus der Vergangenheit, dass Liberica holzig und flach schmeckt und vollkommen unaromatisch ist.<BR>
+Es ist einfach unfassbar wie fehlerhaft die Fachmeinung in der Kaffeewelt nach wie vor ist und eine Fehlinformation einfach nachgeplappert wird.<BR>
+Wenn wir vom süßesten Kaffee der Welt sprechen, müssten allein dabei die Alarmglocken läuten, da Aromen bei der Röstung unter anderem aus Zuckermolekülen gebildet werden. Wie kann also der Kaffee, der ein x-faches an Zucker hat, weder süß noch aromatisch sein?<BR><BR>
+In the meantime, während die Welt noch versucht sich einig zu werden, forschen unsere Partner auf Malaysia bereits an den einzelnen Varietäten dieser Pflanze und haben den „Yellow", den „Purple Liberica", „Orange", „Longberry Liberica" uvm. entdeckt. Der Liberica stammt aus Liberia, aber die für 1% Weltmarktanteil verantwortlichen Ernten kommen aus dem Großraum Indonesien, Bali, Malaysia.<BR><BR>
+Trotz unserer Pionierarbeit auf den Badra Estates und meinem Durchhaltevermögen mit dem ungewöhnlichsten Kaffee, den man in Europa so bekommen kann, ist noch unfassbar viel zu machen.
+Jahr für Jahr wird der Prozess auf der Farm optimiert und jeder, der unseren Liberica länger trinkt, hat das festgestellt.<BR>
+Ich mag alle meine Kaffees und sicherlich ist die eine oder andere Ernte mal besser und mal schlechter, aber wirklich nachvollziehbare Unterschiede in jedem Erntejahr kann man nur beim Liberica erklären. Das Pflücker-Team lernt jedes Jahr dazu und durch die Kommunikation miteinander verbessern wir uns stetig in der gesamten Wertschöpfung, lernen dieses unfassbare Potential an Süße und Aromatik zu kontrollieren.<BR>
+Im heutigen Dark Roast erscheint die aktuelle Ernte mittlerweile so „normal", dass ich teilweise echt erklären muss, wieso der Kaffee überhaupt besonders ist. Dass da eine unheimlich hohe Süße dabei ist, nimmt man einfach mal so mit😉<BR>
+Im Filter dürfte die Röstung auch angenehm sein. Viel viel Schokolade! Rosinen, Bratapfel, dunkle Beeren und alles was ihr noch so findet, denn wenn alles möglich ist, dann im Liberica!
+`,
+  },
   {
     number: "6",
     title: "title",
