@@ -224,6 +224,23 @@ Nächstes Jahr werde ich mal mit Jacob sprechen und vorsichtig anfragen, ob es d
   },
   { number: "16", title: "title", text: "" },
   { number: "22", title: "title", text: "" },
-  { number: "11", title: "title", text: "" },
+  {
+    number: "11",
+    title: "title",
+    text: `Die heutige Logistik ist nicht mehr so reibungslos wie noch vor fünf Jahren. Wir haben über die letzten Jahre hinweg einige Krisen gehabt, die die weltweite Fracht in ihrem Rhythmus gestört hatte und so wurde das immer hinten heraus aufgearbeitet.<BR>
+Kaffeeanbau ist Biologie. So kann sich die Ernte immer um ein paar Wochen verschieben. Dazu kommen noch die logistischen Herausforderungen und das endet dann zb. darin, dass wir die 120kg Ernte des Aramosa im Februar erhalten haben und die neue 900kg Ernte bereits im Oktober.<BR>
+Normalerweise rechnen wir mit dem Container aus Brasilien zwischen den Jahren bzw. im Januar. Nun kam der eine über einen Monat zu spät und der andere über einen Monat zu früh. Die Info bekam ich bereits Ende Mai und stand etwas unter Druck.<BR>
+Wie im vorherigen Türchen beschrieben, wusste ich, dass die nächste Ernte des Aramosas ein Peak sein wird, aber dass sie so schnell kommt, machte es schwierig für mich. Stichwort Platz, aber auch Stichwort Kapital!<BR>
+Wir haben nicht die Größe, um knapp eine Tonne Rohkaffee von nur einer Sorte abzunehmen, während wir sogar noch das vorherige Erntejahr auf Lager haben.<BR><BR>
+Nach wie vor sind wir im Vergleich zu anderen „Kleinröstern" wirklich noch eine Microrösterei, was aber ein Vorteil ist, denn so kann ich mit vielen verschiedenen Kaffees spielen und brillieren.<BR>
+Ihr könnt euch das ungefähr so vorstellen:<BR>
+die Kaffees, die andere Röster als „Super Duper Special Nano Lot" ein paar Mal im Jahr herausbringen, das ist bei uns Standard: Balehonnur, Torre Taquara Preta, Palmito usw. alles Nano Lots.<BR>
+Alles darüber hinaus, besondere Varietäten, die ihr bislang kennen lernen konntet, besondere Anbaubedingungen usw. usf. das ist dann für uns Special und auch nur wir (und ähnliche Röstereien) können so etwas in einem, ich nenne es mal realistischen Rahmen anbieten.<BR>
+Nichtsdestotrotz haben wir nun die aktuelle Ernte (2022) des Aramosa. Die Pflanzen hatten wieder zu alter Stärke gefunden und so gibt es davon reichlich.<BR><BR>
+Wie vor vielen Jahren wird damit der Aramosa nun zu einem Kaffee, den wir gerne an der Bar ausschenken werden und gerade, weil es immer noch ein Low-Caf ist, kann man auch mal zwei davon trinken!
+Heute ist die helle Röstung des neuen Jahrgangs, damit ihr mal den direkten Unterschied zwischen den Jahren sehen könnt.<BR>
+Das Röstprofil ist nicht 1zu1 gleich, da sich der Rohkaffee anders verhält, aber so ungefähr kann man die beiden schon vergleichen. Ich selbst bin auf heute gespannt, da wir ihn an der Espressotheke ausschenken werden.<BR><BR>
+`,
+  },
   { number: "14", title: "title", text: "" },
 ];
