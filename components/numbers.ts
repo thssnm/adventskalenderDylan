@@ -22,7 +22,16 @@ Ich habe noch etwas Rohkaffee da und plane damit ein Projekt nächstes Jahr. Fal
 Bis dahin wünsche ich eine gelungene Tasse mit diesem recht fruchtigen Brasilianer.<BR><BR>
 `,
   },
-  { number: "12", title: "title", text: "" },
+  {
+    number: "12",
+    title: "title",
+    text: `Ich denke zum Aramosa wurde bereits alles gesagt. Die meisten von euch dürften abgesehen der letzten Türchen auch schon mal einen gehabt haben, da wir ihn bereits seit 2017 im Sortiment haben und alles auch im Onlineshop ist.<BR><BR>
+Im heutigen Türchen erwartet euch die dunkle Röstung der aktuellen Ernte.<BR>
+Sie ist nicht allzu dunkel geworden, sodass wir noch eine angenehme Schwarzwälder Kirschtorte in der Tasse haben. Kakao, Kirsche und dunkelgrün sind seit je her die Leitaromen und werden auch in dieser Ernte und Röstung nicht groß davon abweichen.<BR>
+Da der Übergang der Jahrgänge zeitlich so knapp verlief, habe ich noch nicht allzu oft die neue Ernte als Dark Roast getrunken, obwohl es bereits die zweite Charge ist.<BR>
+Ich bin auf euren Eindruck gespannt!
+`,
+  },
   {
     number: "1",
     title: "title",
@@ -133,7 +142,17 @@ Für dieses Türchen darf es etwas feiner als gestern sein, weil die Dichte aufg
 `,
   },
   { number: "23", title: "title", text: "" },
-  { number: "13", title: "title", text: "" },
+  {
+    number: "13",
+    title: "title",
+    text: `Piper Nigrum – Badra Estates<BR><BR>
+Na, wer hat es dieses Jahr gebrüht?<BR><BR>
+Nach der Muskatnuss eine weitere Überraschung von den Badra Estates. Einige von euch haben bereits unseren direkt gehandelten schwarzen Pfeffer kennen gelernt. Vier Mal so aromatisch wie die Auswahl im Handel!<BR>
+Wir haben das Glück seit einigen Jahren immer wieder etwas von Jacob Mammen aus Indien geschickt zu bekommen. Für viele Kaffeebauern sind neben Kaffee weitere Produkte überlebensnotwendig. Unsere Inder sind selbstverständlich in der Gewürzwelt gut aufgehoben.<BR><BR>
+Aufgrund der großen Nachfrage im letzten Kalender, habe ich den Pfeffer dieses Jahr in einer eigenen Verpackung herausgebracht a 100g. Wenn er sich in eurer Gewürzmühle gut macht, schreibt es einfach bei eurer nächsten Bestellung dazu oder kommt vorbei, aktuell ist das Gewürzlager akzeptabel gefüllt. Nicht brechend voll, aber ein bisschen was haben wir da.<BR>
+Da wir heute Ruhetag haben, ist kein Kaffee im Türchen, man munkelt alles sei geplant ;-)
+`,
+  },
   { number: "21", title: "title", text: "" },
   {
     number: "5",
@@ -242,5 +261,19 @@ Heute ist die helle Röstung des neuen Jahrgangs, damit ihr mal den direkten Unt
 Das Röstprofil ist nicht 1zu1 gleich, da sich der Rohkaffee anders verhält, aber so ungefähr kann man die beiden schon vergleichen. Ich selbst bin auf heute gespannt, da wir ihn an der Espressotheke ausschenken werden.<BR><BR>
 `,
   },
-  { number: "14", title: "title", text: "" },
+  {
+    number: "14",
+    title: "title",
+    text: `Wenn man eine Rösterei gründet, sollte man erstmal ein Grundsortiment zusammenstellen. Ich hatte damals vier Kaffees ausgewählt, darunter zwei Brasilianer, ein Inder und ein Kaffee aus El Salvador.<BR>
+Einer der beiden Brasilianer war die Parzelle „Torre Taquara Preta" - auf Deutsch „Turm des schwarzen Schilfgrases".<BR>
+Mit dem Turm ist hier der Vulkanberg gemeint, auf dem die Parzelle steht. Schwarzes Schilfgras gibt es nicht, aber die Pflücker gaben dieser Parzelle den Namen, denn wenn man unten am Berg steht und hochblickt, wird das Licht so reflektiert, dass das Gras schwarz wirkt.<BR>
+Der riesige Vulkanberg „Torre" ist in unterschiedliche Parzellen unterteilt, die hauptsächlich Catuai darauf stehen haben.<BR>
+Unser Catuai wird als pulped natural aufbereitet. Diesen roten Catuai als Perlbohne haben unsere ältesten Kunden sicher noch im Kopf.<BR>
+Im Jahr des Umzugs zu unserer aktuellen Adresse habe ich diese Parzelle nicht mehr weiterverfolgt und bin auf andere Brasilianer umgestiegen. Ich konnte mir die gesamte Parzelle nie exklusiv leisten, weil es meist einen recht guten Ertrag um die zwei Tonnen gab und ich zu der Zeit nicht einmal jährlich so viel geröstet habe, geschweige denn nur einen Kaffee in der Dimension hätte anbieten können. Im Jahr 2019 und 2020 beehrte uns der TTP nochmal sackweise, diesmal als Flachbohne, kam sehr gut an und wurde auch recht schnell ausverkauft bzw. ich kam nicht mehr an Nachschub ran.<BR>
+Im heutigen Türchen präsentiere ich euch diese Parzelle wieder in legendärer Version als Perlbohne!<BR>
+Ich habe mir einige hundert Kilogramm des Kaffees gesichert und ihr findet ihn als Medium-Dark Roast im Online-Shop und bei uns im Regal.<BR>
+Seit vielen Jahren überzeugt der „TTP" mit Süßgebäck, Mandeln, Marzipan, bisschen was Rotes, für mich Traube, für andere Kirsche. Seidiger Körper in der Tasse, süß, „standard", einfach lecker.<BR><BR>
+Ich habe mich vor einigen Wochen mit einem guten Kollegen unterhalten, von dem ich bereits in vorherigen Türchen berichtet hatte. Nach den zig anaeroben, fermentierten, mazerierten, xy modernen Kaffees für hunderte Euro, ist es manchmal einfach ein 40€/kg Brasilianer, der einen glücklich macht *grins*
+`,
+  },
 ];
