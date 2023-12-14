@@ -217,7 +217,35 @@ Der CxR ist ein sehr schokoladiger Kaffee. Viel Nuss, viel Schoko. Neben einem c
 Für morgen könnt ihr euren Mahlgrad so lassen.
 `,
   },
-  { number: "15", title: "title", text: "" },
+  {
+    number: "15",
+    title: "title",
+    text: `Das allererste richtige Rahmentürchen hat lange auf sich warten lassen!<BR>
+Zwar war der Aramosa am 10. bereits limitiert, allerdings in dem Sinne, dass der Jahrgang einfach fast ausgetrunken ist. Der neue Jahrgang wird uns selbstverständlich noch lange ins 2024 hinein begleiten.<BR><BR>
+Wir sind weiterhin auf der Fazendas Dutra und haben heute meine erste Riesenbohne aus Brasilien!<BR>
+Die größte Bohnensorte der Welt, der Maragogype, ist in Brasilien entstanden, aber hat sich im Laufe der Zeit eher in Zentralamerika etabliert.<BR>
+Diesen nahm man auch für die begehrte Varietät Pacamara. Wie man am Namen ableiten kann, ist eine Hälfte darin der Maragogype. Die Bohnengröße und der einzigartige Geschmack wurden weitergereicht.<BR>
+Während ich einige Maragogypes aus Mexiko hatte, unter anderem den berühmten ersten Natural Mexikos, den Huixtla, ist das mein erster Maragogype aus der originalen Herkunft.<BR>
+Die Dutras haben kaum Maragogypes auf ihren Feldern, weil die Pflanzen extrem viel Platz einnehmen und somit weniger Ertrag pro Hektar.<BR>
+Das gleiche Problem haben zwar auch andere Länder, aber anscheinend gab es da irgendwann mal einen cut in Brasilien und ich habe selbst sehr selten Maragos aus Brasilien getrunken, mir fällt gerade nicht mal einer ein *lach*<BR><BR>
+Ich muss gestehen, dass ich sehr heiß auf diese Ernte war, weil die Parzelle einen Ertrag von 30kg hatte. Ich habe mir also diesen einen Sack nur für euch und den Adventskalender gesichert.<BR>
+Am heutigen Türchen wird einem bewusst, wie schwierig eigentlich der Job eines Kaffeerösters ist, denn ich bin nicht vollends zufrieden mit meiner Arbeit.<BR>
+Ich verstehe meinen Beruf als Handwerk, das Rösten ist wie in jedem anderen Handwerk geprägt von Erfahrungen. Nachdem man eine Grundausbildung erhalten hat, um zu lernen wie Röstmaschinen funktionieren, was es für Kaffees gibt usw. usf. sollte jeder Röster einfach so viel Erfahrung wie möglich sammeln und sich stetig verbessern. Ich glaube ich habe es bereits erwähnt, dass ich nun über 3650 Tage an Erfahrungen habe und somit sehr zufrieden bin.<BR><BR>
+Wenn ich so einen neuen Kaffee erhalte, ist es nicht immer leicht, ihn sofort auf den Punkt zu bringen, deshalb hat man meist genug Zeit bis zum Release und kauft sich vielleicht etwas mehr an Bestand – all das war beim Marago leider nicht der Fall:<BR>
+Erstmal lief mir die Zeit davon bzw. ich habe eine Deadline und ein Röstziel – Adventskalender.<BR>
+Der Bestand war limitiert - 30kg.<BR>
+Beim Maragogype kommt dann eine weitere Komponente hinzu – Riesenbohne.<BR><BR>
+Nicht nur im Anbau ist die Riesenbohne kein guter Rat, auch im weiteren Verlauf zieht sich die Problematik durch. Wir können die Rösttrommel nicht komplett befüllen, weil die Bohnen mehr Platz benötigen als andere.<BR>
+So jetzt stand ich da am 15. November, öffne diesen überaus wertvollen Sack Pulped Natural Maragogype von einer der besten Farmen Brasiliens und habe genau einen Versuch. Tadaaaa, das isser <BR>ha ha<BR>
+Ok, wir wollen wieder ernst werden, denn schließlich geht es hier nicht um Spaß am Kaffee.. während der Röstung hat der Maragogype etwas mehr Energie abbekommen. Da pulped naturals dazu noch einen höheren Zuckergehalt haben, ist mir diese Röstung etwas ins dunklere als geplant abgedriftet. Es ist ein herausragender Espresso, keine Frage, ich freue mich sogar richtig auf den Ausschank dessen (auch wenn er vielleicht noch eine Woche Reife vertragen würde, Riesenbohnen reifen immer etwas länger), aber was mache ich mit dem Filter?<BR>
+Brühen!<BR>
+Während ich diesen Text verfasse, trinke ich einen Immersion Brew (French Press, RS-16, Karlsbader Kanne etc.) mit 8g / 100ml in ca. 4-5min bei 88° gebrüht.<BR>
+Ich muss sagen, so schlecht ist er gar nicht. Ich finde es bisschen schade, weil ich mehr aus dem Rohkaffee für Filter hätte heraus holen können. Betrachtet man die Tasse ohne zu wissen, was dahinter steckt, haben wir eine wunderschöne Karamellnote, die später in so eine Art gereifte oder gedörrte Orange übergeht, nicht mehr spritzig, nur noch süß.<BR>
+Das Mundgefühl ist top, viel Körper aber nicht unangenehm fett, sondern Raum-ausfüllend (uff manchmal ist Sensorik-Kommunikation echt merkwürdig) und wenn die Tasse etwas kalt wird (ich weiß Kaffee wird heiß getrunken, aber versuchts mal) dann riecht es wie ein Iced Cacao, vielleicht habe ich die Schoko-Note vorher nicht wahrgenommen, weil ich auf den Text fokussiert war.<BR><BR>
+Eine Sache möchte ich euch aber noch mitgeben:<BR>
+Da ich noch eine Charge von diesem Kaffee vor mir habe, werde ich sie vermutlich deutlich heller ziehen. Vielleicht für den Frühling nächstes Jahr. Falls jemand Lust auf die zweite und letzte Version des Maragogype von der Fazendas Dutra hat, schreibt mir doch einfach eine Nachricht, dann notier ich mir das Interesse.
+`,
+  },
   {
     number: "4",
     title: "title",
