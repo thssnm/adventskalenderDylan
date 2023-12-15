@@ -269,7 +269,15 @@ Ich würde mich über eure Eindrücke freuen und verrate euch zum Abschluss noch
 Nächstes Jahr werde ich mal mit Jacob sprechen und vorsichtig anfragen, ob es denn möglich wäre den Agaro als natural aufzubereiten. Ich glaube das wird dann nochmal ein ganz anderes Level an Äthiopien..oder Indien?! 😉
 `,
   },
-  { number: "16", title: "title", text: "" },
+  { number: "16", title: "title", text: `Dieses Rahmentürchen beherbergt eine Parzelle auf der vermutlich einer der seltensten Kaffees der Welt wächst.<BR>
+Wir wissen um den Gesha-Wahn und immer wieder taucht eine Hype-Varietät auf, aber ein Pacamara ist nun mal ein Pacamara und ein Gelber ist fast nicht zu finden.<BR>
+Es gibt keine Handvoll Plantagen, die diese Varietät besitzen und so gefragt wie Pacamara generell sind, hat kaum ein Röster auf der Welt einen Yellow Pacamara im Angebot.<BR>
+Dass das ganze als natural verarbeitet wurde, von einer der besten Farmen Brasiliens setzt der Torte eine Kirsche auf.<BR><BR>
+Ich bin sehr dankbar dafür, dass ich einmalig diese Ernte erhalten habe, denn es gibt Menschen, die dreistellige Summen für ein Kilo dieses Rohkaffees zahlen würden. Es ist spannend wie die drei Komponenten aus Terroir, Farmer und Varietät ihre Wirkung zeigen.<BR>
+Es ist kein Liberica oder eine andere Art, das ist klar. Man muss jetzt keinen Geschmacksschock auf der Zunge erwarten, aber wenn man in die Tasse hineinhorcht, ihr etwas Aufmerksamkeit schenkt, dann merkt man schon auch ein anderes Niveau, etwa wie 3d Kino.<BR>
+Abgesehen vom Geschmacksprofil, habe ich persönlich noch ein Prickeln auf der Zunge. Durch die feinen Fruchtnoten wird vermutlich die Haptik und das Mundgefühl so angeregt, wie bei einem Lieblingsessen. Erstaunlich, das hatte ich bislang selten!<BR>
+Man spürt Navel-Orangen oder Blutorangen, eher süßlich, nicht sauer, leicht floral, Mandeln und einen runden Körper.<BR>
+Heute haben wir ihn im Ausschank an der Kaffeebar – lohnt sich. `},
   { number: "22", title: "title", text: "" },
   {
     number: "11",
