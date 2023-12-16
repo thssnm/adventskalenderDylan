@@ -74,7 +74,37 @@ Ich persönlich brühe ihn sehr gerne als Filter UND als Espresso. Jede Röstung
 Ich wünsche allen, die Liberica zum ersten Mal trinken, eine unvoreingenommene Sensorik und viel Vergnügen. Für alle anderen bleibt es: hate it or love it :- )
 `,
   },
-  { number: "17", title: "title", text: "" },
+  { number: "17", title: "title", text: `
+Ich versuche den Kalender mit steigender Spannung aufzubauen, wie bei einem guten Film. <BR>Wir haben mit Kaffees begonnen, die wir auch schon länger im Shop haben, darunter einige sehr rare Varietäten und neue Erkenntnisse durch die Texte im digitalen Kalender.<BR><BR>
+Hier möchte ich mich auch mal bedanken für das bisherige Feedback. Ich habe gehört, dass der Kalender sehr viel Spaß macht und sowohl sensorisch aber auch hierüber einige interessante Neuigkeiten mit sich bringt. Für alle, die es nicht wissen:<BR>
+die Texte sind nicht nur eigens geschrieben sondern quasi a la minute.<BR>
+Da wir mittlerweile täglich außer Mittwochs aufhaben, kann ich die Downtimes an der Kaffeebar nutzen, um das nächste Türchen zu schreiben.<BR>
+Das ist übrigens auch der Grund, weshalb es an 2-3 Tagen etwas später kam. Die Logistik, die in und hinter diesem Kalender steckt könnt ihr euch kaum vorstellen.<BR>
+Ein guter Freund, der mir beim Verpacken der ersten 20x24 Türchen geholfen hat, meinte nur: „Was solln das kosten? Das Verpacken allein ist schon 200€ wert“ haha..ja..<BR>
+Mir ist es wichtig die Texte relativ kurzfristig zu verfassen, weil ich so meine persönlichen neuen Eindrücke über den Kaffee hineinfließen lassen kann. Da alle so geröstet worden sind, dass sie an ihrem Tag oder ein paar Tage später ihren Peak erreichen, konnte/wollte ich die Kaffees selbst nicht zu früh trinken, um zufällig in eine Phase der Reife zu kommen, die gerade nicht appetitlich ist und so einen schlechten Eindruck des Kaffees zu bekommen.<BR><BR>
+Nevertheless, lasst uns keine Zeit verlieren, denn heute platz eine Bombe in euren Tassen. Endlich ist er da! Der Pacamara, den ich letztes Jahr so sehnlichst aus El Salvador erwartet habe.
+Ich kann mich gerade nicht erinnern, ob ich das bereits in einem der diesjährigen Türchen geschrieben hatte, aber um es kurz zu machen, dieses Türchen hätte letztes Jahr bereits kommen müssen. Leider war die Ernte so lecker, dass Insekten vor mir da waren *lach*<BR>
+Wir haben also einen natural Pacamara aus El Salvador. Ich habe sicherlich mal erwähnt bzw. ihr wisst, dass Zentralamerika nur gewaschene Kaffees macht.<BR>
+Seit einigen Jahren ist die moderne Nachfrage nach etwas Neuem entstanden. So haben Farmer in Costa Rica begonnen die ersten Naturals und Honeys(Pulped Natural) zu machen. Nicaragua, El Salvador und Co. folgten.<BR>
+Mittlerweile sind Naturals aus Zentralamerika zu wahren Größen aufgestiegen und stellen neben Kenianern und Äthiopiern sowie kolumbianischen Kaffees meiner Auffassung nach die größte Nachfrage da.<BR><BR>
+Der Pacamara ist eine besondere Arabica Varietät, da sie nicht nur die Größe des Maragogypes, der kaiserlichen Bohne, in sich birgt, sondern als einzige auch länger reift. Wir haben bei allen Arabicapflanzen eine ziemlich gleiche Reifezeit am Ast, während der Pacamara sich einfach 30 Tage mehr Zeit nimmt.<BR>
+Das besondere Geschmacksspektrum ist wie beim Gesha immer auffällig in Verkostungsrunden, deshalb sind Pacamaras zwar nicht so unnötig gehypet, aber durchaus etwas teurer und schwerer zu bekommen. Ich gehe hier immer von einer gewissen Qualität aus und meine keine durchschnittlichen Kaffee(röstereien).<BR>
+Wir haben gestern einen Pacamara der Fazendas Dutra gehabt, einen gelben sogar, den kaum ein Farmer hat und nun reisen wir auf die moderne Farm von Andres Quintanilla in El Salvador und bekommen einen Eindruck von seinen neu erlernten Fähigkeiten, die er gleich an einer komplexen Varietät als natural eingesetzt hat.<BR>
+Vorab: es ist der Hammer!<BR><BR>
+Andres ist ein wirklich ausgezeichneter Farmer und auch wenn er seit einigen Wochen verheiratet ist, hoffe ich, dass die Passion nicht komplett für seine Frau aufgeht und er uns weiterhin mit guten Kaffees versorgt 😉<BR>
+Nein, ich mag Andres sehr und als er 2018 hier bei uns war, haben ihn einige von euch kennen gelernt. Auch seine Kaffees und die Idee damals mit den „Monsoon“ Kaffee am Pazifik war genial.<BR>
+Als jüngster unserer fünf Farmer sprüht die Kreativität heraus und ich bin sehr froh, dass er nun immer mehr Richtung naturals geht.<BR>
+Dieser Pacamara ist ein Kaffee auf den ich gerne in 2024 aufbauen würde. Die Ernte ist groß genug und mit der Zeit werde ich auch das Röstprofil aufpolieren. Aktuell ist er mir ein klein wenig davon gerannt, so wie der Marago in der 15. weil er so unglaubliches Energiepotential hat. Dennoch ist es ein herausragender Kaffee UND Espresso.<BR>
+Wir haben den Kaffee recht früh verkostet #neugier und festgestellt, dass er in der Kälte gewinnt.<BR>
+Anfangs noch etwas röstaromatisch wird er fruchtig fein, je kälter die Tasse.<BR>
+Der Espresso ist mittlerweile durch einige Kreuzverkostungen gegangen und wurde auf Herz und Nieren geprüft und Gefallen gefunden.<BR>
+Auszug:<BR>
+„Super schöner und starker, seidiger Körper. Reife Mirabellen und Apfel. Dann Zartbitterschokolade und Marzipan. Unglaubliche Frucht- und Marzipansüße.<BR>
+Die Säure ist super ausgeprägt (rote Trauben) und super integriert.<BR>
+Leicht röstig.“<BR>
+Die letzten Noten sind genau das, was ich noch versuchen möchte herauszurösten bzw. in dem Fall eher nicht zu rösten. Dann werden wir eine super saubere Tasse haben.<BR>
+Ich hoffe es schmeckt euch und wünsche einen angenehmen dritten Advent!<BR>`
+},
   {
     number: "8",
     title: "title",
