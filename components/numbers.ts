@@ -146,7 +146,31 @@ Selbstverständlich könnte ich 24x Kaffee einpacken, gerade dieses Jahr ist das
 Es ist weiterhin Teil von Dylan & Harper und der Idee des direkten Handels mit Kaffeebauern, bringt etwas Pfiff in die Sache und lässt euch einen Tag Zeit um vielleicht nochmal eins der vergangenen Kaffee-Türchen zu probieren oder mir eine kritische Mail zu schreiben – freue mich ha ha<BR><BR>
 Fröhlichen Nikolaus ihr Lieben!`,
   },
-  { number: "18", title: "title", text: "" },
+  {
+    number: "18",
+    title: "title",
+    text: `Heute haben wir wieder einen Pacamara von der Finca La Quintanilla aus El Salvador. Diesmal als gewaschene Aufbereitung.<BR>
+Vermutlich solltet ihr ihn einen Tick feiner mahlen, da er weniger Dicht ist als die Natural Variante, aber jeder wie er mag.<BR><BR>
+Die alten Hasen werden sich erinnern, dass wir zu Beginn der Pandemie, zu unserem Zweijährigen der Kaffeebar, so einen Pacamara von Andres Quintanilla bekommen haben. Wenn ich von „bekommen" spreche, dann sollte man nicht denken, dass ich ihn nicht bezahle.<BR>
+Ich spreche davon, dass der Kaffeebauer selbst auswählt, wem er diese besondere Ernte zutraut und auf einer menschlich freundschaftlichen Ebene auch gönnt.<BR>
+Es ist nicht so, dass jeder Kaffeeröster, der von unseren Bauern einen Teil seiner Kaffees bezieht, die gleiche Bedeutung in der Wertschöpfung einnimmt.<BR>
+Der Kaffeemarkt ist riesig. Es ist tatsächlich der zweitgrößte Markt auf der Welt nach Rohöl. Ihr könnt euch sicherlich vorstellen, wie viel Unfug darin umhergeht, von beiden Seiten aus – Kaffee und Mensch.<BR><BR>
+Wenn wir das auf ein etwas kleineres und doch für uns in Deutschland bedeutendes Genussmittel übertragen – Wein – dann kann ich mir eine Kiste der ersten Lage vom Winzer kaufen und diese in meinem Restaurant auf einer besonderen Karte neben den Metro-Flaschen anbieten. Es ist aber etwas vollkommen anderes, wenn ich Jahr für Jahr dessen Weine beziehe, bei der Ernte helfe, den Winzer auch mal so besuche und bei einem Glas mit ihm über das Leben quatsche.<BR><BR>
+Aufgrund des engen Kontakts zu meinen fünf Kaffeebauern seit nun einer Dekade, genieße ich ab und zu Vorzüge, die sich nur wenige Röster in Deutschland erträumen können.<BR>
+Damals war es beispielsweise die Parzelle seines Vaters, die eigentlich nur der Papa trinkt. Da in dem Jahr knappe 30kg als Perlbohnen entstanden sind (ein Zufall der Natur), hat mir Andres einen Sack von Pacamara-Perlbohnen zukommen lassen.<BR> Ich mein' wo findet man schon sowas!? Ihr könnt euch ja vorstellen, dass ich mal den einen oder anderen Kaffee trinke, den man weltweit nicht kaufen kann oder die Varietät noch lange nicht bekannt ist, aber bis dato und auch seitdem habe ich zb. nie wieder riesige Perlbohnen gesehen! Perlbohnen stellen immer die kleinste Bohnengröße wie im Türchen Nr. 14 und der Pacamara als Riesenbohne kann das eigentlich nicht entwickeln.<BR>
+Dem einen oder anderen wird das nichts bedeuten und das ist auch in Ordnung erstmal, aber je länger ihr in einer hochwertigen Kaffeewelt konsumiert, Varietäten kennen lernt und Spaß daran findet, diesem immer noch schrecklich unterschätzten Genussmittel, einen verdienten Wert zu geben, dann freut man sich auch mal über eine Packung Pacamara-Perlbohnen!<BR>
+Ich habe Andres noch einige Wochen zuvor getroffen, als er in Deutschland zu Besuch war und konnte mich so persönlich dafür bedanken. Er erzählte mir wie wichtig seinem Papa diese Parzelle ist, aber da er mich sehr gern hat und wir gemeinsam immer viel Spaß haben, mal ein Bierchen trinken und uns sehr gut verstehen, weil er auch unser jüngster Farmer ist, war es ihm eine Freude mir diese Ernte zukommen zu lassen.<BR><BR>
+Nun drei Jahre später, begegnet uns wieder etwas von dieser Parzelle. Es gab genau drei unterschiedliche Ernten, die zur Verfügung standen, jetzt dürft ihr drei Mal raten, wer alle drei hat ;-)
+Gestern hatten wir den Natural Pacamara, nun geht es weiter mit der gewaschenen Version. Keine Perlbohne nein, aber ein sogenannter „Primer Corte" – die erste Pflückung.<BR>
+Manche kennen es vom Tee, in der Kaffeewelt macht das kaum jemand, weil es ja Geld kosten würde das Team der Pflücker alle paar Wochen aufs Feld zu schicken, um die unterschiedlichen Reifegrade zeitlich präziser zu pflücken.<BR>
+Ehrlich gesagt habe ich das bislang nirgends gesehen, auch bei anderen guten Farmen/Röstern nicht. Tatsächlich machen das unsere beiden Latinos. Sowohl in Mexiko als auch in El Salvador wird in Runden gepflückt, das gibt die Logistik der Plantage her. Wir versuchen das aktuell auch bei unseren anderen Kaffeebauern einzubringen, aber es wird noch ein wenig dauern. Veränderungen in der Kaffeewelt sind nicht von heute auf morgen. Wenn man etwas verändert, dann muss man erstmal ein Jahr lang die nächste Ernte abwarten, dann ggf. die neuen Erkenntnisse anwenden, so ist wieder ein Jahr vergangen und dann nochmal...<BR>
+Es hat ebenfalls lange gedauert bis wir nachvollziehen konnten, was die Pflückrunden bewirken.<BR>
+So haben wir erst im Austausch mit internationalen Kollegen herausfinden können, dass bei der 1. Pflückrunde ein floraler Kaffee mit weniger Körper, aber dennoch balanciert entsteht.<BR>
+Der Filter dieses Primer Corte Pacamara ist unfassbar lecker. Super fruchtig, blumig und leicht. Im Espresso karamellig.<BR>
+Das Türchen noch eine Woche stehen lassen tut einem Pacamara gut, dann wird er an Komplexität und Körper gewinnen.<BR>
+Diese Ernte betrug 30kg, einen Sack Rohkaffee...wow
+`,
+  },
   {
     number: "2",
     title: "title",
