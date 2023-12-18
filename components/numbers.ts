@@ -271,16 +271,25 @@ Ich bin froh, wie beim Liberica vor fÃ¼nf Jahren, erstmal der einzige in Deuts
 `,
   },
   { number: "24", title: "title", text: "" },
-  { number: "19", title: "title", text: `Mit der gestrigen Fruchtbombe haben wir bereits wichtige Vorarbeit fÃ¼r heute geleistet und lernen nun einen weiteren Schritt in der WertschÃ¶pfung von Kaffee kennen.<BR><BR>
-  Im heutigen TÃ¼rchen befindet sich nÃ¤mlich der gleiche Kaffee..hups.. <BR>
-  Der gleiche Kaffee als â€žSegundo Corteâ€œ!<BR>
-  Ich habe bereits ein paar Worte Ã¼ber das PflÃ¼cken in verschiedenen Runden verloren und fÃ¼r jeden dÃ¼rfte klar sein, dass PflÃ¼ckrunden ein Mehraufwand sind, den die wenigsten Farmen machen wÃ¼rden bzw. kÃ¶nnen. Wie die Zukunft bei Kaffee und PflÃ¼ckrunden aussehen wird, kann ich selbst noch nicht sagen, aber wenn ich die Gelegenheit habe, werde ich mich stets bemÃ¼hen meinen Kunden so etwas zu ermÃ¶glichen. Heute haben wir solch einen direkten Vergleich.<BR>
+  { number: "19", title: "title", text:`Mit der gestrigen Fruchtbombe haben wir bereits wichtige Vorarbeit für heute geleistet und lernen nun einen weiteren Schritt in der Wertschöpfung von Kaffee kennen.<BR><BR>
+
+  Im heutigen Türchen befindet sich nämlich der gleiche Kaffee..hups.. <BR>
+
+  Der gleiche Kaffee als „Segundo Corte“!<BR>
+
+  Ich habe bereits ein paar Worte über das Pflücken in verschiedenen Runden verloren und für jeden dürfte klar sein, dass Pflückrunden ein Mehraufwand sind, den die wenigsten Farmen machen würden bzw. können. Wie die Zukunft bei Kaffee und Pflückrunden aussehen wird, kann ich selbst noch nicht sagen, aber wenn ich die Gelegenheit habe, werde ich mich stets bemühen meinen Kunden so etwas zu ermöglichen. Heute haben wir solch einen direkten Vergleich.<BR>
+
   Auch hier ist es leider nicht mehr als ein Sack geworden, aber dieser wird ausreichen, um neue sensorische Erfahrungen zu sammeln. <BR>
-  Eventuell kÃ¶nnt ihr sogar TÃ¼rchen 18&19 nebeneinander oder am gleichen Tag verkosten. Lasst euch am besten immer eine BrÃ¼hung der Rahmen-TÃ¼rchen Ã¼brig fÃ¼r einen spÃ¤teren Zeitpunkt oder nutzt eure exklusive BestellmÃ¶glichkeit dieser RaritÃ¤ten - einfach per Mail oder Ã¼ber unser Social Media Bescheid geben.<BR><BR>
-  Da ich beim Andres schon einige PflÃ¼ckrunden des gleichen Kaffees hatte, beziehe ich meist genau die, die ich mir fÃ¼r die Saison vorstellen kann.<BR>
-  Der gestrige Primer Corte ist mit der feinen FloralitÃ¤t im FrÃ¼hling genau das richtige, aber der Segundo Corte ist ein etwas komplexerer Kaffee. Wir haben nun einen Anstieg der FruchtsÃ¤ure und SÃ¼ÃŸe. Die meisten Kaffees auf der Welt werden zu diesem Zeitpunkt gepflÃ¼ckt, nur wissen sie es nicht (nicht die Kaffees, sondern die Hersteller). Bei anonymen Massenkaffees ist das sowieso irrelevant, weil hunderte Tonnen-Cuvees entstehen, aber wenn man mal ein nano-lot in zwei Picking Rounds hat, wird es interessant die Unterschiede fest zu stellen.<BR>
+
+  Eventuell könnt ihr sogar Türchen 18&19 nebeneinander oder am gleichen Tag verkosten. Lasst euch am besten immer eine Brühung der Rahmen-Türchen übrig für einen späteren Zeitpunkt oder nutzt eure exklusive Bestellmöglichkeit dieser Raritäten - einfach per Mail oder über unser Social Media Bescheid geben.<BR><BR>
+
+  Da ich beim Andres schon einige Pflückrunden des gleichen Kaffees hatte, beziehe ich meist genau die, die ich mir für die Saison vorstellen kann.<BR>
+
+  Der gestrige Primer Corte ist mit der feinen Floralität im Frühling genau das richtige, aber der Segundo Corte ist ein etwas komplexerer Kaffee. Wir haben nun einen Anstieg der Fruchtsäure und Süße. Die meisten Kaffees auf der Welt werden zu diesem Zeitpunkt gepflückt, nur wissen sie es nicht (nicht die Kaffees, sondern die Hersteller). Bei anonymen Massenkaffees ist das sowieso irrelevant, weil hunderte Tonnen-Cuvees entstehen, aber wenn man mal ein nano-lot in zwei Picking Rounds hat, wird es interessant die Unterschiede fest zu stellen.<BR>
+
   Schreibt mir gerne welcher euer Favorit ist. <BR>
-  <BR>` },
+
+  <BR>`},
   {
     number: "7",
     title: "title",
