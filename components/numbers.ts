@@ -198,7 +198,31 @@ Tipp:<BR>
 Für dieses Türchen darf es etwas feiner als gestern sein, weil die Dichte aufgrund der Röstung etwas geringer ist als beim Dark Roast. Außerdem stellt ihr euch so schon mal vom Mahlgrad auf morgen ein😉
 `,
   },
-  { number: "23", title: "title", text: "" },
+  {
+    number: "23",
+    title: "title",
+    text: `Wer hätte es geahnt – da wären wir ja bei der genannten Sensorikbox!<BR>
+Heute haben wir den Marsellesa in der natural Aufbereitung.
+<BR><BR>
+Marsellesa ist eine viel zu selten angebaute Varietät. Fragt mich nicht warum, vielleicht kommt es noch. Durch die Genetik mit HdT Anteil, hat Marsellesa sogar hohe Widerstände gegenüber Blattrost. Ein „high quality cup" sagt man ihm auch zu, deshalb wüsste ich nicht, wieso wir nicht mehr Marsellesa sehen sollten.<BR>
+Der Natural ist im Vergleich zum gestrigen Washed natürlich viel komplexer, dichter, wilder.<BR>
+Wie bereits erwähnt hatten wir vor zwei Jahren eine Sensorikbox in der beide waren. Ich verrate euch auch, dass ich diese im neuen Jahr angedacht habe ;-)<BR>
+Ich denke diese Box dürfte auch recht früh im Januar kommen, um schon mal einen leckeren und richtungsweisenden Jahresstart zu haben. 2024 wird wieder mal ein Jahr, in dem wir uns mehr auf das fokussieren werden, wovon wir in den letzten drei Jahren etwas abgelenkt wurden. Bei all den besonderen Situationen und unternehmerischem Überlebenskampf gab es nicht immer Zeit für die eigene DNA. Ich erhoffe mir mehr Zeit für Sensorik, kleine besondere Ernten, Wagnis und einfach geilen Kaffee.<BR>
+Beide Ernten habe ich exklusiv bekommen, sodass es sich anbietet diese Mini-Ernte für sensorische Zwecke zu verwenden.<BR>
+Die Frage ob man natural oder washed mag ist so alt wie.. es ist einfach eine sehr persönliche Präferenz. Es gibt Scotch chill filtered, non chill filtered, Bier naturtrüb, Wein trocken oder lieblich, nichts davon ist besser oder schlechter, es ist nur eine Vorliebe eines jeden Trinkers.<BR>
+Ich denke, dass wir noch eine unglaublich lange Reise vor uns haben, sensorisch und wissenstechnisch betrachtet, sodass wir noch lange nicht an dem Punkt angekommen sind, wo Weinvorlieben bereits sind. <BR>Ihr wärt überrascht wie clean und geradlinig manche Naturals sein können und ich liebe unsere Blindverkostungen.<BR><BR>
+A propos Blindverkostung, wir werden im Januar einen Filterkaffee Kurs anbieten. Aktuell ist der 13 oder 14. Januar angedacht – wer also Lust hat sein Home-Brewing aufzupeppen, dem kann ich das neue Kursformat nur ans Herz legen. Wir planen damit, dass ihr eure Brühmethode mitbringen könnt und wir gemeinsam das Rezept und ein paar Kaffees daran ausarbeiten. Näheres findet ihr demnächst auf unseren sozialen Medien und der Homepage.<BR><BR>
+Ich hoffe ihr hattet Spaß an diesem Kalender und konntet für euch etwas mitnehmen. Nicht alle Kaffees waren perfekt, manche haben überrascht, bei vielen habe ich selbst etwas gelernt und ich würde die Erfahrung nicht missen wollen. Nächstes Jahr wird es der fünfte Adventskalender...puuh...ob es der letzte sein wird? Wird sich dann in den nächsten Monaten zeigen ;-)<BR>
+Ich würde mich auf jeden Fall freuen euch wieder dabei zu haben!
+Falls ich euch noch um etwas bitten darf: es wäre echt cool, wenn ihr mir so ein bisschen Feedback geben würdet. Ich habe nun im Laufe der Zeit viele Kommentare über Instagram oder per Mail erhalten und bin froh drum. Falls ihr also mal an einem langweiligen Winter-Tag dieses Jahr oder im Januar Zeit habt, ich lese alles gerne.<BR><BR>
+Wir haben jetzt erstmal vom 24. – 29. Geschlossen und öffnen wieder am 30. und Silvester. Die genauen Öffnungszeiten könnt ihr immer Google entnehmen.<BR>
+Die letzten beiden Tage des Jahres wären eine Möglichkeit, um sich nochmal für den Jahresstart auszurüsten, da ich mir nach einem so vollen Jahr gerne einige Tage Auszeit gönne, bevor der ganze Spaß wieder von vorne beginnt. Kommt lieber am letzten Wochenende 2023 als Anfang Januar vor verschlossener Tür zu stehen...<BR><BR>
+Ich schreibe jetzt schon mal eine Art Abschied und bedanke mich bei euch, denn morgen kommt ein Kaffee, der mehr so eine Art „show-off" ist und vermutlich nicht den Weg ins Sortiment finden wird.
+Ich gehe mal davon aus, dass die meisten am 24. sowieso viel Trubel haben, deshalb werdet ihr morgen weniger Zeit für das Lesen haben.
+Ich habe davon auch keinen Sack gekauft, da er unglaublich teuer ist, sondern nur zehn Kilo. Diese wurden einzig für den Kalender geröstet und das soll nochmal dieses wunderbare Projekt abschließen. Falls es jemandem gefällt, ich habe noch ein paar Kilo da und werde die peu a peu mit Kunden teilen, die Lust auf so etwas haben.<BR>
+Ja..es war eine wunderbare Reise, entschuldigt ein paar verspätete Beschreibungen und ich hoffe ihr seid alle gesund und munter durch das Jahr gekommen und könnt Weihnachten genießen!
+`,
+  },
   {
     number: "13",
     title: "title",
@@ -378,7 +402,21 @@ Abgesehen vom Geschmacksprofil, habe ich persönlich noch ein Prickeln auf der Z
 Man spürt Navel-Orangen oder Blutorangen, eher süßlich, nicht sauer, leicht floral, Mandeln und einen runden Körper.<BR>
 Heute haben wir ihn im Ausschank an der Kaffeebar – lohnt sich. `,
   },
-  { number: "22", title: "title", text: "" },
+  {
+    number: "22",
+    title: "title",
+    text: `Es geht in die Endrunde. Ich denke, dass uns in den kommenden drei Tagen die drei vermutlich spannendsten Kaffees erwarten. <BR>Abgesehen der Riesenbohnen Linie. Und dem Agaro..<BR>
+Ok, es wird echt schwer sich festzulegen und genau das ist das Schöne an diesem Projekt, man macht seine Erfahrungen, pickt seine Favoriten und lernt etwas mehr über Kaffee.<BR>
+Heute erwartet uns ein Kaffee, der bereits Teil unseres Sortiments war. Ich kann mich nicht erinnern, ob es auch nur zwei Säcke a 30kg waren, aber wir haben im Herbst/Winter 2021 eine der seltenen Sensorikboxen veröffentlicht, die sich mit Aufbereitungen beschäftigte.<BR><BR>
+Der gewaschene Marsellesa, der 2021 Teil dieser Processing Box war, erwartet euch heute in einer recht hellen Röstung.<BR>
+Im diesjährigen Kalender gab es einige interessante Vergleiche, darunter zählen die Röststufen einzelner Kaffees und die Aramosa Jahrgänge. Einen kleinen Einblick in Pflückrunden gab es zuletzt ebenfalls.<BR>
+Heute erwartet uns das Thema „Processing" auf Deutsch Aufbereitung.<BR>
+Ich war überrascht als ich den Marsellesa wieder auf der Ernteliste fand und habe gleich meine Hand draufgelegt. Die mini-Ernte von 60kg Rohkaffee ist seit einigen Wochen bei uns in Wiesbaden und eine Charge (15kg) wurde für den Adventskalender verwendet.<BR>
+Wenn wir noch einen Natural davon hätten und dann noch von der gleichen Ernte, das ist fast unmöglich...<BR><BR>
+Das heutige Türchen ist ultra hell geröstet und wird vermutlich noch bis in den Januar reifen. Eine helle Röstung bedeutet, dass man nicht lange und bei geringerer Temperatur geröstet hat. Dadurch ist der Kaffee weniger aufgecrackt und die Poren sind verschlossener. Die Reifung und Ausgasung dauern länger und ihr könnt ihn heißer brühen. Wenn ihr also gerade Stress zur Weihnachtszeit habt, lasst den Kaffee ruhig noch liegen, ansonsten genießt diese saubere, klare Tasse einer wunderbar unterschätzten Varietät und brüht sie ruhig heiß auf, das verträgt er.<BR>
+Zum Marsellesa ist zu sagen, dass er ein wirklich schönes und komplexes Aromenprofil hat und leider viel zu selten angebaut wird. Kandierte Orange, grüner Apfel, Rum, karamellisierte Birne, Pflaume, Melone, Kakao, Amarettini, süß, fruchtig, clean, bei diesem Kaffee ist vieles möglich.
+`,
+  },
   {
     number: "11",
     title: "title",
