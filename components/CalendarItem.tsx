@@ -18,7 +18,7 @@ export const CalendarItem = ({ item, count }: {
 
     //const isActive = (Number(item.number) <= new Date().getDate() && new Date().getMonth() === 11) || count > 9
     //const isActive = Number(item.number) <= 17 || count > 19
-    const isActive = true
+    const isActive = false
 
     const onPressItem = () => {
         if (isActive) {
