@@ -16,9 +16,9 @@ export const CalendarItem = ({ item, count }: {
     const [pointerEvents, setPointerEvents] = React.useState<"auto" | "none" | "visiblePainted" | "visibleFill" | "visibleStroke" | "visible" | "painted" | "fill" | "stroke" | "all" | "inherit">("none")
 
 
-    //const isActive = (Number(item.number) <= new Date().getDate() && new Date().getMonth() === 11) || count > 9
-    //const isActive = Number(item.number) <= 17 || count > 19
-    const isActive = false
+    const isActive = (Number(item.number) <= new Date().getDate() && new Date().getMonth() === 11) || count > 9
+    // const isActive = Number(item.number) <= 17 || count > 19
+    //const isActive = false
 
     const onPressItem = () => {
         if (isActive) {
@@ -43,9 +43,9 @@ export const CalendarItem = ({ item, count }: {
         }
     }, [isActive, item.number])
 
-    const highlightedNumbers = ["10", "15", "16", "18", "19", "20", "22", "23", "24"]
+    const highlightedNumbers = [""]    // ["10", "15", "16", "18", "19", "20", "22", "23", "24"]
 
-    const borderStyle = highlightedNumbers.includes(item.number) && {
+    const borderStyle = highlightedNumbers.includes(item?.number) && {
         borderColor: isActive ? "white" : "lightgray",
         borderStyle: "solid",
         borderWidth: 2,
