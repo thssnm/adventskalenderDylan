@@ -38,8 +38,9 @@ export default function Home() {
         </div>
         <p style={{ fontFamily: "Libre Baskerville", fontSize: "1.2em", marginTop: -24, color: "white" }}>Adventskalender 2023</p>
         <div style={{
-          backgroundImage: "url(https://image.jimcdn.com/app/cms/image/transf/dimension=505x10000:format=jpg/path/sfb26f3d4a5091d4b/image/i1622a35d21611052/version/1700642134/kaffe-agaro.jpg)",
+         // backgroundImage: "url(https://image.jimcdn.com/app/cms/image/transf/dimension=505x10000:format=jpg/path/sfb26f3d4a5091d4b/image/i1622a35d21611052/version/1700642134/kaffe-agaro.jpg)",
           backgroundSize: "cover",
+      backgroundImage: "https://image.jimcdn.com/app/cms/image/transf/dimension=750x1280:format=jpg/path/sfb26f3d4a5091d4b/image/i14cef6bfd58e258d/version/1711008085/image.jpg", 
           opacity: 0.8,
           borderRadius: 12,
         }}>
