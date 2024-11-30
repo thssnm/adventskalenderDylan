@@ -35,7 +35,7 @@ Ich bin auf euren Eindruck gespannt!
   {
     number: "1",
     title: "title",
-    text: `Herzlich willkommen zum diesjährigen Adventskalender. <BR><BR>Ich bin sehr froh dich dabei zu haben und möchte dich in den nächsten 24 Tagen auf eine Reise voller spannender Kaffees, Erfahrungen und neuem Wissen mitnehmen.
+    text: `Herzlich test zum diesjährigen Adventskalender. <BR><BR>Ich bin sehr froh dich dabei zu haben und möchte dich in den nächsten 24 Tagen auf eine Reise voller spannender Kaffees, Erfahrungen und neuem Wissen mitnehmen.
 Die meisten von euch sind bereits zum 2. 3. oder gar 4. Mal dabei, was mich sehr stolz macht!
 Für alle Neuen: ich bin Duje, die künstliche Intelligenz von... ok, soweit sind wir noch nicht, alle Texte wurden noch von Hand geschrieben und als Kaffeeröster seit nun zehn Jahren und Inhaber von Dylan & Harper freue ich mich euch eine Vielzahl an neuen Kaffeeerfahrungen, die auch mir während des Jahres begegnet sind, bieten zu können.
 <BR><BR>
