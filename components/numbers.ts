@@ -75,7 +75,26 @@ Wir haben also nur noch die paar Kilogramm von der Adventskalender Röstung auf 
   {
     number: "2",
     title: "title",
-    text: ``,
+    text: `Wer bereits einen Adventskalender von uns hatte, wird sich erinnern können, dass ich verschiedene Wege suche, um einen sensorischen Mehrwert in diesen Kalender einzubauen.<BR>
+Passend ist es immer, wenn ich die Möglichkeit habe, bei zwei Kaffees so viele Variablen wie möglich gleich zu haben und so nur auf ein-zwei Unterschiede hinzuweisen.<BR>
+Wir werden noch viele Jahre, gar Jahrzehnte benötigen, um einfache Vergleiche aus dem Handgelenk zu schütteln, wie beim Wein.
+Gerade für uns im Rheingau ist es ein Leichtes von einem einzigen Winzer einen trockenen und lieblichen Riesling zu verkosten oder mehrere Rebsorten nebeneinander zu vergleichen.<BR>
+In der Kaffeewelt sind wir noch lange nicht so weit. Selbst die „Specialty Coffee Szene", die eventuell 5% Marktanteil hat, also ein Nischenprodukt ist, kann kaum drei sortenreine Varietäten von einer Plantage auf den Tisch stellen oder Aufbereitungen (engl. Processing) in der Tasse darstellen.<BR><BR>
+
+Wir sehen uns zwar als Teil der Specialty Coffee Szene, folgen aber weder irgendwelchen fragwürdigen Regeln, Cupping Scores o.Ä.<BR>
+Seit acht Jahren arbeiten wir mit den gleichen fünf Kaffeebauern und haben so unser eigenes Kaffee-Universum.<BR>
+Das erlaubt mir auch, euch heute den gleichen Kaffee von gestern zu zeigen - allerdings als gewaschene Aufbereitung!<BR>
+Naturals vs Washed ist ein Thema so alt wie die Menschheit.. naja nicht ganz ;-)<BR>
+Nur zwei Länder machen von Haus aus Naturals, nämlich Brasilien und Äthiopien. Die Trocknung der Kaffeekirsche nach der Pflückung ermöglicht ein unverwechselbares Geschmacksprofil in Hülle und Fülle. Brasilianische nussige, erdige und körpervolle Kaffees sind die Basis aller italienischen Espressi im letzten Jahrhundert und bis heute grösstenteils, während eine florale und fruchtige Tasse aus den großen Regionen Äthiopiens gleich auffällt.<BR>
+In den letzten Jahren entstand eine Nachfrage nach Naturals aus anderen Ländern. Auf Costa Rica, die sehr oft die ersten sind bei einem Trend, folgten andere Lateinamerikaner und mittlerweile gibt es auch einige afrikanische Naturals abseits Äthiopiens und i Asien.
+Gestern war also das, was Andres nie macht.<BR>
+Heute erwartet euch ein klassischer gewaschener Arabica aus El Salvador.<BR>
+Fast, denn der Castillo kam aus Kolumbien.<BR>
+Ich meine mich zu erinnern, dass Andres erwähnt hatte, dass er einen Kollegen in Kolumbien um Samen bat.<BR>
+Wir freuen uns sehr, dass Andres einen schönen Pool an neuen Varietäten aufbaut und die eine oder wird euch noch begegnen :-)<BR><BR>
+
+Gewaschen heisst die Kirsche wurde gleich entfernt, somit haben wir kaum Fermentationsgeschmack. Es erwartet euch eine klare geschmackliche Richtung und kann mit kolumbianischen Castillos verglichen werden. Nur das wir auf der Finca La Quintanilla recht seltene Lehmböden haben, die dort eigentlich nicht möglich wären. <BR>Dank tektonischer Verschiebung können wir uns auf ein cremigeres Mundgefühl bei diesem washed Castillo freuen.<BR><BR>
+`,
   },
   {
     number: "23",
@@ -107,10 +126,10 @@ Wir haben also nur noch die paar Kilogramm von der Adventskalender Röstung auf 
     title: "title",
     text: ``,
   },
-  { 
-    number: "24", 
-   title: "title", 
-   text: "" 
+  {
+    number: "24",
+    title: "title",
+    text: "",
   },
   {
     number: "19",
