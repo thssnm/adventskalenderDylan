@@ -86,7 +86,7 @@ Seit acht Jahren arbeiten wir mit den gleichen fünf Kaffeebauern und haben so u
 Das erlaubt mir auch, euch heute den gleichen Kaffee von gestern zu zeigen - allerdings als gewaschene Aufbereitung!<BR>
 Naturals vs Washed ist ein Thema so alt wie die Menschheit.. naja nicht ganz ;-)<BR>
 Nur zwei Länder machen von Haus aus Naturals, nämlich Brasilien und Äthiopien. Die Trocknung der Kaffeekirsche nach der Pflückung ermöglicht ein unverwechselbares Geschmacksprofil in Hülle und Fülle. Brasilianische nussige, erdige und körpervolle Kaffees sind die Basis aller italienischen Espressi im letzten Jahrhundert und bis heute grösstenteils, während eine florale und fruchtige Tasse aus den großen Regionen Äthiopiens gleich auffällt.<BR>
-In den letzten Jahren entstand eine Nachfrage nach Naturals aus anderen Ländern. Auf Costa Rica, die sehr oft die ersten sind bei einem Trend, folgten andere Lateinamerikaner und mittlerweile gibt es auch einige afrikanische Naturals abseits Äthiopiens und i Asien.
+In den letzten Jahren entstand eine Nachfrage nach Naturals aus anderen Ländern. Auf Costa Rica, die sehr oft die ersten sind bei einem Trend, folgten andere Lateinamerikaner und mittlerweile gibt es auch einige afrikanische Naturals abseits Äthiopiens und in Asien.
 Gestern war also das, was Andres nie macht.<BR>
 Heute erwartet euch ein klassischer gewaschener Arabica aus El Salvador.<BR>
 Fast, denn der Castillo kam aus Kolumbien.<BR>
