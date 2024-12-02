@@ -124,7 +124,21 @@ Gewaschen heisst die Kirsche wurde gleich entfernt, somit haben wir kaum Ferment
   {
     number: "3",
     title: "title",
-    text: ``,
+    text: `Catucai Rojo.<BR>
+Natural.<BR>
+Ein weiterer trocken aufbereiteter (nicht verwechseln mit Wein) Arabica von Andres aus El Salvador und ein weiterer Kaffee, der nicht offiziell im Shop ist, aber der erste, der es wird!<BR>
+Ich habe diesen roten Catucai, aus einer Mini-Ernte von 90kg, schon länger im Blick und jetzt für den Kalender zugeschlagen!<BR>
+Obwohl Catucais keine Seltenheit sind, hatten wir schon lange keinen. Wenn man zu Arabicas in Südamerika greift, sind es, neben länderspezifischen Varietäten, meist Catuais.<BR>
+Was ähnlich klingt, hängt auch meist zusammen.
+<BR>
+Der Catucai ist eine in Brasilien entstandene Kreuzung aus Catuai x Icatu. Unser erster, letzter und einziger Catucai war von der Fazendas Dutra und seit 2019 wird er sehnlichst von manch Stammkunden vermisst.<BR>
+Ob dieser El SalvadorNatural zu gleicher Berühmtheit kommt, ist schwer abzusehen, aber eventuell auch gar nicht nötig.<BR>
+Denn die 90kg Ernte wird schneller ausgetrunken sein, als man planen kann.<BR>
+Wir haben den Kaffee gestern offiziell verkostet, jetzt fehlt nur noch das Etikett und dann geht es los.<BR>
+Ein ausgewogener Filterkaffee voller süß-saurer Pflaumen. Gebrannte Mandeln steigen in der Nase auf. Eventuell etwas Kräuterlikör, Pastis, Pernod, eher die Französischen mit Anis, Fenchel, Thymian, Salbei usw.<BR>
+Könnte bereits im Januar ausverkauft sein aufgrund der geringen Menge.<BR>
+Habe noch etwas Rohkaffee da, womöglich röste ich ihn als nächstes dunkler für ein runderes Espresso-Erlebnis.<BR>
+Leider keine Chance auf eine Folgeernte, da Naturals auf der Finca La Quintanilla momentan zu riskant sind.<BR><BR>`,
   },
   {
     number: "24",
