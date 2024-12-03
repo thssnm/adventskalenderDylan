@@ -65,7 +65,14 @@ Wir haben also nur noch die paar Kilogramm von der Adventskalender Röstung auf 
   {
     number: "6",
     title: "title",
-    text: ``,
+    text: `Piper Nigrum – Badra Estates<BR>
+Ein würziger Kaffee, der ab und zu mal versehentlich gebrüht wird. Moment mal versehentlich?<BR>
+Das ist ja kein Kaffee ihr Lieben *lach*<BR><BR>
+Seit Jahren importieren wir nicht nur Kaffee aus den Herkunftsländern, sondern haben diesen direkt gehandelten schwarzen Pfeffer von den Badra Estates im Sortiment.<BR>
+Für viele Kaffeebauern sind weitere Produkte neben Kaffee überlebensnotwendig. Uns freut es Jacob unterstützen zu können und unseren Gerichten die gewisse Würze zu verleihen.<BR>
+Wenn ich auf ein Korn beiße, merke ich erst, weshalb das auf Englisch „spice" heißt.<BR>
+Meidet bitte Plastik-Gewürze aus dem Supermarkt und holt euch gerne euren Pfeffer bei uns!<BR><BR>
+`,
   },
   {
     number: "18",
@@ -114,7 +121,18 @@ Gewaschen heisst die Kirsche wurde gleich entfernt, somit haben wir kaum Ferment
   {
     number: "5",
     title: "title",
-    text: ``,
+    text: `Gestern die Erste, folgt heute auch schon die Zweite!<BR>
+Pacamara Segundo Corte ist der zweite Pacamara, den wir im Kalender haben und im Prinzip ist er identisch zum gestrigen Türchen, nur dass dieser Kaffee von der gleichen Pflanze zwei Wochen später gepflückt wurde.<BR><BR>
+Äpfel, Kardamom, malzig und leichte Rauchnoten, aber wirklich so ganz leicht irgendwo am Ende des Geruchs versteckt.<BR>
+Irre, oder? Ohne hier viele Worte zu verlieren, möchte ich die Tasse für sich sprechen lassen.<BR>
+Die zweite Pflückung bringt eine ganz andere Fülle mit sich. Mehr Body, mehr Verweildauer und etwas bitterer, wobei letzteres auf die Röstung zurückgeht. Den Segundo Corte habe ich eine halbe Minute und 6° später rausgeholt als den Primer. Er hat einfach mehr in sich, sodass ich ihn etwas länger rösten konnte und somit nun auch einen unglaublichen Espresso habe.<BR>
+Anfang der Woche haben wir die beiden nebeneinander verkostet und diese Röstung ist eher ein klassischer Filterkaffee, den ich aber gerade an so kalten Tagen nicht missen möchte.<BR>
+Vor allem dieses malzige, leicht rauchige mit Fruchtakzenten macht in der Tasse Spaß.<BR><BR>
+Diese Pflückrunde ist das, was man in Deutschland trinken möchte. Jetzt wird es wieder uninteressant für Köche und Feinschmecker, aber letztendlich ist es jedem selbst überlassen, ob man von allem etwas „mehr" möchte oder nicht.<BR>
+Wobei..selbst überlassen?! Während ich das schreibe, erreichen hunderte Tonnen Hamburg, Antwerpen und Rotterdam, mit der Aufschrift: „Product of El Salvador".<BR>
+So etwas ist nur mit einem sinnvollen Kaffeeröster an deiner Seite möglich, der direkten Handel mit Kaffeebauern betreibt und somit für nachvollziehbare Geschmacksunterschiede sorgt, für die man sich dann bewusst entscheiden kann.<BR>
+Leider nur 30kg Ernte.<BR><BR>
+`,
   },
   {
     number: "20",
@@ -153,7 +171,19 @@ Leider keine Chance auf eine Folgeernte, da Naturals auf der Finca La Quintanill
   {
     number: "7",
     title: "title",
-    text: ``,
+    text: `Vor dem Pfeffer ist nach dem Pfefferkorn, es folgt wieder mal eine Riesenbohne!<BR>
+Um die Finca La Quintanilla nach heute zu verlassen, verabschieden wir uns gebührend mit diesem Knaller: La Palma.<BR>
+Für den Kalender wurden acht Säcke dieses natural Pacamara bereits im Jahr 2022 sehnlichst erwartet. Damals waren es die Insekten, die schneller waren und somit die ganze Ernte verloren ging. <BR>Ungewöhnlich irgendwie, Latinos sind sonst eher träge ;-)<BR><BR>
+Als dieses Wundermittel 2023 zu uns kam, konnte ich es kaum erwarten einen natural Pacamara zu veröffentlichen. Das war meine ich mein Erster.<BR>
+Nach vielen unterschiedlichen Röstungen ist diese Riesenbohne fester Bestandteil unseres Sortiments geworden und ich röste ihn saisonal. Im Sommer super fruchtig, ist er nun im Winter etwas kräftiger. Paar Röstaromen haben sich zu den roten Früchten und der pinken Grapefruit dazu gesellt. Etwas mehr Marzipan, mehr Körper und auch die eine oder andere Bohne ist etwas dunkler.<BR>
+Tatsächlich fällt es Andres unheimlich schwer diese Riesenbohnen homogen zu prozessieren.<BR>
+Als Natural reifen sie nun mal wild nach der Pflückung und trotz der ausgiebigen Lager/Ruhezeit danach, haben wir unterschiede in der Feuchtigkeit. Ich kann zwar während der Röstung da noch etwas nachhelfen, aber es ist einfach schwierig und nicht immer akkurat zu managen. So ist das mit Lebensmitteln eben.<BR>
+Ändert das etwas daran, dass es eine der schönsten Ernten ist? Nein
+Hat der La Palma Pacamara seit letztem Jahr unglaublich viele Fans? <BR>Ja<BR><BR>
+Ich habe im letztjährigen Kalender geschrieben: „Dieser Pacamara ist ein Kaffee auf den ich gerne in 2024 aufbauen würde. Die Ernte ist groß genug und mit der Zeit werde ich auch das Röstprofil verbessern. Aktuell ist er mir ein klein wenig davon gerannt. Dennoch ist es ein herausragender Kaffee UND Espresso."<BR>
+Genau das ist eingetroffen und noch habe ich die Möglichkeit euch diesen Kaffee anzubieten, fragt sich nur, wie lange die Ernte noch reicht, da Andres erstmal keine Naturals machen wird..
+Guten!<BR><BR>
+`,
   },
   {
     number: "15",
@@ -163,7 +193,19 @@ Leider keine Chance auf eine Folgeernte, da Naturals auf der Finca La Quintanill
   {
     number: "4",
     title: "title",
-    text: ``,
+    text: `Von den kleineren Bohnen hin zu Großen, von naturals zu sauberen, gewaschenen, edlen Riesenbohnen.<BR>
+Heute haben wir einen Pacamara von der Finca La Quintanilla aus El Salvador.<BR><BR>
+In der Regel sind Kaffeebohnen, die weltweit gehandelt werden, sogenannte 15up oder 16up. Ab und zu gibt es mal 14up oder 17up. <BR>Letzteres trifft auf diesen Pacamara zu. Als Super-Pflanze gedacht, kreuzte man die einzigartigen Riesenbohnen „Maragogype" (Tipica-Linie) mit dem kleinwüchsigen Pacas (Bourbon-Linie). Betrachtet man allein die Größe von Pacamara Kirschen und den darin befindlichen Bohnen, wurde das Ziel nicht erreicht, jedoch hat man eine der bemerkenswertesten Arabicas geschaffen, die wir heute noch haben.<BR>
+Die kaiserlichen Bohnen eines Maragogypes werden nicht mehr lange bestehen, da sie als uralte genetische Linie der Tipica Pflanze nicht ans klimatische Heute angepasst sind, aber im Pacamara werden sie immer weiterleben.<BR>
+Nach sieben Generationen hat man es endlich geschafft Pacamara stabil zu halten, sodass sie nicht in ihre zwei Bestandteile zerfallen. Jedoch haben nur wenige Farmen auf dieser Welt diese 7. Generation und verlieren noch jedes Jahr an Pacamara Anteilen auf ihrer Farm.<BR>
+Wir haben das Glück, dass unsere Kaffeebauern untereinander kommunizieren und sich helfen, sodass Andres diese Samen von der Finca Hamburgo aus Mexiko bekommen hat.<BR>
+Das ist womöglich der einzige Pacamara, der auf Lehmboden wächst. Wie ihr wisst, haben wir auf der Finca La Quintanilla diese seltenen Böden und Pacamaras werden nur in Lateinamerika angebaut. Der Ursprung geht sogar auf El Salvador zurück, da einer der drei Bourbons aus El Salvador der Pacas ist.<BR><BR>
+Wir freuen uns auf den cremigen Körper mit saftiger Grapefruit, Streuobstäpfeln, Floral, Mandeln, Walnuss-Gebäck und leichter Bitterkeit.<BR>
+Der Trick bei diesem Pacamara ist, dass es die erste Pflückrunde war. Überall, wo wir können, versuchen wir mehrere Pflückrunden zu machen. Bei einer großen Farm wie der Fazendas Dutra ist das unmöglich, aber Andres hat hier die perfekte Größe und das Team, welches mehrmals in wöchentlichen Abständen aufs Feld geht, um bis zu drei Pflückrunden zu machen.<BR><BR>
+Nach vielen Jahren haben wir bemerkt, dass die erste Pflückung immer floraler und sanfter ist. Gerade beruflichen nicht-Kaffeetrinkern gefällt das in Deutschland besonders gut. Sprich Köche, Konditoren und andere Berufsbilder, die geschmackliche Komponenten suchen. <BR>Während Kaffeekonsumenten eher zur zweiten Pflückrunde greifen.<BR>
+In Belgien und den Niederlanden ist das beispielsweise genau andersherum. Die Historie brachte den Umgang mit floraleren Lebensmitteln und aus den Kolonien kamen leichtere Tees und Kaffees. Bis heute sind beispielsweise indonesische Kaffees, welches immer in den top5 Anbauländern nach Volumen steht, recht floral. In diesen Nachbarländern präferieren dann wiederum Köche eher die zweite Pflückrunde.<BR>
+Ich bin gespannt, wie euch diese Röstung des „Primer Corte" gefällt. Leider ist auch hier die Erntemenge quasi nicht vorhanden, denn es gab nur einen Sack Rohkaffee...<BR><BR>
+`,
   },
   {
     number: "16",
