@@ -60,7 +60,21 @@ Wir haben also nur noch die paar Kilogramm von der Adventskalender Röstung auf 
   {
     number: "8",
     title: "title",
-    text: ``,
+    text: `Da eure Mühlen bereits auf Pacamara eingestellt sind, machen wir einfach weiter mit dieser Genetik.<BR>
+Heute wechseln wir allerdings die Plantage. Bem vindo as Fazendas Dutra!<BR>
+Es wird körpervoller, nussiger, kraftvoller.<BR>
+Diese Parzelle beherbergt vermutlich einen der seltensten Kaffees der Welt.<BR>
+Ich weiß nicht wie viel die Varietät Pacamara in der Arabica Welt in Zahlen ausmacht. Ich weiß auch gar nicht, ob es wirklich Statistiken zu Varietäten gibt. Vermutlich nicht, weil weiterhin Tonnen um Tonnen in die Häfen gelangen, ohne auch nur annähernde Transparenz oder Informationen zum Kaffee zu haben. Was ich euch jedoch sagen kann: <BR>das wird sich ändern!<BR><BR> 
+Im September wurde ich eingeladen auf der 2. International Coffee Convention (ICC) an einer Diskussion teilzunehmen. Für mich war das eine schöne Gelegenheit auf der Bühne mit Kollegen über wichtige Themen zu sprechen. Ob sich die Welt des Geschäftsführers der 100% Melitta-Tochterfirma „Roastmarket" mit meiner Welt irgendwo überschneidet, weiß ich nicht, aber man kann immer etwas lernen ist meine Devise. Vor allem aber waren die anderen Vorträge von unmessbarem Wert. So präsentierte der Präsident des dt. Kaffeeverbandes Einsichten und Ansichten über eine mögliche Kaffeezukunft.<BR>
+Er bat alle im Publikum nichts davon zu verbreiten, deshalb möchte ich das auch nicht, aber ich darf euch verraten, dass aufgrund der aktuellen Situation, die nächstes Jahr gewiss nicht besser wird, massive Änderungen im Kaffeemarkt bevorstehen.<BR>
+Dafür braucht man aber auch keinen Vortrag, sondern kann es sich selbst zusammensuchen. Gerade die heranwachsende Gen Z ist erpicht darauf zu erfahren, wo ihre Lebensmittel herkommen und ein Sack mit der Aufschrift „Product of Brazil" wird da nicht mithalten können bzw. in der EU zumindest auch nicht möglich sein. Zusätzlich zum Klimawandel, Frachtraten und bekannten Hürden, ist die Gesetzgebung sowie langfristige Trends ein großes Thema.<BR><BR>
+
+Zurück zu dieser Parzelle:<BR>
+Auf der Fazendas Dutra haben wir eine Parzelle, auf der gelber Pacamara wächst.<BR>
+Einen Yellow Pacamara zu finden ist sehr schwierig. Gelbreife Kirschen machen um die 5% weltweit aus. Pacamaras als instabile Riesenbohnen-Genetik sind solala im Anbau, den Rest könnt ihr euch ausrechnen.<BR>
+Dass das ganze als Natural verarbeitet wurde, von einer der besten Farmen Brasiliens setzt der Torte die Kirsche auf.<BR>
+Seitdem ich diese einzigartige Ernte habe, röste ich den Yellow Pacamara nur zu besonderen Anlässen. Letztes Jahr war es das 5. Jubiläum, dieses Jahr zur „Big Beans Box". Ich bezahlte damals die Rohkaffees zu einem normalen Arabica-Preis, als reine Geste und Teil eines anderen Deals. Möchte man heute diese Ernte beziehen, wäre das 2-3fache zu bezahlen. Deshalb weiß ich sehr wohl um den Wert dieser Säcke und versuche sie so lange wie möglich bei uns zu halten.
+Es ist kein anaerob fermentierter Kaffee oder gar ein Liberica, aber die Tasse ist so wundervoll Stereo und vor allem in allen Brühmethoden lecker. Unter anderem die wundervollste Orange, die ich in einer Tasse hatte.<BR><BR>`,
   },
   {
     number: "6",
