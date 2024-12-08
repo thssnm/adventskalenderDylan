@@ -52,16 +52,13 @@ Wir haben also nur noch die paar Kilogramm von der Adventskalender Röstung auf 
     title: "title",
     text: `Zum allerersten Mal haben wir einen Cascara im Adventskalender. <BR>Was ist dieses wohlduftende Gemisch im heutigen Türchen?<BR>
 Cascara – Kaffeekirschtee (200ml, 3g Tee, 100° Brühtemperatur, 4min Ziehzeit)<BR><BR>
- 
 Kaffeekirschen sind momentan mit das unterschätzteste Gut der Kaffeepflanze. Nachdem die zwei Flachbohnen (oder eine Perlbohne) aus der Kirsche gedrückt wurden, nimmt man die Kirschreste hauptsächlich als natürlichen Dünger.<BR>
 Ich weiß tatsächlich nicht, wie die Zahlen dazu sind, aber ein erschreckender Anteil wird gar nicht verwendet.<BR>
 Unser Interesse und damit meine ich die gesamte Kaffeewelt, ist oder sollte sein, dass die gesamte Pflanze verarbeitet wird. Wir sind seit einigen Jahren bereits am Experimentieren mit den Kaffeeblättern und können diese mittlerweile tatsächlich auch brühen, aber heute geht es erstmal um die Kaffeekirsche und den Cascara.<BR>
 Das Problem hinter diesen Produkten ist nicht, dass wir nicht wissen, wie wir sie verarbeiten sollen oder was damit zu tun wäre, nein, für uns in Deutschland gibt es ein regulatorisches Hindernis.<BR><BR>
- 
 Seit Jahren haben Wissenschaftler aus unserem Netzwerk daran gearbeitet, dass Cascara legalisiert wird. Denn alles, was außerhalb der EU ist, muss erstmal den Prozess als „Novel-Food" durchlaufen und wie sicherlich die meisten von euch erahnen können, ist das ein Kampf gegen Windmühlen.<BR>
 Hätten wir nicht das Glück, dass einige Menschen in unserem Netzwerk nicht nur sensationelle Wissenschaftler und intelligente Menschen sind, sondern auch gewisse Positionen in entscheidenden Ämtern national oder auf EU-Ebene innehaben, müssten Berliner Kaffeebars nach wie vor den Cascara unter der Theke verstecken.<BR>
 Nach vielen Jahren des unermüdlichen Einsatzes haben wir es endlich geschafft und seit 2021 ist Cascara in der EU und in Deutschland erlaubt.<BR><BR>
- 
 Wir selbst haben trotz dessen noch keinen Kaffeekirschtee auf der Karte gehabt und auch keinen verkauft, da wir, wie beim Cold Brew Thema, noch nicht an dem Punkt sind, wo wir gerne wären.<BR>
 Ihr habt heute unser Beta-Ergebnis. Um es nicht ganz so kompliziert zu sagen:<BR>
 Es gibt ganz viel Cascara auf der Welt, das meiste ist lustig aber wenn die Freude „an etwas Neuem" vergeht, geschmacksfrei.<BR>
@@ -70,7 +67,6 @@ Natürlich könnte man jetzt sagen: „Toll, neues Produkt, jetzt müssen erstma
 Unsere Ziele sind aber immer langfristiger, tiefer. Ich weiß nicht, ob ihr nachvollziehen könnt, was ich meine, eventuell im Laufe des Kalenders.<BR>
 Nunja und beim Cascara arbeiten wir aktuell daran, dass wir quasi sortenreinen Parzellencascara haben, wie unsere Kaffees auch.<BR>
 Dass das ein Riesen-Aufwand für unsere Farmer ist, wissen wir, deshalb benötigt es Zeit, aber wir sind auf einem guten Weg. Eine Verkostung dieses Jahr zeigte wie unglaublich sauber und wirklich lecker dann Cascaras von einem Catuai Vermelho von der Torre Taquara Preta oder gar einem Gesha sind.<BR><BR>
- 
 Es ist ein langer Weg und während man nun überhaupt die ersten Cascaras auf den Menüs spezieller Kaffeebars auftauchen, werden wir euch eventuell bereits im nächsten Kalender mit einem sortenreinen Parzellencascara überraschen können.<BR>
 Kurze Info zum Koffein: es ist wie eine Tasse Kaffee, also eine Tasse Cascara oder Kaffee, spielt keine Rolle.<BR><BR>
 `,
