@@ -2,7 +2,17 @@ export const numbers = [
   {
     number: "10",
     title: "title",
-    text: ``,
+    text: `Wir bleiben auf der Fazendas Dutra und wenden uns den klassischen Arabicas zu, die auch seit Jahren bei uns ein und ausgehen.<BR>
+Heute ist es der gelbe Catuai von der Parzelle Torre Taquara Preta.<BR><BR>
+Diese Parzelle ist zwar nicht der erste Brasilianer, den ich Anfangs bezogen habe, aber auf jeden Fall der Älteste! Den ersten „TTP" habe ich wohl 2017 gekauft. Lange war das unser „go-to" Kaffee und in mind. jedem zweiten Warenkorb. Was dazu führte, dass ich ihn aus dem Sortiment nahm.<BR>
+Ich spreche hier jedoch vom roten Catuai. Da wir heute den Gelben haben, möchte ich auf ihn eingehen.<BR><BR>
+Gelbreife Kirschen entstehen in ca. 5% der Fälle. Kaffeepflanzen wechseln nicht jährlich die Farbe ihrer Kirschen, denn es ist genetisch bedingt.<BR>
+Im Laufe der Jahrzehnte oder besser gesagt Jahrhunderte, hat man sich eher auf rotreife Kirschen fokussiert. Diese haben eine dickere Haut und sind somit weniger anfällig.<BR>
+Gelbreife Kaffees sind also recht selten und die TTP Parzelle ist auch die einzige, wo wir exakt den gleichen Kaffee haben, nur in zwei Farben.<BR>
+Das ist eine super Gelegenheit, um die eigene Sensorik zu schulen. Leider sind wir beim Kaffee ja noch nicht so weit, dass wir einfach mal Grauburgunder, Weißburgunder usw. alles von einer Lage nebeneinander stellen können.<BR>
+Hier wäre so ein Beispiel, um rein die Unterschiede der Kirschfarbe zu sehen.<BR>
+Gelbe Kaffees sind immer etwas süßer, als ihre roten Pendants.<BR><BR>
+`,
   },
   {
     number: "12",
