@@ -263,7 +263,16 @@ Ich bin gespannt, wie euch diese Röstung des „Primer Corte" gefällt. Leider 
   {
     number: "11",
     title: "title",
-    text: ``,
+    text: `Nach dem süßen Gelben, kommt der aromatische Rote. Wer hätts geahnt ;-)<BR><BR>
+Heute haben wir den roten Catuai von der Parzelle Torre Taquara Preta.<BR>
+Back to back einen gelbreifen und rotreifen Kaffee von der gleichen Parzelle, in der gleichen Aufbereitung (pulped natural) probieren zu können ist unfassbar selten.<BR>
+Ich denke, dass die Kaffeewelt jedes Jahr voran kommt und ich würde heute nicht mehr ausschließen, dass man eventuell mal eine Ernte als Washed und Natural nebeneinander stellen kann, so wie bei unserem Auftakt im Kalender.<BR>
+Zwei Kirschfarben sind jedoch nach wie vor fast unmöglich! Erst einmal gibt es kaum gelbe Kirschen und wenn, dann ist es mal eine Ernte, wir haben also wirklich Glück, dass wir vor Jahren mal Interesse an dieser Parzelle bekundet haben und uns die Dutra-Brüder um diese Erfahrung bereichern.<BR><BR>
+Da der rote TTP schon seit Jahren bei uns im Shop ist, möchte ich nicht all zu viel dazu schreiben. Vor einigen Wochen habe ich eine Story auf den sozialen Medien gemacht und hingewiesen, dass wir bald keinen mehr haben werden. Mittlerweile ist der Fall eingetroffen und er ist ausverkauft.<BR>
+Aktuell haben wir nur noch den gelben TTP als Filterröstung und eine neue Espressoröstung. Danach wird dieser auch alle sein.<BR>
+Der nächste Dutra-Container ist für Februar 2025 angesetzt und damit kommen zwei alte Bekannte zu uns. Die Älteren unter euch, werden sich freuen und die Neuen etwas sehr Spannendes erleben, denn nächstes Jahr geht es wieder um Reife am Ast, was die Weinwelt als Trockenbeerenauslese bezeichnet ;-)<BR>
+Bis dahin widmen wir uns diesem schönen Vergleich ein letztes Mal und trinken noch den Gelben aus.<BR><BR>
+`,
   },
   {
     number: "14",
