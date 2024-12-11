@@ -17,7 +17,26 @@ Gelbe Kaffees sind immer etwas süßer, als ihre roten Pendants.<BR><BR>
   {
     number: "12",
     title: "title",
-    text: ``,
+    text: `Ganz schön viel Koffein in den letzten Tagen, ah?!<BR>
+Heute erwartet uns eins dieser Kaffeewunder, die man so hat (oder auch nicht hat).<BR>
+Nein, kein Blue Mountain, Skybury, Kona oder sonstiger Marketing-Funz. Kaffeewunder sind Pflanzen, die kaum jemand hat, die etwas besonderes an sich haben und womöglich genau das dazu führt, dass sie keiner hat bzw. kaum angebaut werden.<BR><BR>
+Der heutige Aramosa ist so eine Pflanze. Ein Hybrid aus Arabica und Racemosa, den wir seit 2018 exklusiv bezogen haben.<BR>
+Was macht diesen Hybrid so aussergewöhnlich?<BR>
+Der Coffea Racemosa, ursprünglich aus Mozambique, kultiviert in Sierra Leone, war eine Kaffeepflanze, die kaum bis gar kein Koffein produzierte.<BR><BR>
+Der eine wird nun aufschreien, Kaffee ohne Koffein?! Wieso?<BR>
+Nun ja, es ist vielleicht gar nicht so verkehrt sich mal Kaffee als reines Genussmittel vorzustellen. Wenn wir uns Koffein weg denken würden, was bliebe übrig?<BR>
+Ein Getränk welches wir bewusst wegen dem Geschmack wählen und vielleicht auch nicht jeden Tag trinken würden, aber bestimmt zu jeder Tageszeit!<BR>
+Kaffeebars hätten bis Abends geöffnet, Zucker wäre weg vom Tresen, kaum vorstellbar oder?<BR>
+Das würde aber genau dahin führen, wo die meisten Hardliner der Specialty Coffee Nische hin möchten. Der weltweite Verbrauch würde wohl auf ein Zehntel fallen, denn letztendlich landen die Tonnen aus Hamburg nicht in Tassen wegen dem Geschmack, sondern mit Milch und Zucker als Wachmacher.<BR>
+Übrigens haben wir ab sofort werktgs bis 19 Uhr und am Wochenende bis 18 Uhr geöffnet :-)<BR><BR>
+Naja, genug fantasiert.<BR>
+Aramosas gibt es nur auf zwei Farmen und beide sind in Brasilien. Wir haben das Glück, dass eine die Fazendas Dutra ist.<BR>
+Sonst hätten wir womöglich nie die Gelegenheit gehabt diesen natürlichen Low-Caf zu probieren.<BR>
+Gerade für die Tasse am Abend oder im Home-Office Konsum kann ein geringeres Koffeinlevel sowohl die warme, geschmackvolle Tasse bieten, als auch über den Tag hinweg ein kontrolliertes Energielevel fördern.<BR><BR>
+Wir haben Kunden, die schwören auf diese natürliche Umstellung, deshalb gibt es das Kilo schon für 50€, aber stellt euch mal vor es gäbe zwei Weingüter, die herausragenden Wein mit sehr geringen Volumenprozenten machen. Das wäre wohl immer ausgetrunken.<BR>
+So war es auch bei uns vor einigen Jahren, als die Ernte von sechs Sack, auf zwei fiel. Panik herrschte, aber wir haben es geschafft die Mengen so einzuteilen, dass niemand Aramosa missen musste.<BR>
+Mittlerweile haben sich die Pflanzen erholt und produzieren das zehnfache, deshalb können wir hier vollends genießen!<BR>
+Im Shop haben wir ihn als helle und dunkle Röstung, um alle Brühmethoden abzudecken.<BR><BR>`,
   },
   {
     number: "1",
