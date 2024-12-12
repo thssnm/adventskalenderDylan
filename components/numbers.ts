@@ -173,7 +173,37 @@ Gewaschen heisst die Kirsche wurde gleich entfernt, somit haben wir kaum Ferment
   {
     number: "13",
     title: "title",
-    text: ``,
+    text: `Man könnte 22, 23 oder 24 Kaffees von unterschiedlichen Farmen nehmen. Manche bauen sogar über 20 Länder ein.<BR>
+Nach elf Jahren als Kaffeeröster und mittlerweile wöchentlichen Angeboten im E-Mail Postfach zu neuen Rohkaffees aus Kuala Lumpur und Guadalajara, behaupte ich, dass in solchen Adventskalendern mind. 50% durchschnittliche Qualität stecken.<BR>
+Behaupte ich, dass es nur zehn gute Anbauländer gibt?<BR>
+Nein, im Gegenteil. Ich denke, dass so ziemlich jedes Land grandiose Kaffees produzieren könnte, jedoch bedarf es mehr als nur der von Natur gegebenen Bedingungen.<BR><BR>
+Der Mensch ist eins der zwei wichtigen Aspekte für eine gute Tasse Kaffee.<BR>
+Der Mensch als Pflücker, der Mensch als Sortierer, Wender, Trockner (nein, nicht von Wäsche), Transportierer, Bauer und schlussendlich auch der Mensch als Röster und Barista, denn du! bist in diesen Tagen der wichtigste Mensch für den Geschmack in deiner Tasse ;-)<BR><BR>
+Weshalb sind es aktuell eine Handvoll Herkünfte, die große Kaffees machen?<BR>
+Ich denke eins der Gründe ist das Zahlenspiel:<BR>
+„weil es so viele Kaffeebauern in Kolumbien gibt, gibt es auch viele sensationell.“<BR>
+„weil Äthiopien eine so lange Historie hat und somit viele Kaffeebauern, gibt es auch einige Herausragende“.<BR>
+Es ist, denke ich, weitaus schwieriger einen qualitativen Kaffeebauer in Malawi zu finden, als in Honduras.<BR>
+Während nur 1/3 des Kaffeevolumens in Malawi auf sogenannte „small-holders“ zurück geht, was ungefähr 3-4000 wären, haben wir in Honduras weit über 100.000 Farmen!<BR>
+Gut, vielleicht nicht der beste Vergleich, aber die Fläche der Länder ist fast gleich, sogar zu Gunsten von Malawi, hoffe ihr versteht den Gedanken.<BR>
+Aus diesem Grund habe ich mich dafür entschieden, den Fokus auf handfeste Vergleiche zu legen.<BR>
+Wir haben bislang rote gegen gelbe Kirschen getestet, natural vs washed (danke übrigens für all euer Feedback bisher!) - und jetzt kommt etwas, was wieder einmal kaum wo anders möglich wäre.. ich fühle mich schon etwas dämlich das immer wieder erwähnen zu müssen.<BR>
+Mir ist jedoch wichtig, dass es immer klarer wird, wie wir Kaffee angehen und sehen.<BR><BR>
+Heute erwartet euch erneut ein Aramosa - nämlich der von vor drei Jahren!<BR>
+Ein Stirnrunzeln für den Hipster-Barista *grins*<BR>
+Die meisten Kaffeeröstereien, vor allem die Specialty Roaster, sehen die frische im Rohkaffee als einen wichtigen Aspekt der Qualität.<BR>
+Zu leicht macht man es sich damit und argumentiert dies als großen Unterschied zur Industrie und deren Einkauf, der im Voraus stattfindet und für einige Jahre volle Lager macht.<BR>
+Ich möchte nicht so weit gehen, um zu behaupten, dass unter diesem Aspekt die Industrie bessere Qualität hat, denn es geht hier nicht nur darum „alten Kaffee“ zu haben. Schlechte Qualität bleibt schlecht, allerdings kann man gute Rohkaffees, mit der richtigen Technik, um ein Vielfaches pushen!<BR><BR>
+Wir haben auf allen fünf Farmen sogenannte „maturing houses“.
+Nach der Pflückung entsteht in der Kirsche biochemischer Stress. <BR>Dieser ist nicht nur messbar, sondern gibt der Kaffeebohne nur ein Signal: Wachsen!<BR>
+Viel zu viele grandiose Kaffeebars und Röstereien sprechen von ihrer frischen Ernte und kaufen wirklich herausragende Rohkaffees, wissen aber nicht, um wie viel besser und auch lagerfähiger die Rohkaffees wären, wenn man in Lagerhäuser investieren würde.<BR><BR>
+Aus diesem Grund haben wir heute mal einen Jahrgangsvergleich: <BR>Aramosa 22 vs 21.<BR>
+Warum? Weil wir es können ;-)<BR>
+Habe gestern und heute ungefähr gleich hell geröstet, um weniger Röstaromen und mehr Grundgeschmack der Varietät bzw. des Hybrids zu zeigen.<BR>
+Bin gespannt welcher euch besser gefällt.<BR><BR>
+PS:<BR>
+Ja, es gäbe auch den 23er und bald kommt ja auch 24… ich plane schon seit Jahren eine Jahrgangsbox, wie beim Wein. Wenn euch sowas interessieren würde, schreibt mir gerne   <BR><BR>
+`,
   },
   {
     number: "21",
