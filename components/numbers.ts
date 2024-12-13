@@ -326,6 +326,20 @@ Bis dahin widmen wir uns diesem schönen Vergleich ein letztes Mal und trinken n
   {
     number: "14",
     title: "title",
-    text: ``,
+    text: `Heute sind wir in Mexiko gelandet. Es ist tatsächlich der einzige Kaffee in diesem Kalender, der von der Finca Hamburgo kommt.<BR><BR>
+Den Java haben wir vor einigen Jahren als größte Ernte bis dahin gekauft und zeitweise in drei verschiedenen Röstprofilen im Shop gehabt.<BR>
+So langsam nimmt diese 450kg Ernte ein Ende, sodass es mittlerweile nur noch den Dark Roast gibt und sobald dieser ausgetrunken ist, nimmt die heutige Charge ein letztes Mal den Platz im Shop ein.<BR>
+Diese letzte Charge ist heute in eurem Türchen und ähnelt dem Medium Roast, den wir bis zum Sommer im Programm hatten. Etwas dunkler habe ich das dann hier doch gezogen, da wir immerhin im Winter sind und dementsprechend ein paar Röstaromen nicht schaden.<BR><BR>
+Gerne erzähle ich euch, weshalb wir damals beim Java zugeschlagen haben, aber vorab möchte ich darauf hinweisen, dass die folgenden zwei Tage, eine afrikanische Genetik haben. So wie der Java auch, müssen wir den Kaffee entschlossen feiner mahlen, um zu einem leckeren Ergebnis zu kommen.<BR><BR>
+Stichwort Afrika, der Java hat uns damals begeistert, weil er von einer Versuchsparzelle von der Finca Hamburgo kam. Auf solchen Parzellen versucht man viele verschiedene Arabicas, die unüblich für Mexiko sind, zu Pflanzen. Das ist grundsätzlich der einzige Weg, um neuen Schwung auf seine Plantage zu bringen – try and error.<BR>
+So wie bei uns an der Kaffeebar oder in der Rösterei, muss auch der Farmer einfach ausprobieren. Dabei zeigen sich manche Pflanzen als geeignet und andere wiederum kommen gar nicht mit der Lage klar.<BR>
+Der Java ist ein Ur-Tipica aus Äthiopien und wurde vermutlich durch die Niederländer in einem Tausch oder einer Expedition nach Indonesien gebracht. Es ist nicht immer ganz klar, welche Wege einzelne Pflanzen(-linien) gingen, aber hier dürfte es recht eindeutig sein, da es nachweislich eine Tipica-Genetik ist. Unter dem Begriff „Java" verstehen neue Kunden bei uns, dass es sich um einen indonesischen Kaffee handelt. Tatsächlich gibt es das auch, jedoch sind das meist industrielle Kaffees. Hier nennen wir die Varietät selbst.<BR>
+Auch unser Java hat über ein Jahrhundert auf der gleichnamigen Insel verbracht, wodurch er sich der Lage angepasst und seinen Namen verliehen bekommen hat. Jedoch ist diese Linie mittlerweile in Zentralamerika häufiger zu finden und hat vor zwei Jahren ihren ersten Ruhmeszug gehabt, als es einige Top-Plätze bei Cup of Excellence belegte. Zu nah ist das Geschmacksprofil an einem Gesha oder anderen sensationellen äthiopischen Kaffees, um nicht zu gefallen.<BR><BR>
+Wir haben damals einige Säcke des Java und einige Säcke eines Pache gekauft und euch entscheiden lassen. Zum Jubiläum 2022 konnte man die Jubiläumsbox mitnehmen und darüber entscheiden, welche der beiden Ernten wir kaufen sollen.<BR>
+Die Wahl war ziemlich eindeutig.<BR>
+In jedem Röstprofil, welches ich bislang hatte, schmeckte man etwas afrikanisches. Ob Mandarine im Light, Erdbeere im Medium oder dunkle Beeren im Dark Roast, es war eindeutig kein 100% Mexikaner.<BR>
+Sehr schade, dass wir nicht mehr an diesen Kaffee kommen, weil er mittlerweile im Café-Konzept der Finca selbst genutzt wird.<BR>
+Wir gönnen es der Familie Edelmann alle mal und unserer ehemaligen Mitarbeiterin Lisa, die seit einigen Jahren auf der Finca im schönen Chiapas lebt.<BR><BR>
+`,
   },
 ];
