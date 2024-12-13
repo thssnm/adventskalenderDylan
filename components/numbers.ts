@@ -280,7 +280,26 @@ Guten!<BR><BR>
   {
     number: "15",
     title: "title",
-    text: ``,
+    text: `Wir bleiben bei spannenden afrikanischen Varietäten, die ihren Weg und ihr Glück wo anders gefunden haben *lach*<BR>
+Yellow Caturra!<BR>
+Unser diesjähriger Jubiläumskaffee.<BR><BR>
+Jedes Jahr stelle ich mir die Aufgabe, etwas Spannendes für unser Jubiläum zu finden. Wir hatten mal einen Pacamara (Riesenbohne) als Perlbohne, also als Riesen-Perlbohne, dann gab es das Java vs. Pache Jahr, was hatten wir noch? Ich glaube zur Eröffnung 2018 war es „einfach nur" der Aramosa...die Zeit fliegt.<BR>
+So, dieses Jahr lächelte mich Indien an. Seit Jahren habe ich schon keinen richtigen indischen Arabica ins Auge gefasst. Meistens gibt es sowieso nur 2-3 Varietäten, deshalb ist das für mich als Röster nicht so spannend, weil ich diese bereits alle durchgespielt habe.<BR>
+Der Yellow Caturra jedoch, das ist etwas anderes. Eine gelbreife Kaffeekirsche habe ich in Indien noch nie gesehen!<BR><BR>
+Als Anbauland unterschätzt man den Subkontinent, ist er doch meist in den top10 nach Volumen. Die Verteilung des Anbaus ist je nach Quelle ca. 50/50, wobei in den letzten Jahren angeblich mehr Canephora angebaut wurde.<BR>
+Seit Jahren haben wir grandiose Canephoras aus Indien, sogar fast nur aus Indien! Gerade die großen Italiener (Segafredo, Lavazza und co.) nehmen seit Jahrzehnten immer nur „Robusta" aus Indien oder Uganda, aber was ist mit den Arabicas?<BR>
+Ich liebe S-795, den Hauptarabica Indiens. Zu Beginn meiner „Rösterkarriere" kam ich bereits mit dem Kirsche+Zimt Geschmacksprofil in Kontakt. Letztendlich bin ich aber auch nur ein Mensch und es gibt verschiedene Phasen der geschmacklichen Präferenzen. Irgendwie gab es in den letzten Jahren keinen Grund da zuzugreifen.<BR>
+Glücklicherweise baut Jacob Mammen, unser größerer Inder von den Badra Estates, mehrere Arabicas an. Kent, Agaro, Malawi und...und Caturra..aber woher Caturra, wir haben doch vor einigen Tagen gelernt, dass es eine südamerikanische Varietät ist?!<BR><BR>
+Ihr erinnert euch an den Java und die holländische Mission der kontinentalen Pflanzenverteilung?<BR>
+Hier war es die Frau des vorherigen Besitzers.<BR>
+Wie die meisten Kaffeepflanzen in Indien im Wald, also im Schatten, angebaut werden, so haben die meisten Kaffeeplantagen britischen Ursprung.<BR>
+Der Gründer der Badra Estates war Anfang des letzten Jahrhunderts ein Brite, der eine kenianische Frau hatte. Wir gehen davon aus, dass sie aus Liebe zur Herkunft einige Pflanzen mit nach Indien genommen hat. Das wurde uns so von den Pflückern überliefert, die diesen schimmernden Teil der Plantage „yellow drops" nennen.<BR>
+Im dunklen, grünen Wald, war es sehr simpel den Yellow Caturra ausfindig zu machen. Einer der älteren Pflücker hatte seit jeher auf dieses Feld aufgepasst und jährlich ein paar Kirschen für sich eingesteckt, um an alte Tage erinnert zu werden.<BR>
+Als wir das gesamte Pflückerteam baten uns alle „yellow drops" zu zeigen, konnte nur er punkten, weil er genau wusste, wo der Ort ist.<BR>
+Auch heute darf er sich darum kümmern und wir danken ihm, dass wir dieses Jahr zum Jubiläum in den Genuss der letztjährigen mini-Ernte von 30kg kamen! Dreißig Kilogramm, meine Lieben, das ist ein Sack Rohkaffee... ob wir nicht mehr alle Tassen im Schrank haben? Absolut! <BR>Die sind nämlich auf dem Verkostungstisch ;-)<BR>
+PS: die aktuelle Ernte in eurem Türchen beträgt 90kg – die dreifache Menge – wow!<BR>
+PPS: die nächste Ernte wurde auch schon gepflückt und wir sind wieder bei 30kg gelandet. Mal schauen ob es dann auch der Jubiläumskaffee für das 7. Jährige *lach*<BR><BR>
+`,
   },
   {
     number: "4",
