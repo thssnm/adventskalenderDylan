@@ -321,7 +321,10 @@ Ich bin gespannt, wie euch diese Röstung des „Primer Corte" gefällt. Leider 
   {
     number: "16",
     title: "title",
-    text: ` `,
+    text: `Agaro<BR>
+Badra Estates<BR>
+Fully Washed<BR><BR>
+<a href='https://www.dylanandharper.de/kaffee/agaro/' target='_blank'>https://www.dylanandharper.de/kaffee/agaro/</a>`,
   },
   {
     number: "22",
