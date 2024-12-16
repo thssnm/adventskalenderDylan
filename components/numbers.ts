@@ -321,10 +321,40 @@ Ich bin gespannt, wie euch diese Röstung des „Primer Corte" gefällt. Leider 
   {
     number: "16",
     title: "title",
-    text: `Agaro<BR>
-Badra Estates<BR>
-Fully Washed<BR><BR>
-<a href='https://www.dylanandharper.de/kaffee/agaro/' target='_blank'>https://www.dylanandharper.de/kaffee/agaro/</a>`,
+    text: `Drei habe ich gesagt, oder?<BR>
+Gut!<BR>
+Der dritte Afrikaner ist unser liebster Agaro. Ein Arabica, den wir im Spätsommer 23 aus Indien von den Badra Estates erworben haben.<BR>
+Die Motivation hinter dem Kauf war die gleiche, wie bei den zwei vorherigen Türchen. Da wir keinen afrikanischen Kaffeebauer haben, versuche ich diesen Bedarf über die Genetik zu erfüllen.<BR>
+Natürlich ist ein Äthiopier auch so beliebt, weil er auf den äthiopischen Böden wächst, keine Frage, aber die Genetik einer Varietät macht mindestens mal 30% des Geschmacks aus.<BR><BR>
+ 
+Der Agaro ist, so wie der Java, ein direkter Konkurrent zum Gesha. Nicht allen von euch ist „Gesha“ ein Begriff, aber auch den Wenigsten ist bewusst, dass es Gesha und nicht Geisha heißt.<BR>
+Er stammt aus dem Gesha Village und in der Bantu Sprache existiert kein „e“ „i“ nacheinander.
+<BR>
+Ich bin dann immer der Klugscheißer, der liebe Kollegen darauf hinweist ;-)<BR>
+Während die gesamte Welt mal wieder auf einen Zug aufspringt und seit Jahren der Gesha einer der begehrtesten und teuersten Kaffees der Welt ist, haben wir das clevere Hintertürchen und einen Agaro genommen.<BR>
+Ein Gebiet aus der näheren Umgebung des Gesha Village ist Namensgeber für den heutigen sortenreinen Arabica.<BR><BR>
+ 
+Der Trick bei dem besonderen Geschmack von äthiopischen Kaffees ist recht leicht erklärt:<BR>
+Einerseits hat man selbstverständlich die Böden, Höhenlage, Flora und Fauna, also das sogenannte Terroir. Andererseits, und meiner Ansicht nach wirklich entscheidend ist, dass es immer ein Potpourri aus verschiedenen Varietäten ist.<BR>
+Eventuell habt ihr mal das Wort „Heirloom“ auf eurer äthiopischen Packung gelesen und euch gefragt, was das eigentlich ist. (Grüsse an Tobias)
+Heirloom ist der amerikanische Marketingname für die wilden Kaffees aus äthiopischen Wäldern.
+<BR>
+Wissenschaftlich korrekt wäre es „äthiopischer Mokka“ (nicht zu verwechseln mit anderen Mokka Begriffen). Genetisch sind es Ur-Tipicas und somit mit die ältesten Kaffeelinien der Welt.
+<BR>
+Von Zeit zu Zeit schafft man es eine einzige Varietät da herauszuholen und sie alleinstehend in die Welt zu schicken, was vor 20 Jahren beim Gesha der Fall war.<BR><BR>
+ 
+Vor wenigen Jahren gab es dann nochmal den Versuch mit einem Kaffee namens „Yemeni“, aber abgesehen von dem kurzen Zeitraum, wo man erneut mehrere Hundert Euro für ein Kilo Kaffee ausgeben durfte, ist der Yemeni recht schnell von der Bildfläche verschwunden.<BR>
+Geisha (falsch geschrieben) hört sich nun mal spannender an und ist vor allem in Japan enorm beliebt gewesen.<BR>
+Der Ursprung des Ruhms war in Panama, als er den Cup of Excellence gewonnen hat und jahrelang haben die Japaner sämtliche Ernten leergefegt. Erst vor sieben-acht Jahren kam diese Varietät überhaupt zu uns in den Westen.<BR>
+Warum ich das alles erzähle, ist, weil mir wichtig ist, dass man Kaffee lernt realistisch zu betrachten.<BR>
+Ich finde Geshas toll, die Wiederholungstäter unter euch hatten ja auch meinen brasilianischen Gesha letztes Jahr im Kalender (oder vorletztes?), aber es reizt mich einfach nicht den dreifachen Preis zu zahlen, um etwas Jasmin und Beeren in die Tasse zu bekommen.<BR>
+Ich mag Japan, die Menschen dort haben, wie in vielen Ländern der Welt, einen besonderen Zugang zu Lebensmitteln und da ist der Gesha-Hype abgelaufen. Da steige ich gerne ein und habe mich dem Agaro gewidmet, der ebenfalls mit floralen Noten, schwarzen Tee und einer Beerigkeit begeistern kann.<BR>
+Höchstwahrscheinlich wird es in der Zukunft keine zehn Röstereien geben, die einen Agaro anbieten und die Varietät wird irgendwann in Vergessenheit geraten.<BR>
+Der nächste Agaro ist meiner Recherche (letztes Jahr) nach erst in Pennsylvania zu beziehen.<BR>
+Der Agaro hat einen kleinen Freundes- oder Freudekreis generiert, aber in der Regel steht er eher nur herum.<BR>
+Trotz der genialen vier-Sack-Ernte, habe ich deshalb dieses Jahr die frischen 120kg ablehnen müssen.<BR>
+Mal schauen, eventuell wird man sich irgendwann wieder begegnen, aber aktuell ist nur Platz für einen indischen Arabica, den gestrigen Yellow Caturra, im Sortiment.<BR>
+Gerne könnt ihr bei Gefallen die letzten Packungen abholen / bestellen.<BR><BR> `,
   },
   {
     number: "22",
