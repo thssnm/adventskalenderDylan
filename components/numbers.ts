@@ -103,7 +103,25 @@ Kurze Info zum Koffein: es ist wie eine Tasse Kaffee, also eine Tasse Cascara od
   {
     number: "17",
     title: "title",
-    text: ``,
+    text: `Endlich ist es soweit, heute widmen wir uns dem ersten Canephora im Kalender.<BR>
+Canephoras sind die zweitgrößten Kaffeearten nach Volumen.
+Mit etwa einem Drittel der weltweiten Produktion, sollte man meinen, dass wir dem Ding wenigstens den richtigen Namen geben. Leider beginnt es auch da schon mit der weitreichenden Fehlinformation der Kaffeewelt. Mittlerweile wissen viele Bauern, Röster und Baristi, dass es eigentlich nicht Robusta heißt, aber wozu Energie und Zeit in Aufklärung investieren?..<BR><BR>
+Seit Jahren bieten wir Barista- und weitere Kurse an und immer wird von Canephora gesprochen. So wie Coffea Arabica, ist Coffea Canephora eine eigenständige Pflanze und ist weitaus mehr als nur der Crema-Geber oder das höhere Koffein.<BR>
+Canephoras können, wenn sie sauber verarbeitet werden, grandiose sortenreine Filterkaffees sein, da sie weitaus weniger Säure haben als Arabicas.<BR>
+Im Espresso blüht der Canephora erst richtig auf. Die nussigen, hölzernen Noten und die fette Cremaschicht hat Napoli erst zu dem gemacht, was es heute ist.<BR>
+Seit 2016 röste ich die besten Canephoras Indiens sortenrein und wir haben immer mind. einen im Sortiment.<BR><BR>
+In unserem diesjährigen Haus-Espresso, ED-IE, ist ein Canephora zu 20% verbaut.<BR>
+Die klassische 80/20 Mischung hat sich bei Espressi beliebt gemacht. Wer es etwas derber mag, greift zu 60/40, wie in unserem frisch gerösteten „Winterzauber Espresso", den wir bis Jahresende im Verkauf haben.<BR>
+0/100 haben jedoch die wenigsten.<BR>
+Ich werde nie vergessen, als die rechte Hand eines Kollegen aus Wiesbaden, 2017 noch im alten Laden zu mir kam und von ihrem ersten „sortenreinen Bio Robusta" sprach. An dem Tag hatte ich bereits vier verschiedene Canephoras geröstet.<BR>
+Wie bereits erwähnt sind wir immer etwas Avantgarde, aber das muss auch nicht immer gut sein.<BR>
+Mein Mitarbeiter wünscht sich bspw. schon lange einen hellen Canephora Roast, aber ich habe irgendwie keine Lust darauf, der Gedanke inspiriert mich einfach nicht.<BR>
+Einige unter euch beten jedes Jahr für das Comeback des „Embauba" (ich habe übrigens nachgehakt, aber für dieses Jahr leider eine Absage bekommen), den würde ich auch gerne nochmal rösten, weil es der einzige Canephora Brasiliens ist.<BR><BR>
+Wir haben heute aber einen „CxR" - Congensis into Robusta. Es ist ein Hybrid (wie der Aramosa), bestehend aus dem Coffea Congensis und Coffea Canephora.<BR>
+Leider ist auch hier, selbst im Varietätennamen, ein Fehler drin. Denn verständlich wäre es noch, wenn der Canephora Anteil wirklich die Varietät Robusta wäre, aber ist es auch nicht.<BR>
+In diesem Hybrid befindet sich also eine Kaffeeart aus Congo, die sortenrein leider nicht mehr zu finden ist und ein Canephora der Varietät SLN274 (Selection 274). Letzteres ist keine Seltenheit in Indien und hat ein etwas floraleres Geschmacksspektrum als klassische derbe Canephoras.<BR>
+Der CxR ist also nicht nur genetisch voll abgefahren, sondern bietet so eine geile Nussigkeit, gepaart mit Schoko, angenehmen Körper und dann noch etwas ganz ganz ganz leicht florales/leichtes, aufgrund meiner Medium-Dark Röstung sowie der SLN274 Genetik darin.<BR>
+Wirklich ein Canephora, den ich sogar im Sommer habe, auch wenn ich ihn dann nicht allzu gerne trinke, aber für diejenigen, die mit der fruchtigen Vielfalt der Arabica-Welt nichts anfangen können, super Sache!<BR><BR>`,
   },
   {
     number: "8",
