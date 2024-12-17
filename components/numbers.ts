@@ -157,7 +157,18 @@ Meidet bitte Plastik-Gewürze aus dem Supermarkt und holt euch gerne euren Pfeff
   {
     number: "18",
     title: "title",
-    text: ``,
+    text: `Die Canephora Reise geht weiter. Wir haben heute einen wirklich klassischen Canephora aus Indien.<BR>
+Der Old Paradenia von der Bison Field Parzelle ist nussig, Nougat, hölzern, fett und hat eine derbe Crema.<BR><BR>
+Deepak Chengappa ist unser kleinerer Inder und hat auf seinen Palthope Estates nur 7ha, aber dafür einen unglaublich schönen Wildpark, dessen Wildhüter er ist. Aus dem Grund bekommen alle seine Parzellen tierische Namen.<BR>
+Der Bison Field beherbergt Wasserbüffel, die stampfend auch etwas Schaden angerichtet haben, bis Deepak einen Pfad für sie gezaubert hat, sodass sie nun die Kaffeepflanzen in Ruhe lassen.<BR>
+Nicht nur als „man of the jungle" bekannt, ist Deepak auch wirklich ein herzenslieber Mensch, dem die Natur sehr am Herzen liegt. Als Hindu ist sein Verbleiben auf diesem Planeten gewiss, deshalb möchte er sich darum kümmern, dass er vielleicht das nächste Mal, als „Arane-Narane", einem Käfer den er in Händen hält, ebenfalls ein schönes Leben hat.<BR>
+Ob wir uns wohl fühlen, wenn King Cobras auf dem Toilettenhäuschen chillen, kann ich nicht bestätigen, aber solange wir diese genialen, sauberen Canephoras von ihm bekommen, ist uns alles recht ;-)<BR><BR>
+Fette Nuss-Nougat Cremigkeit mit viel Röstaromatik in diesem Dark-Roast.<BR>
+Aktuell die dunkelste Röstung im Sortiment und ab und zu einfach ein Wohlfühlmoment mit diesem Espresso in der Hand.<BR>
+Ich persönlich kann solche Röstungen nicht als Filter trinken, aber jeder wie er mag.<BR>
+Das war jetzt auch der letzte sortenreine Canephora im klassischen Kalender.<BR>
+Im Exklusiven sind wir ja sowieso wo anders unterwegs in diesen Tagen, aber auch hier war dieses Türchen der einzige Canephora bis zum Schluss.<BR><BR>
+`,
   },
   {
     number: "2",
@@ -276,7 +287,16 @@ Leider keine Chance auf eine Folgeernte, da Naturals auf der Finca La Quintanill
   {
     number: "19",
     title: "title",
-    text: ``,
+    text: `Es ist mal wieder dieser berühmte 19. Dezember. Das wird natürlich nur wenigen etwas sagen, aber das ist auch gut so ;-)<BR><BR>
+Das hindert mich nicht daran, auch heute im Auftrag des guten Kaffees irgendwo unterwegs zu sein, aber heute lade ich euch mal ein!<BR>
+Mit dem heutigen Türchen könnt ihr jederzeit (ja, auch nächstes Jahr im Dezember, vor dem nächsten Kalender, aber auch noch danach) einen Drink bei uns nehmen, die Seele baumeln lassen und euch an die schöne sensorische Reise erinnern, die euch hoffentlich viel Spaß und neue Erkenntnisse gebracht hat.<BR>
+Nutzt doch gerne mal dieses Kaffee-freie Türchen, um mir etwas Feedback da zu lassen, per Mail oder Social Media, kann ich das dann an Weihnachten in Ruhe lesen.<BR>
+Jetzt geht es noch mal in die Endrunde mit den fünf spannendsten Kaffees des Kalenders und wir haben ja noch das gesamte Wochenende für euch geöffnet, um euch mit Weihnachtskaffees zu versorgen<BR>
+Freitag 13:00 – 19:00<BR>
+Samstag 12:00 – 18:00<BR>
+Sonntag 14:00 – 18:00<BR>
+Montag 13:00 – 19:00<BR><BR>
+`,
   },
   {
     number: "7",
