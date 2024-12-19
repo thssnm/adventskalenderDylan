@@ -258,7 +258,7 @@ Leider nur 30kg Ernte.<BR><BR>
   {
     number: "20",
     title: "title",
-    text: ``,
+    text: `<br><br><a href=https://www.dylanandharper.de/kaffee/winterzauber/ target='_blank'>https://www.dylanandharper.de/kaffee/winterzauber/</a><br>`,
   },
   {
     number: "3",
