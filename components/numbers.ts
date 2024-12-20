@@ -237,7 +237,35 @@ Ja, es gäbe auch den 23er und bald kommt ja auch 24… ich plane schon seit Jah
   {
     number: "21",
     title: "title",
-    text: ``,
+    text: `Zehn Monate habe ich auf diesen Tag gewartet.. heute erwartet euch ein Kaffee, für den wir auch international bekannt sind:<BR>
+Liberica<BR>
+Die dritte Kaffeeart (engl. Species) ist mit unter einem Prozent, weltweit der seltenste echte Kaffee.<BR><BR>
+Was meine ich mit „echt"?<BR>
+Ich möchte daran erinnern, dass sämtliche Kaffees wie Hawaii Kona, Jamaica Blue Mountain usw. usf. reine Marketing-Kaffees sind.<BR>
+Nicht nur, dass man nachweisen kann, dass oftmals gepfuscht wurde (es ist so viel Jamaica Blue Mountain im Umlauf, dass der Anbau auf diesem berühmten Berg gespiegelt im Meer fortlaufen müsste, um so viel Blue Mountain Volumen zu haben), meist ist sogar die Info zu diesem Kaffee komplett falsch und andere Regionen der gleichen Insel wären weitaus besser wie zb. Kauai.<BR>
+Lasst uns also keine Zeit verlieren.<BR><BR>
+Der Liberica ist nach Arabica und Canephora die dritte Kaffeeart und wird hauptsächlich in Malaysia angebaut.<BR>
+In Kursen sage ich immer: „wenn ihr mal Urlaub auf Bali gemacht habt, könnte es gut sein, dass ihr einen Liberica getrunken habt!".<BR>
+Dort ist nämlich so viel Liberica vorhanden, sodass man es problemlos kaufen kann. Das Problem ist jedoch, dass in Herkunftsländern oft schmu betrieben wird. Man verbrennt den Kaffee und um den Teer/Asche Aromen entgegenzuwirken, gibt man noch Zucker gleich nach der Röstung dazu. So glänzen die Bohnen schön, haben etwas mehr Gewicht und sind gepunscht.<BR>
+Als hätte der süßeste Kaffee der Welt nicht schon eigene Probleme. Der Broca-Käfer ist dafür verantwortlich, das wir kaum Liberica Anbau haben. In Indien und Malaysia verwendet man die wenigen Bäume als Lockmittel, sodass die Käfer weg von der Plantage mit der hohen Süße des Liberica gelockt werden. Anschließend werden Libericas abgeholzt und verbrannt.<BR>
+„Sacrifice Tree" war auch auf den Badra Estates der Spitzname, bis wir es geschafft haben Jacob davon zu überzeugen für uns eine richtige Ernte zu machen.<BR>
+Seit 2019 haben wir den Liberica exklusiv von den Badra Estates und stellen fest, wie sauberer und klarer der Geschmack Jahr für Jahr wird. Früher mussten wir ihn erklären, denn ein normaler Kaffee ist das keineswegs – heute ist die Ernte so gut, das Pflückerteam so geübt, dass wir erklären müssen, WESHALB der Liberica so besonders ist.<BR>
+Horcht man in die Tasse hinein, bemerkt man jedoch die unglaubliche Süße, die dieser seltene Kaffee mit sich bringt, als hätte man einfach Zucker dazu gegeben.<BR>
+Seit Jahren rösten wir die bis zu 180kg Ernte hell, ab und zu auch mal im Winter als Dark Roast und sind seit Jahren die einzige Adresse in Deutschland, die einen sauberen Liberica anbieten kann.<BR>
+Sauber bedeutet in dem Fall für mich, dass ich letztes Jahr beim alljährlichen Google-Check bemerkt habe, dass Mitbewerber aus Bayern ebenfalls einen Liberica anbieten. Das Ergebnis in der Packung ist genau das, was uns ständig daran hindert, Kaffee voran zu bringen.<BR>
+Vollkommen verröstet, alt (laut MhD bzw. Röstdatum) und somit für jeden, der sich unsere Erklärung niemals durchlesen würde und niemals zu uns käme, gleich ein No-Go.<BR>
+Somit wird Liberica immer nur eine Ausnahme bleiben..und tatsächlich ist das auch gut so!<BR>
+Weshalb ich auf den heutigen Tag gewartet habe ist, weil die Natur mal wieder demonstriert hat, dass sie immer noch darüber verfügt, was wann und wie getrunken wird. Wir haben die letzte Ernte verloren.. Die Brocas waren diesmal schneller!<BR>
+Mich erreichte die Horror-Nachricht im Februar: „there will be no Liberica this year"<BR>
+Zu der Zeit hatte ich noch zwei Säcke a 30kg von der letzten Ernte. Ich habe ein letztes Mal Light und Dark geröstet, in den Onlineshop geschrieben, dass es die letzte Dark Charge ist und nur noch eine Light im Sommer kommen wird.<BR>
+Auch diese Charge ist schon lange ausverkauft und der Shop-Eintrag dient rein zur Info.<BR><BR>
+Doch wer Herr Dadic kennt, weiß, dass ich gerne mal ein Ass im Ärmel aufbewahre ;-)<BR>
+Ich habe selbstverständlich die andere Hälfte des letzten Rohkaffeesacks aufbewahrt und mir war sofort im Frühling klar: den nehmen wir für den Kalender!<BR> Ein letztes Mal können wir heute diesen besonderen Kaffee trinken und die komplexeste Aromatik erleben.<BR>
+Ein letztes Mal für 2024, denn tatsächlich haben wir die Zeit überbrücken können. Indien pflückt und somit kommt auch schon bald wieder das Update zur neuen Ernte und ich hoffe, dass wir nächstes Jahr wieder aufblühen können.<BR>
+Bis dahin gibt es noch ein paar Packungen dieser Röstcharge auch im Onlineshop:<BR>
+<a href=https://www.dylanandharper.de/kaffee/liberica/ target='_blank'>https://www.dylanandharper.de/kaffee/liberica/</a>
+
+`,
   },
   {
     number: "5",
