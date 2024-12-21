@@ -425,7 +425,7 @@ Gerne könnt ihr bei Gefallen die letzten Packungen abholen / bestellen.<BR><BR>
   {
     number: "22",
     title: "title",
-    text: ``,
+    text: `<a href=https://www.dylanandharper.de/kaffee/barriquekaffee/ target='_blank'>https://www.dylanandharper.de/kaffee/barriquekaffee/</a>`,
   },
   {
     number: "11",
