@@ -197,7 +197,25 @@ Gewaschen heisst die Kirsche wurde gleich entfernt, somit haben wir kaum Ferment
   {
     number: "23",
     title: "title",
-    text: ``,
+    text: `SO wir neigen uns dem Ende zu und ich hoffe ihr seid nicht von gestern beschwipst *grins*<BR><BR>
+Nein, natürlich war es gestern alkoholfrei, aber der Wahnsinn oder?<BR>
+Wir haben den heute, am Sonntag, als kleinen Abschied von der Kaffeebar vor Weihnachten noch ausgeschenkt und das roch wie ein Weinkeller. Ich weiß nicht wer von euch den Sherry-Cask Aged Coffee pur getrunken hat, in meinem Espresso war es so sauber und geschmeidig. Ich bin normalerweise nach so einem aufwendigen Projekt immer etwas abgetan, aufgrund des Aufwands, aber der Sherry Coffee ist so gut geworden, dass ich echt darüber nachdenke noch einen zu machen. Spätestens zu Ostern.<BR><BR>
+Nun gut, widmen wir uns den letzten beiden Kaffees und erfahrene Adventskalendaristas wissen, dass ich mit steigender Spannung die Türchen befülle.<BR>
+Wenn also die Fassreifung nicht in der 24. ist, was erwartet uns dann heute und morgen?<BR>
+Heute starten wir mit einer neuen Varietät, die ich selten getrunken und noch nie geröstet habe:<BR><BR>
+Yellow Colombia<BR><BR>
+Wie der Name verrät, ist das eine brasilianische Varietät.. Späßle, natürlich kommt er, wie der Castillo, aus Kolumbien.<BR>
+In den letzten Jahren haben sich einige Colombias (Varietät) aus Kolumbien (Herkunft) in meine Tassen verirrt und ich fands nicht schlecht. Ich fands jetzt auch nicht erinnerungswürdig, aber nicht schlecht.<BR>
+Als mir Andres Quintanilla davon berichtete, dass er gleich zwei neue Varietäten geerntet hat, dann habe ich gleich mal zugeschlagen.<BR>
+Eigentlich habe ich den Primer Corte (erste Pflückung) bestellt, mich aber dann doch umentschieden und diesen Segundo genommen.<BR>
+Am 20. November wurde der erste Sack aufgemacht und es roch so herrlich floral-fruchtsüß. In den Röster gepackt erfolgte erstmal eine dunklere Röstung, die ich dann nochmal überarbeitet habe (zweite Charge) und so landete dieser medium-light Roast in eurem Türchen!<BR><BR>
+Da seitdem mehr als ein Monat vergangen ist, haben wir beide Röstungen bereits ausgiebig verkostet und ich kann euch verraten, dass wir sehr zufrieden sind!<BR>
+Die helle Röstung im Türchen strotzt so vor Cremigkeit und Süße, kein Wunder bei den gelben Kirschen.<BR>
+In der Tasse haben wir dann Erdbeere, Orange, Blüten, Honig und generell „super clean & fruity" bemerkt.<BR>
+Einige Tage später konnte ich die dunklere Röstung an der Bar ausschenken und das gleiche spielt sich auch da ab. Dieser flüssige Honig, mit einer feinen Frucht, nun eher Orangenzeste und angenehmen Röstaromen.<BR>
+Vermutlich werde ich es nicht schaffen, das Produkt im Onlineshop anzulegen, da es gerade nach 20 Uhr ist und ich morgen bereits auf dem Weg zur Familie bin, aber ich versuche es eventuell um Weihnachten herum.<BR>
+Wenn ihr Lust auf einen richtig Gaumen-umfassenden Espresso habt oder diesen Filter-Roast weiter trinken möchtet, habe eben 40 Packungen von jedem fertig gestellt, samt Etikett. With a little help from my friends kommen die Bohnen noch rechtzeitig vor Silvester bei euch an!<BR><BR>
+`,
   },
   {
     number: "13",
@@ -310,7 +328,35 @@ Leider keine Chance auf eine Folgeernte, da Naturals auf der Finca La Quintanill
   {
     number: "24",
     title: "title",
-    text: "",
+    text: `Grande Finale<BR><BR>
+Was könnte man zum Abschluss einer wunderschönen Kaffeereise machen?<BR>
+Neuer Farmer? Haben wir nicht. Neue Varietät? Joa. Processing? Muss net sein.<BR>
+Neue Kirschfarbe? Zauberhaft wie Feenstaub? Oh yeeaa!<BR><BR>
+P I N K   B O U R B O N<BR><BR>
+Gewiss bin ich nicht der Erste, der einen Pink Bourbon röstet. In den letzten Jahren entdeckten immer mal wieder kolumbianische Produzenten diese quasi neue Kirschfarbe.<BR>
+Erneut dieses Kolumbien, was wir ja nicht haben, aber mit gestern und heute nähern wir uns dem drittgrößten Herkunftsland zumindest mit Varietäten an!<BR>
+Andres Quintanilla ist mal wieder verantwortlich für unseren Fortschritt, denn er hat die beiden Varietäten im Austausch erhalten. <BR>So wie den gestrigen Yellow Colombia, habe ich einen Pink Bourbon noch nie geröstet, doch als ich im Sommer erfuhr, dass dieser gepflückt wurde, gab es keine Sekunde des Zögerns.<BR><BR>
+IHR SEID JETZT GEFRAGT!<BR>
+Welche der beiden Ernten sollen wir komplett erwerben?<BR>
+Ihr habt jetzt die Möglichkeit darüber zu entscheiden, was 2025 und darüber hinaus zu einem Top-Seller wird und wofür Dylan & Harper erneut bekannt werden könnte.<BR>
+Wir haben den Pink Bourbon bereits verkostet und sind natürlich begeistert von den hellroten Noten von Granatapfel, Himbeere, Weinbergpfirsich und Papaya und floral ist er auch noch und süß, diesmal eher Agavensirup und so ein bisschen wie ein Bonbon und Cremig, doch ist er auch der richtige Kaffee für uns? Für euch?<BR>
+Ich habe es gestern bewusst nicht erwähnt, aber beide Kaffees sind gewaschen. Bei der Blindverkostung hier bei uns gingen einige Gäste davon aus, dass es Naturals sind.<BR>
+Andres hat einfach ein so gutes Agrarmanagement, das so saubere Tassen zu uns kommen, obwohl es super junge Pflanzen sind und noch lange nicht in ihrem Peak der Reife.<BR><BR>
+Ich habe einen Favoriten, aber den verrate ich euch nicht. Ihr könnt auch nicht davon ausgehen, dass es das 24. Türchen ist, weil ich den Kalender geplant habe, bevor ich auch nur den Rohkaffeesack vor mir hatte.<BR>
+Als ich ihn jedoch öffnete kam so eine schöne Floralität entgegen, sodass ich nicht weiß, ob ich den Pink Bourbon wirklich dunkler rösten würde.<BR>
+Sollte die Wahl auf diese Ernte fallen, würde ich es natürlich versuchen, aber bis dahin wünsche ich viel Spaß mit dieser hellen Röstung.<BR>
+Wir haben sie ebenfalls als Espresso ausgeschenkt und es ist einfach ein Träumchen, vor allem als Flat White.<BR><BR>
+Die Reise ist hiermit zu Ende.<BR>
+Es war wild, es war chaotisch, es war sehr intensiv, für mich und hoffentlich ein riesen Spaß für euch!<BR>
+Ich kann mich nur bedanken, dass ihr alle dabei wart.<BR>
+Sicherlich wird jemand nächstes Jahr von diesem Produkt Abstand halten, andere werden es Freunden verschenken/empfehlen und wir werden Nächte lang verpacken, aber wir freuen uns darauf haha
+<BR><BR>
+Jetzt wird es Zeit für die Familie, ein paar Tage Auszeit und am 30.12. geht es weiter!<BR>
+Wir sind auch nochmal am 31. bis 14 Uhr für euch da, ein bisschen Anstoßen, ein bisschen Lachen und dann war es das mit 2024.<BR>
+Für 2025 planen wir wie immer viele neue spannende Kaffees, angenehmes Ambiente an der Bar, eine neue Sommerkarte, wenn man endlich wieder Kaltes ausschenken kann und eventuell überraschen wir euch noch mit dem einen oder anderen.<BR>
+Unsere fernen Adventskalendaristas sind herzlich eingeladen zum 7. Jubiläum der Kaffeebar Ende Mai zu kommen (alle anderen natürlich auch). Wir werden vermutlich am 25. Mai feiern.<BR>
+Ansonsten schreibt mir gerne, sprecht uns im Geschäft an, Caterings, Events, Kaffees, alles ist möglich und doch so rar in einer Welt, wo Individualität immer mehr verloren geht.<BR>
+Es war eine schöne Reise..ach und danke für die ganzen Geburtstagswünsche und Geschenke :-)<BR><BR>`,
   },
   {
     number: "19",
