@@ -1,6 +1,11 @@
 import React from "react";
 import { useAdventCalendar } from "../hooks/useAdventCalendar";
 
+type CurrentText = {
+  content: string;
+  title: string;
+};
+
 export const Overlay = ({
   item,
   visible,
@@ -16,7 +21,7 @@ export const Overlay = ({
 }) => {
   const { getTextByNumber } = useAdventCalendar();
 
-  const currentText = getTextByNumber(item.number);
+  const currentText = getTextByNumber(Number(item.number));
   if (!visible) {
     return null;
   }
