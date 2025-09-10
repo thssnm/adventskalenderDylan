@@ -1,9 +1,8 @@
 import { useState, useEffect } from "react";
 
 // Supabase Konfiguration (ersetze mit deinen Werten)
-const SUPABASE_URL = "https://ccxkyyvevkwsozvsuxry.supabase.co";
-const SUPABASE_KEY =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNjeGt5eXZldmt3c296dnN1eHJ5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTY4OTA2NzUsImV4cCI6MjA3MjQ2NjY3NX0.eaMKMzgc5oqrEHyrRP6w8Ed0cfqAH_z4a2ytj_Fx-ao";
+const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL || "";
+const SUPABASE_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "";
 
 // Types
 export interface AdventText {
@@ -72,6 +71,10 @@ export const useAdventCalendar = (): UseAdventCalendarReturn => {
   const [texts, setTexts] = useState<AdventText[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+
+  if (!SUPABASE_URL || !SUPABASE_KEY) {
+    console.error("⚠️ Supabase Environment Variables fehlen in Viewer App!");
+  }
 
   // Alle Texte laden
   const loadTexts = async (): Promise<void> => {

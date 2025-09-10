@@ -31,12 +31,12 @@ export const CalendarItem = ({
     | "inherit"
   >("none");
 
-  const isActive =
+  /* const isActive =
     (Number(item.number) <= new Date().getDate() &&
       new Date().getMonth() === 11) ||
-    count > 9;
+    count > 9; */
   // const isActive = Number(item.number) <= 17 || count > 19
-  //const isActive = true
+  const isActive = true;
 
   const onPressItem = () => {
     if (isActive) {
