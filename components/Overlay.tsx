@@ -16,7 +16,7 @@ export const Overlay = ({
 }) => {
   const { getTextByNumber } = useAdventCalendar();
 
-  const currentText = getTextByNumber(item.number) || "nothing";
+  const currentText = getTextByNumber(item.number);
   if (!visible) {
     return null;
   }
@@ -49,9 +49,9 @@ export const Overlay = ({
         }}
       >
         <h2 style={{ color: "white" }}>{item.number}</h2>
-        <h3 style={{ color: "white" }}>{currentText.title}</h3>
+        <h3 style={{ color: "white" }}>{currentText?.title}</h3>
         <div>
-          <MarkdownRenderer content={currentText.content} />
+          <MarkdownRenderer content={currentText?.content} />
         </div>
       </div>
     </div>
