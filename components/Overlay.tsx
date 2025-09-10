@@ -63,11 +63,15 @@ export const Overlay = ({
   );
 };
 
-const MarkdownRenderer = ({ content }) => {
+interface MarkdownRendererProps {
+  content: string | null | undefined;
+}
+
+const MarkdownRenderer = ({ content }: MarkdownRendererProps) => {
   if (!content) return <p className="text-gray-500">Kein Inhalt verfügbar</p>;
 
   // Einfache Markdown-zu-HTML Konvertierung
-  const renderMarkdown = (text) => {
+  const renderMarkdown = (text: string) => {
     // Sicherstellen, dass text ein String ist
     const textString = String(text || "");
 
