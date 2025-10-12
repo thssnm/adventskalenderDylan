@@ -73,23 +73,48 @@ const MarkdownRenderer = ({ content }: MarkdownRendererProps) => {
   const renderMarkdown = (text: string): string => {
     let html = String(text || "");
 
-    console.log("=== MARKDOWN DEBUG ===");
-    console.log("Input:", html);
-
-    // Test ob der Regex matcht
-    const linkMatches = html.match(/\[([^\]]+)\]\s*\(([^)]+)\)/g);
-    console.log("Found links:", linkMatches);
-
-    // Links ersetzen
+    // Links (mit oder ohne Leerzeichen zwischen ] und ()
     html = html.replace(
       /\[([^\]]+)\]\s*\(([^)]+)\)/g,
-      (match, linkText, url) => {
-        console.log("Replacing:", { match, linkText, url });
-        return `<a href="${url}" style="color: #60a5fa; text-decoration: underline;" target="_blank" rel="noopener noreferrer">${linkText}</a>`;
-      }
+      '<a href="$2" style="color: #60a5fa; text-decoration: underline;" target="_blank" rel="noopener noreferrer">$1</a>'
     );
 
-    console.log("Output HTML:", html);
+    // Überschriften
+    html = html.replace(
+      /^### (.*$)/gm,
+      '<h3 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.5rem; margin-top: 1rem; color: white;">$1</h3>'
+    );
+    html = html.replace(
+      /^## (.*$)/gm,
+      '<h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 0.75rem; margin-top: 1.5rem; color: white;">$1</h2>'
+    );
+    html = html.replace(
+      /^# (.*$)/gm,
+      '<h1 style="font-size: 1.875rem; font-weight: bold; margin-bottom: 1rem; margin-top: 2rem; color: white;">$1</h1>'
+    );
+
+    // Fett und Kursiv
+    html = html.replace(
+      /\*\*([^*]+)\*\*/g,
+      '<strong style="font-weight: bold; color: white;">$1</strong>'
+    );
+    html = html.replace(
+      /\*([^*]+)\*/g,
+      '<em style="font-style: italic; color: white;">$1</em>'
+    );
+
+    // Listen
+    html = html.replace(
+      /^- (.*$)/gm,
+      '<li style="margin-left: 1.5rem; margin-bottom: 0.25rem; color: white;">$1</li>'
+    );
+
+    // Zeilenumbrüche
+    html = html.replace(
+      /\n\n/g,
+      '</p><p style="margin-bottom: 1rem; color: white;">'
+    );
+    html = html.replace(/\n/g, "<br>");
 
     return html;
   };
@@ -97,7 +122,11 @@ const MarkdownRenderer = ({ content }: MarkdownRendererProps) => {
   return (
     <div
       style={{ color: "white" }}
-      dangerouslySetInnerHTML={{ __html: renderMarkdown(content) }}
+      dangerouslySetInnerHTML={{
+        __html: `<p style="margin-bottom: 1rem; color: white;">${renderMarkdown(
+          content
+        )}</p>`,
+      }}
     />
   );
 };
