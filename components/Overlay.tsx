@@ -68,42 +68,64 @@ interface MarkdownRendererProps {
 }
 
 const MarkdownRenderer = ({ content }: MarkdownRendererProps) => {
-  if (!content) return <p className="text-gray-500">Kein Inhalt verfügbar</p>;
+  if (!content) return <p style={{ color: "white" }}>Kein Inhalt verfügbar</p>;
 
-  // Einfache Markdown-zu-HTML Konvertierung
-  const renderMarkdown = (text: string) => {
-    // Sicherstellen, dass text ein String ist
-    const textString = String(text || "");
+  const renderMarkdown = (text: string): string => {
+    let html = String(text || "");
 
-    return textString
-      .replace(
-        /^# (.*$)/gm,
-        '<h1 class="text-3xl font-bold mb-4 text-black">$1</h1>'
-      )
-      .replace(
-        /^## (.*$)/gm,
-        '<h2 class="text-2xl font-semibold mb-3 text-black">$1</h2>'
-      )
-      .replace(
-        /^### (.*$)/gm,
-        '<h3 class="text-xl font-medium mb-2 text-black">$1</h3>'
-      )
-      .replace(/\*\*(.*?)\*\*/g, '<strong class="font-bold">$1</strong>')
-      .replace(/\*(.*?)\*/g, '<em class="italic">$1</em>')
-      .replace(/^- (.*$)/gm, '<li class="ml-4">• $1</li>')
-      .replace(
-        /\[([^\]]+)\]\(([^)]+)\)/g,
-        '<a href="$2" class="text-blue-600 hover:underline">$1</a>'
-      )
-      .replace(/\n\n/g, '</p><p class="mb-4 text-black">')
-      .replace(/\n/g, "<br>");
+    // Links ZUERST verarbeiten - Format: [Text](URL)
+    html = html.replace(
+      /\[([^\]]+)\]\(([^)]+)\)/g,
+      '<a href="$2" style="color: #3b82f6; text-decoration: underline;" target="_blank" rel="noopener noreferrer">$1</a>'
+    );
+
+    // Überschriften (von spezifisch zu allgemein)
+    html = html.replace(
+      /^### (.*$)/gm,
+      '<h3 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.5rem; margin-top: 1rem; color: white;">$1</h3>'
+    );
+    html = html.replace(
+      /^## (.*$)/gm,
+      '<h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 0.75rem; margin-top: 1.5rem; color: white;">$1</h2>'
+    );
+    html = html.replace(
+      /^# (.*$)/gm,
+      '<h1 style="font-size: 1.875rem; font-weight: bold; margin-bottom: 1rem; margin-top: 2rem; color: white;">$1</h1>'
+    );
+
+    // Fett und Kursiv
+    html = html.replace(
+      /\*\*([^*]+)\*\*/g,
+      '<strong style="font-weight: bold; color: white;">$1</strong>'
+    );
+    html = html.replace(
+      /\*([^*]+)\*/g,
+      '<em style="font-style: italic; color: white;">$1</em>'
+    );
+
+    // Listen
+    html = html.replace(
+      /^- (.*$)/gm,
+      '<li style="margin-left: 1.5rem; margin-bottom: 0.25rem; color: white;">$1</li>'
+    );
+
+    // Absätze
+    html = html.replace(
+      /\n\n/g,
+      '</p><p style="margin-bottom: 1rem; color: white;">'
+    );
+    html = html.replace(/\n/g, "<br>");
+
+    return html;
   };
 
   return (
     <div
-      className="prose max-w-none text-black"
+      style={{ color: "white" }}
       dangerouslySetInnerHTML={{
-        __html: `<p class="mb-4 text-black">${renderMarkdown(content)}</p>`,
+        __html: `<p style="margin-bottom: 1rem; color: white;">${renderMarkdown(
+          content
+        )}</p>`,
       }}
     />
   );
