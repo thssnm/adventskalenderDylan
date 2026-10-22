@@ -52,7 +52,7 @@ export default function Home() {
             color: "white",
           }}
         >
-          Adventskalender 2025
+          Adventskalender 2026
         </p>
         <div
           style={{
