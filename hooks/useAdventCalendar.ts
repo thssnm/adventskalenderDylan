@@ -97,7 +97,6 @@ export const useAdventCalendar = (): UseAdventCalendarReturn => {
 
   // Einzelnen Text nach Nummer laden
   const getTextByNumber = (textNumber: number): AdventText | undefined => {
-    console.log("texts:", texts);
     return texts.find((text) => text.text_number === textNumber);
   };
 

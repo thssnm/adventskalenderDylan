@@ -1,90 +1,103 @@
 import Head from "next/head";
-import styles from "../styles/Home.module.css";
+import styles from "../styles/Calendar.module.css";
 import React from "react";
 import { CalendarItem } from "../components/CalendarItem";
+import { Overlay } from "../components/Overlay";
 import { numbers } from "../components/numbers";
+import { useAdventCalendar } from "../hooks/useAdventCalendar";
+import {
+  isDoorUnlocked,
+  isGodMode,
+  isToday,
+  loadOpenedDoors,
+  saveOpenedDoors,
+} from "../lib/calendar";
 import Snowfall from "react-snowfall";
 import Link from "next/link";
 
 export default function Home() {
   const [count, setCount] = React.useState(0);
+  // Datum erst im Browser setzen, damit SSR und Client nicht auseinanderlaufen
+  const [now, setNow] = React.useState<Date | null>(null);
+  const [openedDoors, setOpenedDoors] = React.useState<number[]>([]);
+  const [activeDay, setActiveDay] = React.useState<number | null>(null);
+  const { getTextByNumber, loading } = useAdventCalendar();
+
+  const godMode = isGodMode(count);
+
+  React.useEffect(() => {
+    setNow(new Date());
+    setOpenedDoors(loadOpenedDoors(window.localStorage));
+  }, []);
+
+  const onOpen = React.useCallback((day: number) => {
+    setActiveDay(day);
+    setOpenedDoors((prev) => {
+      if (prev.includes(day)) return prev;
+      const next = [...prev, day];
+      saveOpenedDoors(next, window.localStorage);
+      return next;
+    });
+  }, []);
+
+  const onClose = React.useCallback(() => setActiveDay(null), []);
 
   return (
-    <div className={styles.container}>
+    <div className={styles.page}>
       <Head>
         <style>
           @import
-          url(https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap);
+          url(https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Inter:wght@400;600&display=swap);
         </style>
 
         <title> Adventskalender Dylan & Harper</title>
       </Head>
+      <Snowfall color="rgba(255,255,255,0.7)" snowflakeCount={120} />
       <main className={styles.main}>
-        <Snowfall />
-        {count > 9 && (
-          <p style={{ position: "absolute", top: 0 }}>god mode activated!</p>
-        )}
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-between",
-            alignItems: "center",
-            fontFamily: "Libre Baskerville",
-            fontSize: "2em",
-            marginTop: 24,
-            color: "white",
-          }}
-        >
-          <p>Dylan</p>
-          <p
-            onClick={() => setCount(count + 1)}
-            style={{ fontStyle: "italic" }}
-          >
-            &nbsp;&&nbsp;
-          </p>
-          <p>Harper</p>
-        </div>
-        <p
-          style={{
-            fontFamily: "Libre Baskerville",
-            fontSize: "1.2em",
-            marginTop: -24,
-            color: "white",
-          }}
-        >
-          Adventskalender 2026
-        </p>
-        <div
-          style={{
-            // backgroundImage: "url(https://image.jimcdn.com/app/cms/image/transf/dimension=505x10000:format=jpg/path/sfb26f3d4a5091d4b/image/i1622a35d21611052/version/1700642134/kaffe-agaro.jpg)",
-            backgroundImage:
-              "url(https://image.jimcdn.com/app/cms/image/transf/dimension=750x1280:format=jpg/path/sfb26f3d4a5091d4b/image/i14cef6bfd58e258d/version/1711008085/image.jpg)",
-            backgroundSize: "cover",
-            opacity: 0.8,
-            borderRadius: 12,
-          }}
-        >
-          <div
-            style={{
-              flexDirection: "row",
-              display: "flex",
-              flexWrap: "wrap",
-              justifyContent: "space-between",
-              maxWidth: 450,
-              minWidth: 370,
-            }}
-          >
-            {numbers.map((item) => {
+        {godMode && <p className={styles.godMode}>god mode activated!</p>}
+        <header className={styles.header}>
+          <h1 className={styles.brand}>
+            <span>Dylan</span>
+            <span
+              className={styles.ampersand}
+              onClick={() => setCount(count + 1)}
+            >
+              &
+            </span>
+            <span>Harper</span>
+          </h1>
+          <p className={styles.subtitle}>Adventskalender 2026</p>
+        </header>
+
+        <div className={styles.board}>
+          <div className={styles.grid}>
+            {numbers.map((item, index) => {
+              const day = Number(item.number);
               return (
-                <CalendarItem key={item.number} item={item} count={count} />
+                <CalendarItem
+                  key={item.number}
+                  day={day}
+                  index={index}
+                  unlocked={!!now && isDoorUnlocked(day, now, godMode)}
+                  today={!!now && isToday(day, now)}
+                  opened={openedDoors.includes(day)}
+                  onOpen={onOpen}
+                />
               );
             })}
           </div>
         </div>
-        <Link style={{ marginTop: 100, color: "#ffffffbb" }} href="imprint">
+
+        <Link className={styles.footerLink} href="imprint">
           Impressum
         </Link>
       </main>
+      <Overlay
+        day={activeDay}
+        text={activeDay !== null ? getTextByNumber(activeDay) : undefined}
+        loading={loading}
+        onClose={onClose}
+      />
     </div>
   );
 }
